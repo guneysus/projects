@@ -100,6 +100,10 @@ def build_readme(projects, duplicates):
     for p in projects:
         by_source[p["source"]].append(p)
 
+    # Separate forks from original projects
+    originals = [p for p in projects if not p.get("fork")]
+    forks = [p for p in projects if p.get("fork")]
+
     lines = [
         "# 🗂️ Project Archive Index",
         "",
@@ -123,6 +127,7 @@ def build_readme(projects, duplicates):
         f"- **Total projects:** {len(projects)}",
         f"- **GitHub projects:** {len(by_source['github'])}",
         f"- **GitLab projects:** {len(by_source['gitlab'])}",
+        f"- **Forks:** {len(forks)}",
         f"- **Duplicates (in multiple archives):** {len(duplicates)}",
         "",
         "## ⚠️ Duplicates",
@@ -141,35 +146,40 @@ def build_readme(projects, duplicates):
         lines.append("_No duplicates detected._")
     lines.append("")
 
-    # GitHub projects
+    # Combined table for all projects (originals + forks), with source column
     lines += [
-        "## 🐙 GitHub Projects",
+        "## 🗂️ Projects",
         "",
-        "| Project | Visibility | Fork | Archived | Last activity | Description |",
+        "| Project | Source | Visibility | Archived | Last activity | Description |",
         "| --- | :-: | :-: | :-: | :-: | --- |",
     ]
-    for p in sorted(by_source["github"], key=lambda x: x["name"].lower()):
+    for p in sorted(originals + forks, key=lambda x: x["name"].lower()):
         dup = " ⚠️" if p["name"] in duplicates else ""
+        src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
             f"| [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
+            f"{src} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
-            f"{'yes' if p.get('fork') else 'no'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
             f"{p.get('last_activity','—')} | {p.get('description') or ''} |"
         )
     lines.append("")
 
-    # GitLab projects
+    # Forks section
     lines += [
-        "## 🦊 GitLab Projects",
+        "## 🍴 Forks",
         "",
-        "| Project | Visibility | Archived | Last activity | Description |",
-        "| --- | :-: | :-: | :-: | --- |",
+        "> Forked repositories — kept for reference, not original projects.",
+        "",
+        "| Project | Source | Visibility | Archived | Last activity | Description |",
+        "| --- | :-: | :-: | :-: | :-: | --- |",
     ]
-    for p in sorted(by_source["gitlab"], key=lambda x: x["name"].lower()):
+    for p in sorted(forks, key=lambda x: x["name"].lower()):
         dup = " ⚠️" if p["name"] in duplicates else ""
+        src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
             f"| [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
+            f"{src} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
             f"{p.get('last_activity','—')} | {p.get('description') or ''} |"
