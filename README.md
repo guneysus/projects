@@ -15,7 +15,7 @@
 - **Total projects:** 288
 - **GitHub projects:** 255
 - **GitLab projects:** 33
-- **Forks:** 65
+- **Forks:** 67
 - **Duplicates (in multiple archives):** 2
 
 ## ⚠️ Duplicates
@@ -72,57 +72,55 @@ Projects are organized into subfolders by technology/domain.
 | 33 | [dotnet-sandbox](projects/dotnet/dotnet-sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 | 34 | [dotnet-sandbox-2](projects/dotnet/dotnet-sandbox-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 | 35 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | aspnet core image resizing web app with upload, delete support via REST interface |
-| 36 | [DotNetHooking](projects/dotnet/DotNetHooking.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 37 | [Dymo](projects/dotnet/Dymo.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
-| 38 | [ecma-standarts](projects/dotnet/ecma-standarts.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 39 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
-| 40 | [encryption-sandbox](projects/dotnet/encryption-sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 41 | [evil-regex-routing](projects/dotnet/evil-regex-routing.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 42 | [evil-regexes-tests](projects/dotnet/evil-regexes-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 43 | [experiments](projects/dotnet/experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 44 | [extension-methods](projects/dotnet/extension-methods.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 45 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 46 | [functions](projects/dotnet/functions.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 47 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
-| 48 | [hg](projects/dotnet/hg.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | HG: DSL for Html Generation |
-| 49 | [http-experiments](projects/dotnet/http-experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 50 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
-| 51 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 52 | [mock-server](projects/dotnet/mock-server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 53 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
-| 54 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
-| 55 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) | 🐙 GitHub | 🔒 | ❌ | 2024-11-26 |  |
-| 56 | [pe](projects/dotnet/pe.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 57 | [peview](projects/dotnet/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
-| 58 | [play-with-performance-counters](projects/dotnet/play-with-performance-counters.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 59 | [powertoys-new-plus-templates](projects/dotnet/powertoys-new-plus-templates.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 60 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 61 | [predicate-builder](projects/dotnet/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 62 | [reader](projects/dotnet/reader.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 63 | [redis-backed-dictionary](projects/dotnet/redis-backed-dictionary.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 64 | [redis-backed-dictionary-tests](projects/dotnet/redis-backed-dictionary-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 65 | [sample-tests](projects/dotnet/sample-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 66 | [Sandbox](projects/dotnet/Sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 67 | [sandbox-net](projects/dotnet/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 68 | [server](projects/dotnet/server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 69 | [sid](projects/dotnet/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
-| 70 | [source-generators](projects/dotnet/source-generators.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 71 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
-| 72 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
-| 73 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) | 🐙 GitHub | 🔒 | ❌ | 2025-02-07 |  |
-| 74 | [stored_procedures](projects/dotnet/stored_procedures.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 75 | [system32](projects/dotnet/system32.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 76 | [telnet](projects/dotnet/telnet.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 77 | [testere](projects/dotnet/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 78 | [todo-gql](projects/dotnet/todo-gql.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
-| 79 | [triggers](projects/dotnet/triggers.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 80 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
-| 81 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
-| 82 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 83 | [underscore.net](projects/dotnet/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
-| 84 | [views](projects/dotnet/views.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 85 | [wxdatcom](projects/dotnet/wxdatcom.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | My Graduate Project /  Interactive DATCOM wxWidgets GUI |
-| 86 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 36 | [Dymo](projects/dotnet/Dymo.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
+| 37 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
+| 38 | [encryption-sandbox](projects/dotnet/encryption-sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 39 | [evil-regex-routing](projects/dotnet/evil-regex-routing.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 40 | [evil-regexes-tests](projects/dotnet/evil-regexes-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 41 | [experiments](projects/dotnet/experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 42 | [extension-methods](projects/dotnet/extension-methods.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
+| 43 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 44 | [functions](projects/dotnet/functions.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 45 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
+| 46 | [hg](projects/dotnet/hg.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | HG: DSL for Html Generation |
+| 47 | [http-experiments](projects/dotnet/http-experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 48 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
+| 49 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 50 | [mock-server](projects/dotnet/mock-server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 51 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
+| 52 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
+| 53 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) | 🐙 GitHub | 🔒 | ❌ | 2024-11-26 |  |
+| 54 | [pe](projects/dotnet/pe.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 55 | [peview](projects/dotnet/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
+| 56 | [play-with-performance-counters](projects/dotnet/play-with-performance-counters.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 57 | [powertoys-new-plus-templates](projects/dotnet/powertoys-new-plus-templates.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 58 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
+| 59 | [predicate-builder](projects/dotnet/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 60 | [reader](projects/dotnet/reader.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 61 | [redis-backed-dictionary](projects/dotnet/redis-backed-dictionary.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 62 | [redis-backed-dictionary-tests](projects/dotnet/redis-backed-dictionary-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 63 | [sample-tests](projects/dotnet/sample-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 64 | [Sandbox](projects/dotnet/Sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 65 | [sandbox-net](projects/dotnet/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 66 | [server](projects/dotnet/server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 67 | [sid](projects/dotnet/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
+| 68 | [source-generators](projects/dotnet/source-generators.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 69 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
+| 70 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
+| 71 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) | 🐙 GitHub | 🔒 | ❌ | 2025-02-07 |  |
+| 72 | [stored_procedures](projects/dotnet/stored_procedures.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 73 | [system32](projects/dotnet/system32.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 74 | [telnet](projects/dotnet/telnet.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 75 | [testere](projects/dotnet/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 76 | [todo-gql](projects/dotnet/todo-gql.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
+| 77 | [triggers](projects/dotnet/triggers.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 78 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
+| 79 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
+| 80 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 81 | [underscore.net](projects/dotnet/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
+| 82 | [views](projects/dotnet/views.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 83 | [wxdatcom](projects/dotnet/wxdatcom.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | My Graduate Project /  Interactive DATCOM wxWidgets GUI |
+| 84 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 
 ### 💻 CLI Tools
 
@@ -348,46 +346,48 @@ Projects are organized into subfolders by technology/domain.
 | 23 | [docker-baseimage-rdesktop-web](forks/docker-baseimage-rdesktop-web.md) | 🐙 GitHub | 🔓 | ✅ | 2025-01-15 | Custom all in one container for running GUI apps from a web browser |
 | 24 | [docker-rdesktop](forks/docker-rdesktop.md) | 🐙 GitHub | 🔓 | ✅ | 2022-02-26 |  |
 | 25 | [DoH-IP-blocklists](forks/DoH-IP-blocklists.md) | 🐙 GitHub | 🔓 | ✅ | 2026-08-01 | This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server |
-| 26 | [DotNextMoscow2019](forks/DotNextMoscow2019.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 27 | [EzanVaktiAPI](forks/EzanVaktiAPI.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
-| 28 | [har-spec](forks/har-spec.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | The HTTP Archive Spec |
-| 29 | [heceleme](forks/heceleme.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 30 | [Heijden.Dns](forks/Heijden.Dns.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 31 | [ildasm](forks/ildasm.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 32 | [ILProgramming](forks/ILProgramming.md) | 🐙 GitHub | 🔓 | ✅ | 2023-02-18 | Coding close to the .NET Runtime using ILProj, ildasm, ilasm |
-| 33 | [ILProj](forks/ILProj.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-24 |  |
-| 34 | [keys](forks/keys.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 |  |
-| 35 | [lcnc-security-engine](forks/lcnc-security-engine.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
-| 36 | [LightQuery](forks/LightQuery.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-28 | Lightweight solution for sorting and paging Asp.Net Core API results |
-| 37 | [loadlibrary](forks/loadlibrary.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Porting Windows Dynamic Link Libraries to Linux |
-| 38 | [managed-x86](forks/managed-x86.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 39 | [MethodRedirect](forks/MethodRedirect.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 40 | [minsk](forks/minsk.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
-| 41 | [mssql-TableTruncate](forks/mssql-TableTruncate.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 42 | [mssqlfs](forks/mssqlfs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 43 | [nemerle](forks/nemerle.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-22 | Nemerle language. Main repository. |
-| 44 | [NGINX-Demos](forks/NGINX-Demos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-04 | NGINX and NGINX Plus demos |
-| 45 | [NRules](forks/NRules.md) | 🐙 GitHub | 🔓 | ✅ | 2021-11-03 | Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. |
-| 46 | [ntpserver](forks/ntpserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 47 | [Object-Initialization-in-CSharp](forks/Object-Initialization-in-CSharp.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | A C# Pill that highlights the order in which the fields, properties and constructors, both static and instance, are initialized in C#. |
-| 48 | [Parallel-Evolution](forks/Parallel-Evolution.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 49 | [perfect-presentation](forks/perfect-presentation.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-25 | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
-| 50 | [performance-optimization](forks/performance-optimization.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Guidance on how to observe, measure, and correct common issues in a cloud-based system. |
-| 51 | [PiOBDII](forks/PiOBDII.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 52 | [playbook](forks/playbook.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 53 | [PluginFramework](forks/PluginFramework.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-21 | Everything is a Plugin in .NET |
-| 54 | [pose](forks/pose.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Replace any .NET method (including static and non-virtual) with a delegate |
-| 55 | [project-switcher](forks/project-switcher.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | hassle free project switching |
-| 56 | [Random-Problems](forks/Random-Problems.md) | 🐙 GitHub | 🔓 | ✅ | 2021-12-16 | What actually happens when we use a Random instance from multiple threads? Can we do something to make it thread-safe? |
-| 57 | [selenium-webdriver-winappdriver-example](forks/selenium-webdriver-winappdriver-example.md) | 🐙 GitHub | 🔓 | ✅ | 2022-01-04 | An example of selenium-webdriver and winappdriver integration |
-| 58 | [snake](forks/snake.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 59 | [sscli20_20060311](forks/sscli20_20060311.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Version: 2.0 Date Published: 3/23/2006. The Shared Source CLI is a compressed archive of the source code to a working implementation of the ECMA CLI and the ECMA C# language specification. This implementation builds and runs on Windows XP. |
-| 60 | [symreader-converter](forks/symreader-converter.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Converts between Windows PDB and Portable PDB formats. |
-| 61 | [Todos](forks/Todos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-26 | Various todo list backend API implementations |
-| 62 | [understanding-csrf](forks/understanding-csrf.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | What are CSRF tokens and how do they work? |
-| 63 | [uxplay](forks/uxplay.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 |  |
-| 64 | [Virtual-in-Constructor](forks/Virtual-in-Constructor.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
-| 65 | [vulnerable-api](forks/vulnerable-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 26 | [DotNetHooking](forks/DotNetHooking.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 27 | [DotNextMoscow2019](forks/DotNextMoscow2019.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 28 | [ecma-standarts](forks/ecma-standarts.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
+| 29 | [EzanVaktiAPI](forks/EzanVaktiAPI.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
+| 30 | [har-spec](forks/har-spec.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | The HTTP Archive Spec |
+| 31 | [heceleme](forks/heceleme.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 32 | [Heijden.Dns](forks/Heijden.Dns.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 33 | [ildasm](forks/ildasm.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 34 | [ILProgramming](forks/ILProgramming.md) | 🐙 GitHub | 🔓 | ✅ | 2023-02-18 | Coding close to the .NET Runtime using ILProj, ildasm, ilasm |
+| 35 | [ILProj](forks/ILProj.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-24 |  |
+| 36 | [keys](forks/keys.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 |  |
+| 37 | [lcnc-security-engine](forks/lcnc-security-engine.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
+| 38 | [LightQuery](forks/LightQuery.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-28 | Lightweight solution for sorting and paging Asp.Net Core API results |
+| 39 | [loadlibrary](forks/loadlibrary.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Porting Windows Dynamic Link Libraries to Linux |
+| 40 | [managed-x86](forks/managed-x86.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 41 | [MethodRedirect](forks/MethodRedirect.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 42 | [minsk](forks/minsk.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
+| 43 | [mssql-TableTruncate](forks/mssql-TableTruncate.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 44 | [mssqlfs](forks/mssqlfs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 45 | [nemerle](forks/nemerle.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-22 | Nemerle language. Main repository. |
+| 46 | [NGINX-Demos](forks/NGINX-Demos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-04 | NGINX and NGINX Plus demos |
+| 47 | [NRules](forks/NRules.md) | 🐙 GitHub | 🔓 | ✅ | 2021-11-03 | Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. |
+| 48 | [ntpserver](forks/ntpserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 49 | [Object-Initialization-in-CSharp](forks/Object-Initialization-in-CSharp.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | A C# Pill that highlights the order in which the fields, properties and constructors, both static and instance, are initialized in C#. |
+| 50 | [Parallel-Evolution](forks/Parallel-Evolution.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 51 | [perfect-presentation](forks/perfect-presentation.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-25 | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
+| 52 | [performance-optimization](forks/performance-optimization.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Guidance on how to observe, measure, and correct common issues in a cloud-based system. |
+| 53 | [PiOBDII](forks/PiOBDII.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 54 | [playbook](forks/playbook.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 55 | [PluginFramework](forks/PluginFramework.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-21 | Everything is a Plugin in .NET |
+| 56 | [pose](forks/pose.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Replace any .NET method (including static and non-virtual) with a delegate |
+| 57 | [project-switcher](forks/project-switcher.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | hassle free project switching |
+| 58 | [Random-Problems](forks/Random-Problems.md) | 🐙 GitHub | 🔓 | ✅ | 2021-12-16 | What actually happens when we use a Random instance from multiple threads? Can we do something to make it thread-safe? |
+| 59 | [selenium-webdriver-winappdriver-example](forks/selenium-webdriver-winappdriver-example.md) | 🐙 GitHub | 🔓 | ✅ | 2022-01-04 | An example of selenium-webdriver and winappdriver integration |
+| 60 | [snake](forks/snake.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 61 | [sscli20_20060311](forks/sscli20_20060311.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Version: 2.0 Date Published: 3/23/2006. The Shared Source CLI is a compressed archive of the source code to a working implementation of the ECMA CLI and the ECMA C# language specification. This implementation builds and runs on Windows XP. |
+| 62 | [symreader-converter](forks/symreader-converter.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Converts between Windows PDB and Portable PDB formats. |
+| 63 | [Todos](forks/Todos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-26 | Various todo list backend API implementations |
+| 64 | [understanding-csrf](forks/understanding-csrf.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | What are CSRF tokens and how do they work? |
+| 65 | [uxplay](forks/uxplay.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 |  |
+| 66 | [Virtual-in-Constructor](forks/Virtual-in-Constructor.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
+| 67 | [vulnerable-api](forks/vulnerable-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 
 ---
 
