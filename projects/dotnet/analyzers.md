@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | Library (.NET) |
+| **Size** | Medium |
+| **Rating** | Multi |
+| **Score** | 50 |
 
 ## Links
 

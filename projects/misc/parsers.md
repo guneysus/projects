@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | C# |
+| **Type** | Web App (Node.js) |
+| **Size** | Medium |
+| **Rating** | Multi |
+| **Score** | 25 |
 
 ## Links
 

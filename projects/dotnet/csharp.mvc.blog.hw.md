@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | Blog |
+| **Size** | Medium |
+| **Rating** | 62 |
 
 ## Links
 

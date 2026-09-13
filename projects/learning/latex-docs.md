@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | Shell |
+| **Type** | Miscellaneous |
+| **Size** | Small |
+| **Rating** | 52 |
 
 ## Links
 

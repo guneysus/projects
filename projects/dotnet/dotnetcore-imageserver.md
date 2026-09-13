@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | DevOps/Docker |
+| **Size** | Medium |
+| **Rating** | 74 |
 
 ## Links
 

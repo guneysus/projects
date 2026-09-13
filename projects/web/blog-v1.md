@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Markdown |
+| **Type** | Web App (ASP.NET) |
+| **Size** | Large |
+| **Rating** | Multi |
 
 ## Links
 

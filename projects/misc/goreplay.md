@@ -16,6 +16,7 @@
 | **Status** | ❌ Not archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Score** | 20 |
 
 ## Links
 

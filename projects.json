@@ -1541,7 +1541,7 @@
     },
     {
       "name": "gitops-config",
-      "description": "k8s manifests files for continious deployment",
+      "description": "This project contains Kubernetes configurations for deploying applications using GitOps principles.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-08-02",
@@ -1551,7 +1551,11 @@
       "archive_path": "repos/gitlab.com/guneysu/gitops-config",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null
+      "duplicate_of": null,
+      "language": "YAML",
+      "project_type": "Configuration",
+      "size": "Small",
+      "rating": "52"
     },
     {
       "name": "homelab-caddy-config",
@@ -1624,7 +1628,7 @@
     },
     {
       "name": "prompt-library",
-      "description": "LLM Prompts",
+      "description": "A curated collection of reusable prompts for various AI and LLM applications.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-08-02",
@@ -1634,7 +1638,11 @@
       "archive_path": "repos/gitlab.com/guneysu/prompt-library",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null
+      "duplicate_of": null,
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "50"
     },
     {
       "name": "surmene",
@@ -3757,7 +3765,7 @@
     },
     {
       "name": "gitops-config",
-      "description": "k8s manifests files for continious deployment",
+      "description": "This project contains Kubernetes configurations for deploying applications using GitOps principles.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-08-02",
@@ -3767,7 +3775,11 @@
       "archive_path": "repos/guneysu/gitops-config",
       "archive_repo": "gitlab-archive",
       "canonical": false,
-      "duplicate_of": "gitops-config"
+      "duplicate_of": "gitops-config",
+      "language": "YAML",
+      "project_type": "Configuration",
+      "size": "Small",
+      "rating": "52"
     },
     {
       "name": "homelab-caddy-config",
@@ -3840,7 +3852,7 @@
     },
     {
       "name": "prompt-library",
-      "description": "LLM Prompts",
+      "description": "A curated collection of reusable prompts for various AI and LLM applications.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-08-02",
@@ -3850,7 +3862,11 @@
       "archive_path": "repos/guneysu/prompt-library",
       "archive_repo": "gitlab-archive",
       "canonical": false,
-      "duplicate_of": "prompt-library"
+      "duplicate_of": "prompt-library",
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "50"
     },
     {
       "name": "surmene",
@@ -4056,7 +4072,7 @@
     },
     {
       "name": "analyzers",
-      "description": "C# code analyzers",
+      "description": "-   Discourerage using DateTime",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
@@ -4067,11 +4083,15 @@
       "archive_path": "repos/github.com/guneysus-archieve/analyzers",
       "canonical": false,
       "duplicate_of": "analyzers",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "50"
     },
     {
       "name": "app.namazvaktim",
-      "description": "https://guneysus.github.io/app.namazvaktim/",
+      "description": "> Prayer Times",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4081,7 +4101,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/app.namazvaktim",
       "canonical": false,
-      "duplicate_of": "app.namazvaktim"
+      "duplicate_of": "app.namazvaktim",
+      "language": "JavaScript",
+      "project_type": "Mobile (Android)",
+      "size": "Medium",
+      "rating": "68"
     },
     {
       "name": "asm",
@@ -4142,7 +4166,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/aspnet-core-streaming",
       "canonical": false,
-      "duplicate_of": "aspnet-core-streaming"
+      "duplicate_of": "aspnet-core-streaming",
+      "language": "C#",
+      "project_type": "Web App (ASP.NET)",
+      "size": "Medium",
+      "rating": "66"
     },
     {
       "name": "aws_list_all",
@@ -4212,7 +4240,7 @@
     },
     {
       "name": "blog-v1",
-      "description": "blog sources",
+      "description": "HEX: #567c73",
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-09-06",
@@ -4222,7 +4250,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/blog-v1",
       "canonical": false,
-      "duplicate_of": "blog-v1"
+      "duplicate_of": "blog-v1",
+      "language": "Markdown",
+      "project_type": "Web App (ASP.NET)",
+      "size": "Large",
+      "rating": "Multi"
     },
     {
       "name": "blog-v2",
@@ -4294,7 +4326,7 @@
     },
     {
       "name": "browser-pick",
-      "description": "Android like selecting application for specific URLs, protocols etc. [WIP]",
+      "description": "Browser bookmark management utility",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4304,7 +4336,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/browser-pick",
       "canonical": false,
-      "duplicate_of": "browser-pick"
+      "duplicate_of": "browser-pick",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "58"
     },
     {
       "name": "bug.report-docker-3106",
@@ -4355,7 +4391,7 @@
     },
     {
       "name": "chess.js",
-      "description": "A brand new OOP Chess modeling with ES6",
+      "description": "JavaScript chess engine",
       "visibility": "public",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4365,7 +4401,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/chess.js",
       "canonical": false,
-      "duplicate_of": "chess.js"
+      "duplicate_of": "chess.js",
+      "language": "JavaScript",
+      "project_type": "Library (Node.js)",
+      "size": "Small",
+      "rating": "58"
     },
     {
       "name": "coding-interview-university",
@@ -4430,7 +4470,7 @@
     },
     {
       "name": "crem",
-      "description": "Crud Made Easy for .asp net core",
+      "description": "Crud Made Easy",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4440,7 +4480,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/crem",
       "canonical": false,
-      "duplicate_of": "crem"
+      "duplicate_of": "crem",
+      "language": "C#",
+      "project_type": "Web App (ASP.NET)",
+      "size": "Medium",
+      "rating": "Multi"
     },
     {
       "name": "CSharpExpressionTreesInTheRealWorld",
@@ -4519,7 +4563,7 @@
     },
     {
       "name": "Devup",
-      "description": "YAML based, docker-compose like tools, helping to start development environments. The idea @ybrs's project-switcher, reimplemented with .NET.",
+      "description": "> YAML based, docker-compose like tools, helping to start development environments",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4529,11 +4573,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Devup",
       "canonical": false,
-      "duplicate_of": "Devup"
+      "duplicate_of": "Devup",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "64"
     },
     {
       "name": "dingil",
-      "description": "Generate POCO class and assembly by only defining an YAML file",
+      "description": "> Generates simple CRUD APIs whose models are defined with YAMLs",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4543,11 +4591,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dingil",
       "canonical": false,
-      "duplicate_of": "dingil"
+      "duplicate_of": "dingil",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Large",
+      "rating": "Multi"
     },
     {
       "name": "dinq",
-      "description": "Dynamic Query Tool",
+      "description": "Dynamic LINQ query builder",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4557,7 +4609,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dinq",
       "canonical": false,
-      "duplicate_of": "dinq"
+      "duplicate_of": "dinq",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "68"
     },
     {
       "name": "dlr",
@@ -4636,7 +4692,7 @@
     },
     {
       "name": "docker-images",
-      "description": "docker images that updated regulary by TravisCI",
+      "description": "Custom Docker images",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4646,7 +4702,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/docker-images",
       "canonical": false,
-      "duplicate_of": "docker-images"
+      "duplicate_of": "docker-images",
+      "language": "Dockerfile",
+      "project_type": "DevOps/Docker",
+      "size": "Medium",
+      "rating": "66"
     },
     {
       "name": "docker-rdesktop",
@@ -4696,7 +4756,7 @@
     },
     {
       "name": "dotnet-core-plugins",
-      "description": ".NET core plugging architechture",
+      "description": ".NET Core plugin system",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4706,7 +4766,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dotnet-core-plugins",
       "canonical": false,
-      "duplicate_of": "dotnet-core-plugins"
+      "duplicate_of": "dotnet-core-plugins",
+      "language": "Markdown",
+      "project_type": "Library/Extension",
+      "size": "Small",
+      "rating": "68"
     },
     {
       "name": "dotnet-dynamic-assembly-loading",
@@ -4756,11 +4820,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022",
       "canonical": false,
-      "duplicate_of": "dotnet-how-to-debug-source-generator-vs2022"
+      "duplicate_of": "dotnet-how-to-debug-source-generator-vs2022",
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "57"
     },
     {
       "name": "dotnet-html-gen",
-      "description": "Generate HTML with fluent API",
+      "description": "var doc = document(",
       "visibility": "public",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4770,11 +4838,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dotnet-html-gen",
       "canonical": false,
-      "duplicate_of": "dotnet-html-gen"
+      "duplicate_of": "dotnet-html-gen",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "64"
     },
     {
       "name": "dotnet-mock-server",
-      "description": "declarative mock server with fake data generation capabilities for .NET Core 2.1+",
+      "description": "!Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -4784,7 +4856,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dotnet-mock-server",
       "canonical": false,
-      "duplicate_of": "dotnet-mock-server"
+      "duplicate_of": "dotnet-mock-server",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Medium",
+      "rating": "80"
     },
     {
       "name": "dotnet-reversing",
@@ -4849,6 +4925,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/EfCoreQueryToolbar",
       "canonical": false,
       "duplicate_of": "EfCoreQueryToolbar",
+      "language": "C#",
+      "project_type": "Web App (ASP.NET)",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "20"
     },
     {
@@ -4921,7 +5001,7 @@
     },
     {
       "name": "git-jump",
-      "description": "quickly jump branches from CLI",
+      "description": "Jump between git branches using your keyboard up/down arrow keys.",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
@@ -4932,6 +5012,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/git-jump",
       "canonical": false,
       "duplicate_of": "git-jump",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "74",
       "score": "55"
     },
     {
@@ -4985,7 +5069,7 @@
     },
     {
       "name": "GraphQL.Tools",
-      "description": "GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums.",
+      "description": "!PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com)",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
@@ -4996,6 +5080,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/GraphQL.Tools",
       "canonical": false,
       "duplicate_of": "GraphQL.Tools",
+      "language": "C#",
+      "project_type": "API (GraphQL)",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "60"
     },
     {
@@ -5053,7 +5141,7 @@
     },
     {
       "name": "guneysus.github.io-archieved",
-      "description": "github home page",
+      "description": "- exif(exif/)",
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
@@ -5064,11 +5152,15 @@
       "archive_path": "repos/github.com/guneysus-archieve/guneysus.github.io-archieved",
       "canonical": false,
       "duplicate_of": "guneysus.github.io-archieved",
+      "language": "HTML",
+      "project_type": "Library (Node.js)",
+      "size": "Small",
+      "rating": "54",
       "score": "50"
     },
     {
       "name": "hugo-theme-monochrome",
-      "description": "Monochrome is a fast, clean and responsive hugo theme",
+      "description": "A fast, clean and responsive hugo theme",
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-10-17",
@@ -5079,6 +5171,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/hugo-theme-monochrome",
       "canonical": false,
       "duplicate_of": "hugo-theme-monochrome",
+      "language": "Markdown",
+      "project_type": "DevOps/CI",
+      "size": "Large",
+      "rating": "70",
       "score": "10"
     },
     {
@@ -5109,6 +5205,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/keychron-layouts",
       "canonical": false,
       "duplicate_of": "keychron-layouts",
+      "language": "JSON",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "56",
       "score": "10"
     },
     {
@@ -5368,7 +5468,7 @@
     },
     {
       "name": "nqrgen",
-      "description": "CLI based QR generator",
+      "description": "scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-01-09",
@@ -5379,6 +5479,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/nqrgen",
       "canonical": false,
       "duplicate_of": "nqrgen",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "60",
       "score": "30"
     },
     {
@@ -5394,6 +5498,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/NullCollectionFix.Fody",
       "canonical": false,
       "duplicate_of": "NullCollectionFix.Fody",
+      "language": "C#",
+      "project_type": "CLI Tool",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "25"
     },
     {
@@ -5432,7 +5540,7 @@
     },
     {
       "name": "parsers",
-      "description": "Modular Antlr4 Parser & Lexers for big projects",
+      "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-01-09",
@@ -5443,6 +5551,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/parsers",
       "canonical": false,
       "duplicate_of": "parsers",
+      "language": "C#",
+      "project_type": "Web App (Node.js)",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "25"
     },
     {
@@ -5458,6 +5570,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing",
       "canonical": false,
       "duplicate_of": "personal-blog-theme-gohugo-soothing",
+      "language": "HTML",
+      "project_type": "Blog",
+      "size": "Small",
+      "rating": "64",
       "score": "70"
     },
     {
@@ -5507,6 +5623,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/prompts",
       "canonical": false,
       "duplicate_of": "prompts",
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "60",
       "score": "0"
     },
     {
@@ -5545,7 +5665,7 @@
     },
     {
       "name": "rende",
-      "description": "CLI based template renderer with various engines",
+      "description": "scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-01-09",
@@ -5556,6 +5676,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/rende",
       "canonical": false,
       "duplicate_of": "rende",
+      "language": "JSON",
+      "project_type": "Library (.NET)",
+      "size": "Medium",
+      "rating": "58",
       "score": "25"
     },
     {
@@ -5609,7 +5733,7 @@
     },
     {
       "name": "SqlServer.Rules",
-      "description": "120+ SQL Server static code analysis rules for SQL Database Projects",
+      "description": "A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-04-02",
@@ -5620,11 +5744,15 @@
       "archive_path": "repos/github.com/guneysus-archieve/SqlServer.Rules",
       "canonical": false,
       "duplicate_of": "SqlServer.Rules",
+      "language": "C#",
+      "project_type": "Web App (Node.js)",
+      "size": "Large",
+      "rating": "Multi",
       "score": "20"
     },
     {
       "name": "Startup-CTO-Handbook",
-      "description": "The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams",
+      "description": "You can view the latest content of the book in markdown here(StartupCTOHandbook.md)",
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-04-02",
@@ -5635,6 +5763,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/Startup-CTO-Handbook",
       "canonical": false,
       "duplicate_of": "Startup-CTO-Handbook",
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "58",
       "score": "20"
     },
     {
@@ -5669,6 +5801,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/todo-gql",
       "canonical": false,
       "duplicate_of": "todo-gql",
+      "language": "C#",
+      "project_type": "API (GraphQL)",
+      "size": "Medium",
+      "rating": "Multi",
       "score": "10"
     },
     {
@@ -5699,6 +5835,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/tutorial-serverless-contact-form",
       "canonical": false,
       "duplicate_of": "tutorial-serverless-contact-form",
+      "language": "JSON",
+      "project_type": "Sample/Tutorial",
+      "size": "Small",
+      "rating": "58",
       "score": "10"
     },
     {
@@ -5748,7 +5888,7 @@
     },
     {
       "name": "wsdl2swagger2openapi",
-      "description": "Converts WSDL files to OpenAPI v3.0.x, streamlining API scan integration with Burp Suite",
+      "description": "wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of",
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-10-17",
@@ -5759,11 +5899,15 @@
       "archive_path": "repos/github.com/guneysus-archieve/wsdl2swagger2openapi",
       "canonical": false,
       "duplicate_of": "wsdl2swagger2openapi",
+      "language": "JavaScript",
+      "project_type": "Library (Node.js)",
+      "size": "Small",
+      "rating": "72",
       "score": "30"
     },
     {
       "name": "wxdatcom",
-      "description": "My Graduate Project /  Interactive DATCOM wxWidgets GUI",
+      "description": "Very slow import",
       "visibility": "public",
       "fork": false,
       "last_activity": "2023-01-28",
@@ -5774,11 +5918,15 @@
       "archive_path": "repos/github.com/guneysus-archieve/wxdatcom",
       "canonical": false,
       "duplicate_of": "wxdatcom",
+      "language": "C",
+      "project_type": "Miscellaneous",
+      "size": "Medium",
+      "rating": "56",
       "score": "85"
     },
     {
       "name": "dotnetcore-imageserver",
-      "description": "aspnet core image resizing web app with upload, delete support via REST interface",
+      "description": "Simple Image for uploading for serving resized and cropped images.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -5788,7 +5936,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dotnetcore-imageserver",
       "canonical": false,
-      "duplicate_of": "dotnetcore-imageserver"
+      "duplicate_of": "dotnetcore-imageserver",
+      "language": "C#",
+      "project_type": "DevOps/Docker",
+      "size": "Medium",
+      "rating": "74"
     },
     {
       "name": "DotNetHooking",
@@ -5820,7 +5972,7 @@
     },
     {
       "name": "git-ctf",
-      "description": "Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴",
+      "description": "Empty repository — no files to archive.",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-05-28",
@@ -5830,11 +5982,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/git-ctf",
       "canonical": false,
-      "duplicate_of": "git-ctf"
+      "duplicate_of": "git-ctf",
+      "language": "Markdown",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "50"
     },
     {
       "name": "git-presentation",
-      "description": "This repo (will) contain the presentation \"Git & Github Guide\"",
+      "description": "There original presentation is here(http://careitu.github.io/git-presentation/ \"Care ITU Git & Github Presentation\")",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -5844,11 +6000,15 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/git-presentation",
       "canonical": false,
-      "duplicate_of": "git-presentation"
+      "duplicate_of": "git-presentation",
+      "language": "CSS",
+      "project_type": "Miscellaneous",
+      "size": "Medium",
+      "rating": "52"
     },
     {
       "name": "hg",
-      "description": "HG: DSL for Html Generation",
+      "description": "HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation.",
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
@@ -5859,6 +6019,10 @@
       "archive_path": "repos/github.com/guneysus-archieve/hg",
       "canonical": false,
       "duplicate_of": "hg",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Small",
+      "rating": "82",
       "score": "50"
     },
     {
@@ -5965,7 +6129,7 @@
     },
     {
       "name": "interview-downtime-alerter-service",
-      "description": "Downtime Alert Service with ASP.Net Core",
+      "description": "user/passwords:",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -5975,7 +6139,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/interview-downtime-alerter-service",
       "canonical": false,
-      "duplicate_of": "interview-downtime-alerter-service"
+      "duplicate_of": "interview-downtime-alerter-service",
+      "language": "C#",
+      "project_type": "Library (.NET)",
+      "size": "Medium",
+      "rating": "Multi"
     },
     {
       "name": "interview-project-mars-rover-tdd",
@@ -6297,7 +6465,7 @@
     },
     {
       "name": "peview",
-      "description": "Web based HEX viewer. The goal was developing a Web based PE Viewer.",
+      "description": "Web based hex viewer, WIP Portable Executable Inspector.",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -6307,7 +6475,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/peview",
       "canonical": false,
-      "duplicate_of": "peview"
+      "duplicate_of": "peview",
+      "language": "JavaScript",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "64"
     },
     {
       "name": "PiOBDII",
@@ -6457,7 +6629,7 @@
     },
     {
       "name": "pytotube",
-      "description": "Simple 1D Thermal problem solver",
+      "description": "YouTube downloader",
       "visibility": "public",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -6467,7 +6639,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/pytotube",
       "canonical": false,
-      "duplicate_of": "pytotube"
+      "duplicate_of": "pytotube",
+      "language": "XML",
+      "project_type": "Miscellaneous",
+      "size": "Small",
+      "rating": "50"
     },
     {
       "name": "Random-Problems",
@@ -6545,7 +6721,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/sid",
       "canonical": false,
-      "duplicate_of": "sid"
+      "duplicate_of": "sid",
+      "language": "C#",
+      "project_type": "CLI Tool",
+      "size": "Medium",
+      "rating": "78"
     },
     {
       "name": "side-projects",
@@ -6617,7 +6797,7 @@
     },
     {
       "name": "speedcrunch.net",
-      "description": "Parser based expression evaluator",
+      "description": "SpeedCrunch port",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -6627,7 +6807,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/speedcrunch.net",
       "canonical": false,
-      "duplicate_of": "speedcrunch.net"
+      "duplicate_of": "speedcrunch.net",
+      "language": "C#",
+      "project_type": "Web App (Node.js)",
+      "size": "Medium",
+      "rating": "72"
     },
     {
       "name": "sql-injection",
@@ -6733,7 +6917,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/underscore.net",
       "canonical": false,
-      "duplicate_of": "underscore.net"
+      "duplicate_of": "underscore.net",
+      "language": "C#",
+      "project_type": "DevOps/CI",
+      "size": "Medium",
+      "rating": "Multi"
     },
     {
       "name": "understanding-csrf",
@@ -6825,7 +7013,7 @@
     },
     {
       "name": "wox-prayer-times-plugin",
-      "description": "wox prayer times plugin",
+      "description": "wox plugins",
       "visibility": "private",
       "fork": false,
       "last_activity": "2024-10-14",
@@ -6835,7 +7023,11 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/wox-prayer-times-plugin",
       "canonical": false,
-      "duplicate_of": "wox-prayer-times-plugin"
+      "duplicate_of": "wox-prayer-times-plugin",
+      "language": "C#",
+      "project_type": "Library/Extension",
+      "size": "Small",
+      "rating": "58"
     },
     {
       "name": "wxdatcom-2",

@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu.dev` |
+| **Language** | Markdown |
+| **Type** | Web App (Node.js) |
+| **Size** | Small |
+| **Rating** | 62 |
 
 ## Links
 

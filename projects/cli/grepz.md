@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | JSON |
+| **Type** | Library (.NET) |
+| **Size** | Medium |
+| **Rating** | 64 |
+| **Score** | 20 |
 
 ## Links
 

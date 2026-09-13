@@ -133,7 +133,9 @@ def _parse_scores_csv(path):
 def enrich_projects(projects, archive_local_path, branch="develop"):
     """Enrich project entries with metadata from the archive repo's data files.
 
-    Only fills in missing/placeholder values; existing curated metadata is kept.
+    The README analysis table is the most descriptive source and takes
+    precedence for descriptions/language/type/size/rating. Other data files
+    fill in fork flags, archived status, dates, and scores.
     """
     readme_content = _read_branch_file(archive_local_path, branch, "README.md")
     repos_json = os.path.join(archive_local_path, "data", "repos-archive-guneysus.json")
@@ -148,13 +150,16 @@ def enrich_projects(projects, archive_local_path, branch="develop"):
         name = p["name"]
         changed = False
 
-        # Description from README analysis (most descriptive)
-        if name in analysis and not p.get("description"):
-            p["description"] = analysis[name]["description"]
-            p["language"] = analysis[name]["language"]
-            p["project_type"] = analysis[name]["type"]
-            p["size"] = analysis[name]["size"]
-            p["rating"] = analysis[name]["rating"]
+        # Description + analysis fields from README analysis (most descriptive,
+        # takes precedence over existing values)
+        if name in analysis:
+            a = analysis[name]
+            if a["description"]:
+                p["description"] = a["description"]
+            p["language"] = a["language"]
+            p["project_type"] = a["type"]
+            p["size"] = a["size"]
+            p["rating"] = a["rating"]
             changed = True
         elif name in repos and not p.get("description") and repos[name].get("description"):
             p["description"] = repos[name]["description"]

@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | PowerShell |
+| **Type** | DevOps/Docker |
+| **Size** | Small |
+| **Rating** | 62 |
 
 ## Links
 

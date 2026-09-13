@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Markdown |
+| **Type** | CLI Tool |
+| **Size** | Medium |
+| **Rating** | 60 |
+| **Score** | 40 |
 
 ## Links
 

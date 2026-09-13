@@ -1,6 +1,6 @@
 # gitops-config
 
-> k8s manifests files for continious deployment
+> This project contains Kubernetes configurations for deploying applications using GitOps principles.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,13 +9,17 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `gitops-config` |
-| **Description** | k8s manifests files for continious deployment |
+| **Description** | This project contains Kubernetes configurations for deploying applications using GitOps principles. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | YAML |
+| **Type** | Configuration |
+| **Size** | Small |
+| **Rating** | 52 |
 
 ## Links
 

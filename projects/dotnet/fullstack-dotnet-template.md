@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | YAML |
+| **Type** | DevOps/CI |
+| **Size** | Small |
+| **Rating** | 54 |
 
 ## Links
 

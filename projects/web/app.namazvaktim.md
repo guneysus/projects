@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | JavaScript |
+| **Type** | Mobile (Android) |
+| **Size** | Medium |
+| **Rating** | 68 |
 
 ## Links
 

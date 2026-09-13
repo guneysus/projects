@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | API (GraphQL) |
+| **Size** | Medium |
+| **Rating** | Multi |
+| **Score** | 10 |
 
 ## Links
 

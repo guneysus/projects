@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | YAML |
+| **Type** | DevOps/Docker |
+| **Size** | Small |
+| **Rating** | 58 |
 
 ## Links
 

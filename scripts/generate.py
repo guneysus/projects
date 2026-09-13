@@ -107,6 +107,18 @@ def build_project_page(project, duplicates):
         f"| **Status** | {archived} |",
         f"| **Original source** | {project['source'].capitalize()} |",
         f"| **Original owner** | `{project['owner']}` |",
+    ]
+    if project.get("language"):
+        lines.append(f"| **Language** | {project['language']} |")
+    if project.get("project_type"):
+        lines.append(f"| **Type** | {project['project_type']} |")
+    if project.get("size"):
+        lines.append(f"| **Size** | {project['size']} |")
+    if project.get("rating"):
+        lines.append(f"| **Rating** | {project['rating']} |")
+    if project.get("score"):
+        lines.append(f"| **Score** | {project['score']} |")
+    lines += [
         "",
         "## Links",
         "",
@@ -201,8 +213,8 @@ def build_readme(projects, duplicates):
             "",
             f"> {cat['description']}",
             "",
-            "| # | Project | Source | Visibility | Archived | Last activity | Description |",
-            "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
+            "| # | Project | Source | Language | Visibility | Archived | Last activity | Description |",
+            "| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |",
         ]
         for i, p in enumerate(sorted(by_cat[cat_key], key=lambda x: x["name"].lower()), start=1):
             if p.get("canonical") and p["name"] in duplicates:
@@ -211,10 +223,12 @@ def build_readme(projects, duplicates):
                 marker = " ⚠️"
             else:
                 marker = ""
+            lang = p.get("language") or "—"
             src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
             lines.append(
                 f"| {i} | [{p['name']}]({page_rel_path(p)}){marker} | "
                 f"{src} | "
+                f"{lang} | "
                 f"{'🔓' if p['visibility']=='public' else '🔒'} | "
                 f"{'✅' if p.get('archived') else '❌'} | "
                 f"{p.get('last_activity','—')} | {p.get('description') or ''} |"

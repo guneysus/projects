@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | CLI Tool |
+| **Size** | Medium |
+| **Rating** | 78 |
 
 ## Links
 

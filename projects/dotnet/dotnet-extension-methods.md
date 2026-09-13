@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | JSON |
+| **Type** | Library/Extension |
+| **Size** | Small |
+| **Rating** | 58 |
 
 ## Links
 

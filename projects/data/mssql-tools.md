@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | SQL |
+| **Type** | Database Tool |
+| **Size** | Small |
+| **Rating** | 58 |
 
 ## Links
 

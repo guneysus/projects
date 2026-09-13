@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Dockerfile |
+| **Type** | DevOps/Docker |
+| **Size** | Medium |
+| **Rating** | 66 |
 
 ## Links
 

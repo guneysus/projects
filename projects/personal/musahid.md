@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Python |
+| **Type** | Library (Python) |
+| **Size** | Small |
+| **Rating** | 58 |
 
 ## Links
 

@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu.dev` |
+| **Language** | C# |
+| **Type** | Library (.NET) |
+| **Size** | Small |
+| **Rating** | 52 |
 
 ## Links
 

@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | Source Generator |
+| **Size** | Small |
+| **Rating** | 73 |
+| **Score** | 50 |
 
 ## Links
 

@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | JSON |
+| **Type** | Sample/Tutorial |
+| **Size** | Small |
+| **Rating** | 46 |
 
 ## Links
 

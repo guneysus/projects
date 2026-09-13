@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | HTML |
+| **Type** | Blog |
+| **Size** | Small |
+| **Rating** | 64 |
+| **Score** | 70 |
 
 ## Links
 

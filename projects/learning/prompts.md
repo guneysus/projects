@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Markdown |
+| **Type** | Miscellaneous |
+| **Size** | Small |
+| **Rating** | 60 |
+| **Score** | 0 |
 
 ## Links
 

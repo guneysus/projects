@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | YAML |
+| **Type** | Template |
+| **Size** | Small |
+| **Rating** | 46 |
 
 ## Links
 

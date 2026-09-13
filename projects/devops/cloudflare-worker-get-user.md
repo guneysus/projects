@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu.dev` |
+| **Language** | JSON |
+| **Type** | Library (Node.js) |
+| **Size** | Small |
+| **Rating** | 58 |
 
 ## Links
 

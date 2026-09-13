@@ -1,6 +1,6 @@
 # prompt-library
 
-> LLM Prompts
+> A curated collection of reusable prompts for various AI and LLM applications.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,13 +9,17 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prompt-library` |
-| **Description** | LLM Prompts |
+| **Description** | A curated collection of reusable prompts for various AI and LLM applications. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | Markdown |
+| **Type** | Miscellaneous |
+| **Size** | Small |
+| **Rating** | 50 |
 
 ## Links
 

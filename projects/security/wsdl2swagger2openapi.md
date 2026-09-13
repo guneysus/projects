@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | JavaScript |
+| **Type** | Library (Node.js) |
+| **Size** | Small |
+| **Rating** | 72 |
+| **Score** | 30 |
 
 ## Links
 

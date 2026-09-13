@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Lua |
+| **Type** | Miscellaneous |
+| **Size** | Small |
+| **Rating** | 60 |
 
 ## Links
 

@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | TypeScript |
+| **Type** | Web App (Node.js) |
+| **Size** | Medium |
+| **Rating** | 60 |
+| **Score** | 10 |
 
 ## Links
 

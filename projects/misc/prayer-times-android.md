@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | XML |
+| **Type** | Mobile (Android) |
+| **Size** | Medium |
+| **Rating** | 62 |
 
 ## Links
 

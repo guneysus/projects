@@ -156,408 +156,408 @@ Projects are organized into subfolders by technology/domain.
 
 > C#, .NET Core, and .NET ecosystem projects
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [.cli-template_dotnet](projects/dotnet/.cli-template_dotnet.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2024-12-11 | .NET CLI Tool Template |
-| 2 | [.cli-template_dotnet](projects/dotnet/.cli-template_dotnet.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2024-12-11 | .NET CLI Tool Template |
-| 3 | [acme-welcome-dotnet](projects/dotnet/acme-welcome-dotnet.md) ⭐ | 🦊 GitLab | 🔒 | ✅ |  | command log |
-| 4 | [acme-welcome-dotnet](projects/dotnet/acme-welcome-dotnet.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | command log |
-| 5 | [allocate-huge-memory](projects/dotnet/allocate-huge-memory.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 6 | [analyzers](projects/dotnet/analyzers.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | -   Discourerage using DateTime |
-| 7 | [analyzers](projects/dotnet/analyzers.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | C# code analyzers |
-| 8 | [asp-net-sample-apps](projects/dotnet/asp-net-sample-apps.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 9 | [asp-net-sample-apps](projects/dotnet/asp-net-sample-apps.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 10 | [aspcore-sample-apps](projects/dotnet/aspcore-sample-apps.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Sample ASP.NET Core applications |
-| 11 | [aspcore-sample-apps](projects/dotnet/aspcore-sample-apps.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Sample ASP.NET Core applications |
-| 12 | [aspnet](projects/dotnet/aspnet.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 13 | [aspnet-core-streaming](projects/dotnet/aspnet-core-streaming.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | ASP.Net Streaming to the Client |
-| 14 | [aspnet-core-streaming](projects/dotnet/aspnet-core-streaming.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | ASP.Net Streaming to the Client |
-| 15 | [aspnetcore-custom-router](projects/dotnet/aspnetcore-custom-router.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 16 | [chunked-response](projects/dotnet/chunked-response.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 17 | [claims-based-authorization](projects/dotnet/claims-based-authorization.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 18 | [crem](projects/dotnet/crem.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Crud Made Easy |
-| 19 | [crem](projects/dotnet/crem.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Crud Made Easy for .asp net core |
-| 20 | [csharp-connected-disconnected](projects/dotnet/csharp-connected-disconnected.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Connected vs disconnected data access demo |
-| 21 | [csharp-connected-disconnected](projects/dotnet/csharp-connected-disconnected.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Connected vs disconnected data access demo |
-| 22 | [csharp.dotnet.custom-config-generator](projects/dotnet/csharp.dotnet.custom-config-generator.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Custom config generator for .NET |
-| 23 | [csharp.dotnet.custom-config-generator](projects/dotnet/csharp.dotnet.custom-config-generator.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Custom config generator for .NET |
-| 24 | [csharp.generic.db.view](projects/dotnet/csharp.generic.db.view.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Generic database viewer |
-| 25 | [csharp.generic.db.view](projects/dotnet/csharp.generic.db.view.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Generic database viewer |
-| 26 | [csharp.hw.northwind.sepet](projects/dotnet/csharp.hw.northwind.sepet.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Sipariş/Sepet |
-| 27 | [csharp.hw.northwind.sepet](projects/dotnet/csharp.hw.northwind.sepet.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Sipariş/Sepet |
-| 28 | [csharp.mvc.blog.hw](projects/dotnet/csharp.mvc.blog.hw.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | MVC blog homework |
-| 29 | [csharp.mvc.blog.hw](projects/dotnet/csharp.mvc.blog.hw.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | MVC blog homework |
-| 30 | [csharp.mvc.nw.intro](projects/dotnet/csharp.mvc.nw.intro.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Northwind MVC intro |
-| 31 | [csharp.mvc.nw.intro](projects/dotnet/csharp.mvc.nw.intro.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Northwind MVC intro |
-| 32 | [csharp.oop.uygulama](projects/dotnet/csharp.oop.uygulama.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 33 | [csharp.winforms.autocomplete](projects/dotnet/csharp.winforms.autocomplete.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
-| 34 | [csharp.winforms.autocomplete](projects/dotnet/csharp.winforms.autocomplete.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
-| 35 | [dingil](projects/dotnet/dingil.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | > Generates simple CRUD APIs whose models are defined with YAMLs |
-| 36 | [dingil](projects/dotnet/dingil.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Generate POCO class and assembly by only defining an YAML file |
-| 37 | [dinq](projects/dotnet/dinq.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Dynamic LINQ query builder |
-| 38 | [dinq](projects/dotnet/dinq.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Dynamic Query Tool |
-| 39 | [dnlib](projects/dotnet/dnlib.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 40 | [dotnet](projects/dotnet/dotnet.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 41 | [dotnet-core-plugins](projects/dotnet/dotnet-core-plugins.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | .NET Core plugin system |
-| 42 | [dotnet-core-plugins](projects/dotnet/dotnet-core-plugins.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | .NET core plugging architechture |
-| 43 | [dotnet-dynamic-assembly-loading](projects/dotnet/dotnet-dynamic-assembly-loading.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Dynamic assembly loading |
-| 44 | [dotnet-dynamic-assembly-loading](projects/dotnet/dotnet-dynamic-assembly-loading.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Dynamic assembly loading |
-| 45 | [dotnet-expression-trees](projects/dotnet/dotnet-expression-trees.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  |  |
-| 46 | [dotnet-expression-trees](projects/dotnet/dotnet-expression-trees.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 47 | [dotnet-extension-methods](projects/dotnet/dotnet-extension-methods.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 48 | [dotnet-extension-methods](projects/dotnet/dotnet-extension-methods.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 49 | [dotnet-how-to-debug-source-generator-vs2022](projects/dotnet/dotnet-how-to-debug-source-generator-vs2022.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
-| 50 | [dotnet-how-to-debug-source-generator-vs2022](projects/dotnet/dotnet-how-to-debug-source-generator-vs2022.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
-| 51 | [dotnet-html-gen](projects/dotnet/dotnet-html-gen.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | var doc = document( |
-| 52 | [dotnet-html-gen](projects/dotnet/dotnet-html-gen.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | Generate HTML with fluent API |
-| 53 | [dotnet-mock-server](projects/dotnet/dotnet-mock-server.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | !Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) |
-| 54 | [dotnet-mock-server](projects/dotnet/dotnet-mock-server.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | declarative mock server with fake data generation capabilities for .NET Core 2.1+ |
-| 55 | [dotnet-reversing](projects/dotnet/dotnet-reversing.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | .NET reverse engineering |
-| 56 | [dotnet-reversing](projects/dotnet/dotnet-reversing.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | .NET reverse engineering |
-| 57 | [dotnet-sandbox](projects/dotnet/dotnet-sandbox.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | .NET code sandbox |
-| 58 | [dotnet-sandbox](projects/dotnet/dotnet-sandbox.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | .NET code sandbox |
-| 59 | [dotnet-sandbox-2](projects/dotnet/dotnet-sandbox-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 60 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Simple Image for uploading for serving resized and cropped images. |
-| 61 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | aspnet core image resizing web app with upload, delete support via REST interface |
-| 62 | [Dymo](projects/dotnet/Dymo.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
-| 63 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
-| 64 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
-| 65 | [encryption-sandbox](projects/dotnet/encryption-sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 66 | [evil-regex-routing](projects/dotnet/evil-regex-routing.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 67 | [evil-regexes-tests](projects/dotnet/evil-regexes-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 68 | [experiments](projects/dotnet/experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 69 | [extension-methods](projects/dotnet/extension-methods.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 70 | [extension-methods](projects/dotnet/extension-methods.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 71 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
-| 72 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
-| 73 | [functions](projects/dotnet/functions.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 74 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com) |
-| 75 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2026-07-31 | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
-| 76 | [hg](projects/dotnet/hg.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation. |
-| 77 | [hg](projects/dotnet/hg.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2026-07-31 | HG: DSL for Html Generation |
-| 78 | [http-experiments](projects/dotnet/http-experiments.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 79 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | user/passwords: |
-| 80 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
-| 81 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | dotnet test |
-| 82 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | dotnet test |
-| 83 | [mock-server](projects/dotnet/mock-server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 84 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
-| 85 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-18 |  |
-| 86 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
-| 87 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2024-11-26 | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
-| 88 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2024-11-26 | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
-| 89 | [pe](projects/dotnet/pe.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 90 | [peview](projects/dotnet/peview.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Web based hex viewer, WIP Portable Executable Inspector. |
-| 91 | [peview](projects/dotnet/peview.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
-| 92 | [play-with-performance-counters](projects/dotnet/play-with-performance-counters.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 93 | [powertoys-new-plus-templates](projects/dotnet/powertoys-new-plus-templates.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 94 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
-| 95 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
-| 96 | [predicate-builder](projects/dotnet/predicate-builder.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Simple predicate string parser |
-| 97 | [predicate-builder](projects/dotnet/predicate-builder.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple predicate string parser |
-| 98 | [reader](projects/dotnet/reader.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 99 | [redis-backed-dictionary](projects/dotnet/redis-backed-dictionary.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 100 | [redis-backed-dictionary-tests](projects/dotnet/redis-backed-dictionary-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 101 | [sample-tests](projects/dotnet/sample-tests.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 102 | [Sandbox](projects/dotnet/Sandbox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 103 | [sandbox-net](projects/dotnet/sandbox-net.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | https://stackoverflow.com/a/13187820/1766716 |
-| 104 | [sandbox-net](projects/dotnet/sandbox-net.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | https://stackoverflow.com/a/13187820/1766716 |
-| 105 | [server](projects/dotnet/server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 106 | [sid](projects/dotnet/sid.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Simple Declarative Web Apps |
-| 107 | [sid](projects/dotnet/sid.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
-| 108 | [source-generators](projects/dotnet/source-generators.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 109 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | SpeedCrunch port |
-| 110 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
-| 111 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 112 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
-| 113 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-02-07 | Sample Applications |
-| 114 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-02-07 | Sample Applications |
-| 115 | [stored_procedures](projects/dotnet/stored_procedures.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 116 | [system32](projects/dotnet/system32.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 117 | [telnet](projects/dotnet/telnet.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 118 | [testere](projects/dotnet/testere.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest |
-| 119 | [testere](projects/dotnet/testere.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest |
-| 120 | [todo-gql](projects/dotnet/todo-gql.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-01-09 |  |
-| 121 | [todo-gql](projects/dotnet/todo-gql.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
-| 122 | [triggers](projects/dotnet/triggers.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 123 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
-| 124 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
-| 125 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | > side projects documentation |
-| 126 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | > side projects documentation |
-| 127 | [underscore.net](projects/dotnet/underscore.net.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
-| 128 | [underscore.net](projects/dotnet/underscore.net.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
-| 129 | [views](projects/dotnet/views.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 130 | [wxdatcom](projects/dotnet/wxdatcom.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-08-01 | Very slow import |
-| 131 | [wxdatcom](projects/dotnet/wxdatcom.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | My Graduate Project /  Interactive DATCOM wxWidgets GUI |
-| 132 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Very slow import |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [.cli-template_dotnet](projects/dotnet/.cli-template_dotnet.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2024-12-11 | .NET CLI Tool Template |
+| 2 | [.cli-template_dotnet](projects/dotnet/.cli-template_dotnet.md) ⚠️ | 🐙 GitHub | — | 🔒 | ❌ | 2024-12-11 | .NET CLI Tool Template |
+| 3 | [acme-welcome-dotnet](projects/dotnet/acme-welcome-dotnet.md) ⭐ | 🦊 GitLab | C# | 🔒 | ✅ |  | command log |
+| 4 | [acme-welcome-dotnet](projects/dotnet/acme-welcome-dotnet.md) ⚠️ | 🦊 GitLab | C# | 🔒 | ✅ | 2026-08-02 | command log |
+| 5 | [allocate-huge-memory](projects/dotnet/allocate-huge-memory.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 6 | [analyzers](projects/dotnet/analyzers.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | -   Discourerage using DateTime |
+| 7 | [analyzers](projects/dotnet/analyzers.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | -   Discourerage using DateTime |
+| 8 | [asp-net-sample-apps](projects/dotnet/asp-net-sample-apps.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 9 | [asp-net-sample-apps](projects/dotnet/asp-net-sample-apps.md) ⚠️ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 10 | [aspcore-sample-apps](projects/dotnet/aspcore-sample-apps.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ |  | Sample ASP.NET Core applications |
+| 11 | [aspcore-sample-apps](projects/dotnet/aspcore-sample-apps.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ✅ | 2024-10-14 | Sample ASP.NET Core applications |
+| 12 | [aspnet](projects/dotnet/aspnet.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 13 | [aspnet-core-streaming](projects/dotnet/aspnet-core-streaming.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | ASP.Net Streaming to the Client |
+| 14 | [aspnet-core-streaming](projects/dotnet/aspnet-core-streaming.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | ASP.Net Streaming to the Client |
+| 15 | [aspnetcore-custom-router](projects/dotnet/aspnetcore-custom-router.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 16 | [chunked-response](projects/dotnet/chunked-response.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 17 | [claims-based-authorization](projects/dotnet/claims-based-authorization.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 18 | [crem](projects/dotnet/crem.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Crud Made Easy |
+| 19 | [crem](projects/dotnet/crem.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Crud Made Easy |
+| 20 | [csharp-connected-disconnected](projects/dotnet/csharp-connected-disconnected.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Connected vs disconnected data access demo |
+| 21 | [csharp-connected-disconnected](projects/dotnet/csharp-connected-disconnected.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Connected vs disconnected data access demo |
+| 22 | [csharp.dotnet.custom-config-generator](projects/dotnet/csharp.dotnet.custom-config-generator.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Custom config generator for .NET |
+| 23 | [csharp.dotnet.custom-config-generator](projects/dotnet/csharp.dotnet.custom-config-generator.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Custom config generator for .NET |
+| 24 | [csharp.generic.db.view](projects/dotnet/csharp.generic.db.view.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Generic database viewer |
+| 25 | [csharp.generic.db.view](projects/dotnet/csharp.generic.db.view.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Generic database viewer |
+| 26 | [csharp.hw.northwind.sepet](projects/dotnet/csharp.hw.northwind.sepet.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Sipariş/Sepet |
+| 27 | [csharp.hw.northwind.sepet](projects/dotnet/csharp.hw.northwind.sepet.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Sipariş/Sepet |
+| 28 | [csharp.mvc.blog.hw](projects/dotnet/csharp.mvc.blog.hw.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | MVC blog homework |
+| 29 | [csharp.mvc.blog.hw](projects/dotnet/csharp.mvc.blog.hw.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | MVC blog homework |
+| 30 | [csharp.mvc.nw.intro](projects/dotnet/csharp.mvc.nw.intro.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Northwind MVC intro |
+| 31 | [csharp.mvc.nw.intro](projects/dotnet/csharp.mvc.nw.intro.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Northwind MVC intro |
+| 32 | [csharp.oop.uygulama](projects/dotnet/csharp.oop.uygulama.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 33 | [csharp.winforms.autocomplete](projects/dotnet/csharp.winforms.autocomplete.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
+| 34 | [csharp.winforms.autocomplete](projects/dotnet/csharp.winforms.autocomplete.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
+| 35 | [dingil](projects/dotnet/dingil.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | > Generates simple CRUD APIs whose models are defined with YAMLs |
+| 36 | [dingil](projects/dotnet/dingil.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | > Generates simple CRUD APIs whose models are defined with YAMLs |
+| 37 | [dinq](projects/dotnet/dinq.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Dynamic LINQ query builder |
+| 38 | [dinq](projects/dotnet/dinq.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Dynamic LINQ query builder |
+| 39 | [dnlib](projects/dotnet/dnlib.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 40 | [dotnet](projects/dotnet/dotnet.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 41 | [dotnet-core-plugins](projects/dotnet/dotnet-core-plugins.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | .NET Core plugin system |
+| 42 | [dotnet-core-plugins](projects/dotnet/dotnet-core-plugins.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2024-10-14 | .NET Core plugin system |
+| 43 | [dotnet-dynamic-assembly-loading](projects/dotnet/dotnet-dynamic-assembly-loading.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Dynamic assembly loading |
+| 44 | [dotnet-dynamic-assembly-loading](projects/dotnet/dotnet-dynamic-assembly-loading.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Dynamic assembly loading |
+| 45 | [dotnet-expression-trees](projects/dotnet/dotnet-expression-trees.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  |  |
+| 46 | [dotnet-expression-trees](projects/dotnet/dotnet-expression-trees.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 |  |
+| 47 | [dotnet-extension-methods](projects/dotnet/dotnet-extension-methods.md) ⭐ | 🦊 GitLab | JSON | 🔒 | ✅ | 2026-08-02 |  |
+| 48 | [dotnet-extension-methods](projects/dotnet/dotnet-extension-methods.md) ⚠️ | 🦊 GitLab | JSON | 🔒 | ✅ | 2026-08-02 |  |
+| 49 | [dotnet-how-to-debug-source-generator-vs2022](projects/dotnet/dotnet-how-to-debug-source-generator-vs2022.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
+| 50 | [dotnet-how-to-debug-source-generator-vs2022](projects/dotnet/dotnet-how-to-debug-source-generator-vs2022.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ❌ | 2026-07-31 | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
+| 51 | [dotnet-html-gen](projects/dotnet/dotnet-html-gen.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | var doc = document( |
+| 52 | [dotnet-html-gen](projects/dotnet/dotnet-html-gen.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ✅ | 2024-10-14 | var doc = document( |
+| 53 | [dotnet-mock-server](projects/dotnet/dotnet-mock-server.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | !Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) |
+| 54 | [dotnet-mock-server](projects/dotnet/dotnet-mock-server.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | !Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) |
+| 55 | [dotnet-reversing](projects/dotnet/dotnet-reversing.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | .NET reverse engineering |
+| 56 | [dotnet-reversing](projects/dotnet/dotnet-reversing.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | .NET reverse engineering |
+| 57 | [dotnet-sandbox](projects/dotnet/dotnet-sandbox.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | .NET code sandbox |
+| 58 | [dotnet-sandbox](projects/dotnet/dotnet-sandbox.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | .NET code sandbox |
+| 59 | [dotnet-sandbox-2](projects/dotnet/dotnet-sandbox-2.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 60 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Simple Image for uploading for serving resized and cropped images. |
+| 61 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Simple Image for uploading for serving resized and cropped images. |
+| 62 | [Dymo](projects/dotnet/Dymo.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
+| 63 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
+| 64 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
+| 65 | [encryption-sandbox](projects/dotnet/encryption-sandbox.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 66 | [evil-regex-routing](projects/dotnet/evil-regex-routing.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 67 | [evil-regexes-tests](projects/dotnet/evil-regexes-tests.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 68 | [experiments](projects/dotnet/experiments.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 69 | [extension-methods](projects/dotnet/extension-methods.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2026-07-31 |  |
+| 70 | [extension-methods](projects/dotnet/extension-methods.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ✅ | 2026-07-31 |  |
+| 71 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
+| 72 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
+| 73 | [functions](projects/dotnet/functions.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 74 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com) |
+| 75 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ✅ | 2026-07-31 | !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com) |
+| 76 | [hg](projects/dotnet/hg.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation. |
+| 77 | [hg](projects/dotnet/hg.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ✅ | 2026-07-31 | HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation. |
+| 78 | [http-experiments](projects/dotnet/http-experiments.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 79 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | user/passwords: |
+| 80 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | user/passwords: |
+| 81 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | dotnet test |
+| 82 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | dotnet test |
+| 83 | [mock-server](projects/dotnet/mock-server.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 84 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
+| 85 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2025-10-18 |  |
+| 86 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
+| 87 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-11-26 | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
+| 88 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ❌ | 2024-11-26 | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
+| 89 | [pe](projects/dotnet/pe.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 90 | [peview](projects/dotnet/peview.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | Web based hex viewer, WIP Portable Executable Inspector. |
+| 91 | [peview](projects/dotnet/peview.md) ⚠️ | 🐙 GitHub | JavaScript | 🔒 | ✅ | 2024-10-14 | Web based hex viewer, WIP Portable Executable Inspector. |
+| 92 | [play-with-performance-counters](projects/dotnet/play-with-performance-counters.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 93 | [powertoys-new-plus-templates](projects/dotnet/powertoys-new-plus-templates.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 94 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
+| 95 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
+| 96 | [predicate-builder](projects/dotnet/predicate-builder.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Simple predicate string parser |
+| 97 | [predicate-builder](projects/dotnet/predicate-builder.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Simple predicate string parser |
+| 98 | [reader](projects/dotnet/reader.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 99 | [redis-backed-dictionary](projects/dotnet/redis-backed-dictionary.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 100 | [redis-backed-dictionary-tests](projects/dotnet/redis-backed-dictionary-tests.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 101 | [sample-tests](projects/dotnet/sample-tests.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 102 | [Sandbox](projects/dotnet/Sandbox.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 103 | [sandbox-net](projects/dotnet/sandbox-net.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | https://stackoverflow.com/a/13187820/1766716 |
+| 104 | [sandbox-net](projects/dotnet/sandbox-net.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | https://stackoverflow.com/a/13187820/1766716 |
+| 105 | [server](projects/dotnet/server.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 106 | [sid](projects/dotnet/sid.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Simple Declarative Web Apps |
+| 107 | [sid](projects/dotnet/sid.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
+| 108 | [source-generators](projects/dotnet/source-generators.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 109 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | SpeedCrunch port |
+| 110 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | SpeedCrunch port |
+| 111 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 112 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) ⚠️ | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-31 |  |
+| 113 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2025-02-07 | Sample Applications |
+| 114 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ❌ | 2025-02-07 | Sample Applications |
+| 115 | [stored_procedures](projects/dotnet/stored_procedures.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 116 | [system32](projects/dotnet/system32.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 117 | [telnet](projects/dotnet/telnet.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 118 | [testere](projects/dotnet/testere.md) ⭐ | 🐙 GitHub | Dockerfile | 🔒 | ✅ |  | - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest |
+| 119 | [testere](projects/dotnet/testere.md) ⚠️ | 🐙 GitHub | Dockerfile | 🔒 | ✅ | 2024-10-14 | - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest |
+| 120 | [todo-gql](projects/dotnet/todo-gql.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-01-09 |  |
+| 121 | [todo-gql](projects/dotnet/todo-gql.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
+| 122 | [triggers](projects/dotnet/triggers.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 123 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
+| 124 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
+| 125 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | > side projects documentation |
+| 126 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2024-10-14 | > side projects documentation |
+| 127 | [underscore.net](projects/dotnet/underscore.net.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
+| 128 | [underscore.net](projects/dotnet/underscore.net.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
+| 129 | [views](projects/dotnet/views.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 130 | [wxdatcom](projects/dotnet/wxdatcom.md) ⭐ | 🐙 GitHub | C | 🔒 | ✅ | 2026-08-01 | Very slow import |
+| 131 | [wxdatcom](projects/dotnet/wxdatcom.md) ⚠️ | 🐙 GitHub | C | 🔓 | ✅ | 2023-01-28 | Very slow import |
+| 132 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | C | 🔒 | ✅ | 2024-10-14 | Very slow import |
 
 ### 💻 CLI Tools
 
 > Command-line tools and utilities
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [git-jump](projects/cli/git-jump.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Jump between git branches using your keyboard up/down arrow keys. |
-| 2 | [git-jump](projects/cli/git-jump.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2026-07-31 | quickly jump branches from CLI |
-| 3 | [grepz](projects/cli/grepz.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-04-02 |  |
-| 4 | [grepz](projects/cli/grepz.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-04-02 |  |
-| 5 | [ndig](projects/cli/ndig.md) | 🐙 GitHub | 🔓 | ✅ | 2026-07-31 | dig like simple CLI DNS Lookup tool, implemented with .NET Core |
-| 6 | [nqrgen](projects/cli/nqrgen.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json |
-| 7 | [nqrgen](projects/cli/nqrgen.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | CLI based QR generator |
-| 8 | [pake](projects/cli/pake.md) | 🐙 GitHub | 🔒 | ❌ | 2025-04-02 | GNU Make like simple build/automation tool implemented with Powershell |
-| 9 | [rende](projects/cli/rende.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json |
-| 10 | [rende](projects/cli/rende.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | CLI based template renderer with various engines |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [git-jump](projects/cli/git-jump.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | Jump between git branches using your keyboard up/down arrow keys. |
+| 2 | [git-jump](projects/cli/git-jump.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ✅ | 2026-07-31 | Jump between git branches using your keyboard up/down arrow keys. |
+| 3 | [grepz](projects/cli/grepz.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2025-04-02 |  |
+| 4 | [grepz](projects/cli/grepz.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ❌ | 2025-04-02 |  |
+| 5 | [ndig](projects/cli/ndig.md) | 🐙 GitHub | — | 🔓 | ✅ | 2026-07-31 | dig like simple CLI DNS Lookup tool, implemented with .NET Core |
+| 6 | [nqrgen](projects/cli/nqrgen.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json |
+| 7 | [nqrgen](projects/cli/nqrgen.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ❌ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json |
+| 8 | [pake](projects/cli/pake.md) | 🐙 GitHub | — | 🔒 | ❌ | 2025-04-02 | GNU Make like simple build/automation tool implemented with Powershell |
+| 9 | [rende](projects/cli/rende.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json |
+| 10 | [rende](projects/cli/rende.md) ⚠️ | 🐙 GitHub | JSON | 🔓 | ❌ | 2026-01-09 | scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json |
 
 ### 🗄️ Data & Databases
 
 > Databases, SQL, and data tooling
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [mssql-tools](projects/data/mssql-tools.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Simple Toolkits |
-| 2 | [mssql-tools](projects/data/mssql-tools.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Toolkits |
-| 3 | [python-sqlite-json-explorer](projects/data/python-sqlite-json-explorer.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | SQLite JSON explorer |
-| 4 | [python-sqlite-json-explorer](projects/data/python-sqlite-json-explorer.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | SQLite JSON explorer |
-| 5 | [sitemap-parser](projects/data/sitemap-parser.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Sitemap parser |
-| 6 | [sitemap-parser](projects/data/sitemap-parser.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Sitemap parser |
-| 7 | [SqlServer.Rules](projects/data/SqlServer.Rules.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-04-02 | A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build. |
-| 8 | [SqlServer.Rules](projects/data/SqlServer.Rules.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-04-02 | 120+ SQL Server static code analysis rules for SQL Database Projects |
-| 9 | [torque-collector](projects/data/torque-collector.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 10 | [torque-collector](projects/data/torque-collector.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 11 | [torque-collector-net-clickhouse](projects/data/torque-collector-net-clickhouse.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 12 | [torque-collector-net-clickhouse](projects/data/torque-collector-net-clickhouse.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [mssql-tools](projects/data/mssql-tools.md) ⭐ | 🐙 GitHub | SQL | 🔒 | ✅ |  | Simple Toolkits |
+| 2 | [mssql-tools](projects/data/mssql-tools.md) ⚠️ | 🐙 GitHub | SQL | 🔒 | ✅ | 2024-10-14 | Simple Toolkits |
+| 3 | [python-sqlite-json-explorer](projects/data/python-sqlite-json-explorer.md) ⭐ | 🐙 GitHub | CSS | 🔒 | ✅ |  | SQLite JSON explorer |
+| 4 | [python-sqlite-json-explorer](projects/data/python-sqlite-json-explorer.md) ⚠️ | 🐙 GitHub | CSS | 🔓 | ✅ | 2023-01-28 | SQLite JSON explorer |
+| 5 | [sitemap-parser](projects/data/sitemap-parser.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Sitemap parser |
+| 6 | [sitemap-parser](projects/data/sitemap-parser.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Sitemap parser |
+| 7 | [SqlServer.Rules](projects/data/SqlServer.Rules.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2025-04-02 | A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build. |
+| 8 | [SqlServer.Rules](projects/data/SqlServer.Rules.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ❌ | 2025-04-02 | A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build. |
+| 9 | [torque-collector](projects/data/torque-collector.md) ⭐ | 🦊 GitLab | C# | 🔒 | ✅ | 2026-08-02 |  |
+| 10 | [torque-collector](projects/data/torque-collector.md) ⚠️ | 🦊 GitLab | C# | 🔒 | ✅ | 2026-08-02 |  |
+| 11 | [torque-collector-net-clickhouse](projects/data/torque-collector-net-clickhouse.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 12 | [torque-collector-net-clickhouse](projects/data/torque-collector-net-clickhouse.md) ⚠️ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
 
 ### ⚙️ DevOps & Infra
 
 > CI/CD, containers, homelab, and infrastructure
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [backstage](projects/devops/backstage.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Backstage Personal Dev Portal |
-| 2 | [backstage](projects/devops/backstage.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Backstage Personal Dev Portal |
-| 3 | [bug.report-docker-3106](projects/devops/bug.report-docker-3106.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Running docker-compose with tty: true |
-| 4 | [bug.report-docker-3106](projects/devops/bug.report-docker-3106.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Running docker-compose with tty: true |
-| 5 | [cloudflare-worker-get-user](projects/devops/cloudflare-worker-get-user.md) ⭐ | 🦊 GitLab | 🔒 | ✅ |  |  |
-| 6 | [cloudflare-worker-get-user](projects/devops/cloudflare-worker-get-user.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 7 | [configs](projects/devops/configs.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 8 | [configs](projects/devops/configs.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 9 | [dashdot](projects/devops/dashdot.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 10 | [deployement-templates](projects/devops/deployement-templates.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Deployment templates |
-| 11 | [deployement-templates](projects/devops/deployement-templates.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Deployment templates |
-| 12 | [Devup](projects/devops/Devup.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | > YAML based, docker-compose like tools, helping to start development environments |
-| 13 | [Devup](projects/devops/Devup.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | YAML based, docker-compose like tools, helping to start development environments. The idea @ybrs's project-switcher, reimplemented with .NET. |
-| 14 | [docker-apps](projects/devops/docker-apps.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 15 | [docker-apps](projects/devops/docker-apps.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 16 | [docker-apps](projects/devops/docker-apps.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 17 | [docker-images](projects/devops/docker-images.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Custom Docker images |
-| 18 | [docker-images](projects/devops/docker-images.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | docker images that updated regulary by TravisCI |
-| 19 | [dotfiles](projects/devops/dotfiles.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | https://github.com/ssh0/dot |
-| 20 | [dotfiles](projects/devops/dotfiles.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | https://github.com/ssh0/dot |
-| 21 | [gitops-config](projects/devops/gitops-config.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | k8s manifests files for continious deployment |
-| 22 | [gitops-config](projects/devops/gitops-config.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | k8s manifests files for continious deployment |
-| 23 | [grafana](projects/devops/grafana.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 24 | [homelab-caddy-config](projects/devops/homelab-caddy-config.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 25 | [homelab-caddy-config](projects/devops/homelab-caddy-config.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 26 | [myspeed](projects/devops/myspeed.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 27 | [ntfy](projects/devops/ntfy.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 28 | [openresty-gateway-waf](projects/devops/openresty-gateway-waf.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | required libraries |
-| 29 | [openresty-gateway-waf](projects/devops/openresty-gateway-waf.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | required libraries |
-| 30 | [openwebrx](projects/devops/openwebrx.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 31 | [proxmox-scripts](projects/devops/proxmox-scripts.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-16 | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
-| 32 | [proxmox-scripts](projects/devops/proxmox-scripts.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-07-16 | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
-| 33 | [redis](projects/devops/redis.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 34 | [skaf](projects/devops/skaf.md) ⭐ | 🦊 GitLab | 🔒 | ✅ |  | This repo contains the source code for Skaf which is a SaaS |
-| 35 | [skaf](projects/devops/skaf.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This repo contains the source code for Skaf which is a SaaS |
-| 36 | [templates](projects/devops/templates.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Default Variables |
-| 37 | [templates](projects/devops/templates.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Default Variables |
-| 38 | [vaultwarden](projects/devops/vaultwarden.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 39 | [watch-your-lan](projects/devops/watch-your-lan.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [backstage](projects/devops/backstage.md) ⭐ | 🦊 GitLab | TypeScript | 🔒 | ✅ | 2026-08-02 | Backstage Personal Dev Portal |
+| 2 | [backstage](projects/devops/backstage.md) ⚠️ | 🦊 GitLab | TypeScript | 🔒 | ✅ | 2026-08-02 | Backstage Personal Dev Portal |
+| 3 | [bug.report-docker-3106](projects/devops/bug.report-docker-3106.md) ⭐ | 🐙 GitHub | YAML | 🔒 | ✅ |  | Running docker-compose with tty: true |
+| 4 | [bug.report-docker-3106](projects/devops/bug.report-docker-3106.md) ⚠️ | 🐙 GitHub | YAML | 🔓 | ✅ | 2023-01-28 | Running docker-compose with tty: true |
+| 5 | [cloudflare-worker-get-user](projects/devops/cloudflare-worker-get-user.md) ⭐ | 🦊 GitLab | JSON | 🔒 | ✅ |  |  |
+| 6 | [cloudflare-worker-get-user](projects/devops/cloudflare-worker-get-user.md) ⚠️ | 🦊 GitLab | JSON | 🔒 | ✅ | 2026-08-02 |  |
+| 7 | [configs](projects/devops/configs.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2026-07-31 |  |
+| 8 | [configs](projects/devops/configs.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ✅ | 2026-07-31 |  |
+| 9 | [dashdot](projects/devops/dashdot.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 10 | [deployement-templates](projects/devops/deployement-templates.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | Deployment templates |
+| 11 | [deployement-templates](projects/devops/deployement-templates.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2024-10-14 | Deployment templates |
+| 12 | [Devup](projects/devops/Devup.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | > YAML based, docker-compose like tools, helping to start development environments |
+| 13 | [Devup](projects/devops/Devup.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | > YAML based, docker-compose like tools, helping to start development environments |
+| 14 | [docker-apps](projects/devops/docker-apps.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 15 | [docker-apps](projects/devops/docker-apps.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 16 | [docker-apps](projects/devops/docker-apps.md) ⚠️ | 🐙 GitHub | YAML | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 17 | [docker-images](projects/devops/docker-images.md) ⭐ | 🐙 GitHub | Dockerfile | 🔒 | ✅ |  | Custom Docker images |
+| 18 | [docker-images](projects/devops/docker-images.md) ⚠️ | 🐙 GitHub | Dockerfile | 🔒 | ✅ | 2024-10-14 | Custom Docker images |
+| 19 | [dotfiles](projects/devops/dotfiles.md) ⭐ | 🐙 GitHub | Shell | 🔒 | ✅ |  | https://github.com/ssh0/dot |
+| 20 | [dotfiles](projects/devops/dotfiles.md) ⚠️ | 🐙 GitHub | Shell | 🔒 | ✅ | 2024-10-14 | https://github.com/ssh0/dot |
+| 21 | [gitops-config](projects/devops/gitops-config.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This project contains Kubernetes configurations for deploying applications using GitOps principles. |
+| 22 | [gitops-config](projects/devops/gitops-config.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This project contains Kubernetes configurations for deploying applications using GitOps principles. |
+| 23 | [grafana](projects/devops/grafana.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 24 | [homelab-caddy-config](projects/devops/homelab-caddy-config.md) ⭐ | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 25 | [homelab-caddy-config](projects/devops/homelab-caddy-config.md) ⚠️ | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 26 | [myspeed](projects/devops/myspeed.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 27 | [ntfy](projects/devops/ntfy.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 28 | [openresty-gateway-waf](projects/devops/openresty-gateway-waf.md) ⭐ | 🐙 GitHub | Lua | 🔒 | ✅ |  | required libraries |
+| 29 | [openresty-gateway-waf](projects/devops/openresty-gateway-waf.md) ⚠️ | 🐙 GitHub | Lua | 🔒 | ✅ | 2024-10-14 | required libraries |
+| 30 | [openwebrx](projects/devops/openwebrx.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 31 | [proxmox-scripts](projects/devops/proxmox-scripts.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2026-07-16 | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
+| 32 | [proxmox-scripts](projects/devops/proxmox-scripts.md) ⚠️ | 🐙 GitHub | Markdown | 🔓 | ❌ | 2026-07-16 | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
+| 33 | [redis](projects/devops/redis.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 34 | [skaf](projects/devops/skaf.md) ⭐ | 🦊 GitLab | Markdown | 🔒 | ✅ |  | This repo contains the source code for Skaf which is a SaaS |
+| 35 | [skaf](projects/devops/skaf.md) ⚠️ | 🦊 GitLab | Markdown | 🔒 | ✅ | 2026-08-02 | This repo contains the source code for Skaf which is a SaaS |
+| 36 | [templates](projects/devops/templates.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | Default Variables |
+| 37 | [templates](projects/devops/templates.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | Default Variables |
+| 38 | [vaultwarden](projects/devops/vaultwarden.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 39 | [watch-your-lan](projects/devops/watch-your-lan.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
 
 ### 📚 Learning & Notes
 
 > Tutorials, courses, and knowledge bases
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [00-intro](projects/learning/00-intro.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 2 | [01-creating-a-debugger](projects/learning/01-creating-a-debugger.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 3 | [algoritms](projects/learning/algoritms.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Algorithm implementations and data structure exercises |
-| 4 | [algoritms](projects/learning/algoritms.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Algorithm implementations and data structure exercises |
-| 5 | [grammars](projects/learning/grammars.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 6 | [grammars](projects/learning/grammars.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 7 | [kb](projects/learning/kb.md) | 🐙 GitHub | 🔒 | ❌ | 2025-08-17 |  |
-| 8 | [Language-Designs-For-Web](projects/learning/Language-Designs-For-Web.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
-| 9 | [Language-Designs-For-Web](projects/learning/Language-Designs-For-Web.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
-| 10 | [latex-docs](projects/learning/latex-docs.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | - Install devenv |
-| 11 | [latex-docs](projects/learning/latex-docs.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | - Install devenv |
-| 12 | [learn-agentic-ai](projects/learning/learn-agentic-ai.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 13 | [learn-fsharp](projects/learning/learn-fsharp.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-17 |  |
-| 14 | [learn-go](projects/learning/learn-go.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 15 | [learn-go](projects/learning/learn-go.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 16 | [learn-lisp](projects/learning/learn-lisp.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-16 |  |
-| 17 | [learn-lisp](projects/learning/learn-lisp.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2026-07-16 |  |
-| 18 | [learn-m4](projects/learning/learn-m4.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 19 | [learn-mastering-dotnet-expression-trees](projects/learning/learn-mastering-dotnet-expression-trees.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-17 |  |
-| 20 | [learn-mcp](projects/learning/learn-mcp.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 21 | [learn-prometheus](projects/learning/learn-prometheus.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-30 |  |
-| 22 | [learn-vue](projects/learning/learn-vue.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 23 | [learning](projects/learning/learning.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2024-12-06 | Learning projects |
-| 24 | [learning](projects/learning/learning.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2024-12-06 | Learning projects |
-| 25 | [learning-fsharp](projects/learning/learning-fsharp.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 26 | [learning-graphql](projects/learning/learning-graphql.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 27 | [learning-haskell](projects/learning/learning-haskell.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 28 | [llm](projects/learning/llm.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Some adhoc LLM experiments. |
-| 29 | [llm](projects/learning/llm.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Some adhoc LLM experiments. |
-| 30 | [memoryleak](projects/learning/memoryleak.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-04-02 | Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging. |
-| 31 | [memoryleak](projects/learning/memoryleak.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-04-02 | Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging. |
-| 32 | [mevlana-takvimi](projects/learning/mevlana-takvimi.md) | 🐙 GitHub | 🔒 | ❌ | 2022-11-20 |  |
-| 33 | [prompt-library](projects/learning/prompt-library.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | LLM Prompts |
-| 34 | [prompt-library](projects/learning/prompt-library.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | LLM Prompts |
-| 35 | [prompts](projects/learning/prompts.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Prompt Library |
-| 36 | [prompts](projects/learning/prompts.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 | Prompt Library |
-| 37 | [ramblings](projects/learning/ramblings.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
-| 38 | [sd-llm-benchmark](projects/learning/sd-llm-benchmark.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 39 | [sd-llm-benchmark](projects/learning/sd-llm-benchmark.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 40 | [Startup-CTO-Handbook](projects/learning/Startup-CTO-Handbook.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-04-02 | You can view the latest content of the book in markdown here(StartupCTOHandbook.md) |
-| 41 | [Startup-CTO-Handbook](projects/learning/Startup-CTO-Handbook.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-04-02 | The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams |
-| 42 | [swe-route-optimization-project](projects/learning/swe-route-optimization-project.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-18 | A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges. |
-| 43 | [swe-route-optimization-project](projects/learning/swe-route-optimization-project.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2026-07-18 | A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges. |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [00-intro](projects/learning/00-intro.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 2 | [01-creating-a-debugger](projects/learning/01-creating-a-debugger.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 3 | [algoritms](projects/learning/algoritms.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | Algorithm implementations and data structure exercises |
+| 4 | [algoritms](projects/learning/algoritms.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2024-10-14 | Algorithm implementations and data structure exercises |
+| 5 | [grammars](projects/learning/grammars.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 6 | [grammars](projects/learning/grammars.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 7 | [kb](projects/learning/kb.md) | 🐙 GitHub | — | 🔒 | ❌ | 2025-08-17 |  |
+| 8 | [Language-Designs-For-Web](projects/learning/Language-Designs-For-Web.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
+| 9 | [Language-Designs-For-Web](projects/learning/Language-Designs-For-Web.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
+| 10 | [latex-docs](projects/learning/latex-docs.md) ⭐ | 🦊 GitLab | Shell | 🔒 | ✅ | 2026-08-02 | - Install devenv |
+| 11 | [latex-docs](projects/learning/latex-docs.md) ⚠️ | 🦊 GitLab | Shell | 🔒 | ✅ | 2026-08-02 | - Install devenv |
+| 12 | [learn-agentic-ai](projects/learning/learn-agentic-ai.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-31 |  |
+| 13 | [learn-fsharp](projects/learning/learn-fsharp.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-17 |  |
+| 14 | [learn-go](projects/learning/learn-go.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 15 | [learn-go](projects/learning/learn-go.md) ⚠️ | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-31 |  |
+| 16 | [learn-lisp](projects/learning/learn-lisp.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-16 |  |
+| 17 | [learn-lisp](projects/learning/learn-lisp.md) ⚠️ | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-16 |  |
+| 18 | [learn-m4](projects/learning/learn-m4.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 19 | [learn-mastering-dotnet-expression-trees](projects/learning/learn-mastering-dotnet-expression-trees.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-17 |  |
+| 20 | [learn-mcp](projects/learning/learn-mcp.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-31 |  |
+| 21 | [learn-prometheus](projects/learning/learn-prometheus.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-07-30 |  |
+| 22 | [learn-vue](projects/learning/learn-vue.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 23 | [learning](projects/learning/learning.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-12-06 | Learning projects |
+| 24 | [learning](projects/learning/learning.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ❌ | 2024-12-06 | Learning projects |
+| 25 | [learning-fsharp](projects/learning/learning-fsharp.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 26 | [learning-graphql](projects/learning/learning-graphql.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 27 | [learning-haskell](projects/learning/learning-haskell.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 28 | [llm](projects/learning/llm.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2026-07-31 | Some adhoc LLM experiments. |
+| 29 | [llm](projects/learning/llm.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2026-07-31 | Some adhoc LLM experiments. |
+| 30 | [memoryleak](projects/learning/memoryleak.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2025-04-02 | Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging. |
+| 31 | [memoryleak](projects/learning/memoryleak.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ❌ | 2025-04-02 | Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging. |
+| 32 | [mevlana-takvimi](projects/learning/mevlana-takvimi.md) | 🐙 GitHub | — | 🔒 | ❌ | 2022-11-20 |  |
+| 33 | [prompt-library](projects/learning/prompt-library.md) ⭐ | 🦊 GitLab | Markdown | 🔒 | ✅ | 2026-08-02 | A curated collection of reusable prompts for various AI and LLM applications. |
+| 34 | [prompt-library](projects/learning/prompt-library.md) ⚠️ | 🦊 GitLab | Markdown | 🔒 | ✅ | 2026-08-02 | A curated collection of reusable prompts for various AI and LLM applications. |
+| 35 | [prompts](projects/learning/prompts.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2026-07-31 | Prompt Library |
+| 36 | [prompts](projects/learning/prompts.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ❌ | 2026-07-31 | Prompt Library |
+| 37 | [ramblings](projects/learning/ramblings.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-31 |  |
+| 38 | [sd-llm-benchmark](projects/learning/sd-llm-benchmark.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 39 | [sd-llm-benchmark](projects/learning/sd-llm-benchmark.md) ⚠️ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-31 |  |
+| 40 | [Startup-CTO-Handbook](projects/learning/Startup-CTO-Handbook.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2025-04-02 | You can view the latest content of the book in markdown here(StartupCTOHandbook.md) |
+| 41 | [Startup-CTO-Handbook](projects/learning/Startup-CTO-Handbook.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ❌ | 2025-04-02 | You can view the latest content of the book in markdown here(StartupCTOHandbook.md) |
+| 42 | [swe-route-optimization-project](projects/learning/swe-route-optimization-project.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ | 2026-07-18 | A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges. |
+| 43 | [swe-route-optimization-project](projects/learning/swe-route-optimization-project.md) ⚠️ | 🐙 GitHub | Python | 🔒 | ❌ | 2026-07-18 | A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges. |
 
 ### 📦 Miscellaneous
 
 > Projects that don't fit a specific category
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [.template-powershell-core-binary-module](projects/misc/.template-powershell-core-binary-module.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 2 | [_edit](projects/misc/_edit.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 3 | [aeronautical-eng-simulations](projects/misc/aeronautical-eng-simulations.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 4 | [ai](projects/misc/ai.md) | 🐙 GitHub | 🔓 | ❌ | 2026-06-29 |  |
-| 5 | [bginfz](projects/misc/bginfz.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Background information display utility |
-| 6 | [bginfz](projects/misc/bginfz.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Background information display utility |
-| 7 | [boilerplate](projects/misc/boilerplate.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-03 | Boilerplate file templates to be used by copier |
-| 8 | [calcpaper](projects/misc/calcpaper.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Calculator with paper tape |
-| 9 | [calcpaper](projects/misc/calcpaper.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Calculator with paper tape |
-| 10 | [dist](projects/misc/dist.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 11 | [docs](projects/misc/docs.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 12 | [dot](projects/misc/dot.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 13 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
-| 14 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
-| 15 | [firefox](projects/misc/firefox.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 16 | [format](projects/misc/format.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 17 | [git](projects/misc/git.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 18 | [git-presentation](projects/misc/git-presentation.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
-| 19 | [git-presentation](projects/misc/git-presentation.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | This repo (will) contain the presentation "Git & Github Guide" |
-| 20 | [goreplay](projects/misc/goreplay.md) | 🐙 GitHub | 🔒 | ❌ | 2025-10-17 | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. |
-| 21 | [graphql](projects/misc/graphql.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 22 | [group-ride](projects/misc/group-ride.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 23 | [humanizer-tr](projects/misc/humanizer-tr.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | humanizer-tr |
-| 24 | [humanizer-tr](projects/misc/humanizer-tr.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | humanizer-tr |
-| 25 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | KVB IoT demo |
-| 26 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | KVB IoT demo |
-| 27 | [parsers](projects/misc/parsers.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 28 | [parsers](projects/misc/parsers.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 29 | [parsers](projects/misc/parsers.md) ⚠️ | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Modular Antlr4 Parser & Lexers for big projects |
-| 30 | [performance-dashboard](projects/misc/performance-dashboard.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 31 | [prayer-times-android](projects/misc/prayer-times-android.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Minimal persisten notification based android application using the prayer times api |
-| 32 | [prayer-times-android](projects/misc/prayer-times-android.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Minimal persisten notification based android application using the prayer times api |
-| 33 | [prayer-times-api](projects/misc/prayer-times-api.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
-| 34 | [prayer-times-api](projects/misc/prayer-times-api.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
-| 35 | [project-incubation](projects/misc/project-incubation.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
-| 36 | [project-incubation](projects/misc/project-incubation.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
-| 37 | [project-management](projects/misc/project-management.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 38 | [public](projects/misc/public.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 39 | [python-tornado-tcp-echo-server](projects/misc/python-tornado-tcp-echo-server.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 40 | [pytotube](projects/misc/pytotube.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | YouTube downloader |
-| 41 | [pytotube](projects/misc/pytotube.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | Simple 1D Thermal problem solver |
-| 42 | [reasoning](projects/misc/reasoning.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 43 | [role](projects/misc/role.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 44 | [SA-tech-stack-ga](projects/misc/SA-tech-stack-ga.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 45 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | GPS sensor fusion |
-| 46 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | GPS sensor fusion |
-| 47 | [side-projects](projects/misc/side-projects.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  |  |
-| 48 | [side-projects](projects/misc/side-projects.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 49 | [snake](projects/misc/snake.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Ekin Ceylan Tarafindan yazilan oyun |
-| 50 | [system-prompts](projects/misc/system-prompts.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 51 | [task](projects/misc/task.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 52 | [unicode_tr](projects/misc/unicode_tr.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 53 | [windows-terminal](projects/misc/windows-terminal.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 |  |
-| 54 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | wox plugins |
-| 55 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | wox prayer times plugin |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [.template-powershell-core-binary-module](projects/misc/.template-powershell-core-binary-module.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 2 | [_edit](projects/misc/_edit.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 3 | [aeronautical-eng-simulations](projects/misc/aeronautical-eng-simulations.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 4 | [ai](projects/misc/ai.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-06-29 |  |
+| 5 | [bginfz](projects/misc/bginfz.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | Background information display utility |
+| 6 | [bginfz](projects/misc/bginfz.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2026-07-31 | Background information display utility |
+| 7 | [boilerplate](projects/misc/boilerplate.md) | 🐙 GitHub | — | 🔓 | ❌ | 2025-10-03 | Boilerplate file templates to be used by copier |
+| 8 | [calcpaper](projects/misc/calcpaper.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | Calculator with paper tape |
+| 9 | [calcpaper](projects/misc/calcpaper.md) ⚠️ | 🐙 GitHub | JavaScript | 🔒 | ✅ | 2024-10-14 | Calculator with paper tape |
+| 10 | [dist](projects/misc/dist.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 11 | [docs](projects/misc/docs.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 12 | [dot](projects/misc/dot.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 13 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⭐ | 🐙 GitHub | TypeScript | 🔒 | ✅ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
+| 14 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⚠️ | 🐙 GitHub | TypeScript | 🔒 | ❌ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
+| 15 | [firefox](projects/misc/firefox.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 16 | [format](projects/misc/format.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 17 | [git](projects/misc/git.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 18 | [git-presentation](projects/misc/git-presentation.md) ⭐ | 🐙 GitHub | CSS | 🔒 | ✅ |  | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
+| 19 | [git-presentation](projects/misc/git-presentation.md) ⚠️ | 🐙 GitHub | CSS | 🔒 | ✅ | 2024-10-14 | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
+| 20 | [goreplay](projects/misc/goreplay.md) | 🐙 GitHub | — | 🔒 | ❌ | 2025-10-17 | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. |
+| 21 | [graphql](projects/misc/graphql.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 22 | [group-ride](projects/misc/group-ride.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 23 | [humanizer-tr](projects/misc/humanizer-tr.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ |  | humanizer-tr |
+| 24 | [humanizer-tr](projects/misc/humanizer-tr.md) ⚠️ | 🐙 GitHub | Python | 🔒 | ✅ | 2024-10-14 | humanizer-tr |
+| 25 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | KVB IoT demo |
+| 26 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⚠️ | 🐙 GitHub | Markdown | 🔓 | ✅ | 2023-01-28 | KVB IoT demo |
+| 27 | [parsers](projects/misc/parsers.md) ⭐ | 🦊 GitLab | C# | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 28 | [parsers](projects/misc/parsers.md) ⚠️ | 🦊 GitLab | C# | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 29 | [parsers](projects/misc/parsers.md) ⚠️ | 🐙 GitHub | C# | 🔓 | ❌ | 2026-01-09 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 30 | [performance-dashboard](projects/misc/performance-dashboard.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 31 | [prayer-times-android](projects/misc/prayer-times-android.md) ⭐ | 🐙 GitHub | XML | 🔒 | ✅ |  | Minimal persisten notification based android application using the prayer times api |
+| 32 | [prayer-times-android](projects/misc/prayer-times-android.md) ⚠️ | 🐙 GitHub | XML | 🔒 | ✅ | 2024-10-14 | Minimal persisten notification based android application using the prayer times api |
+| 33 | [prayer-times-api](projects/misc/prayer-times-api.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ |  | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
+| 34 | [prayer-times-api](projects/misc/prayer-times-api.md) ⚠️ | 🐙 GitHub | Python | 🔒 | ✅ | 2024-10-14 | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
+| 35 | [project-incubation](projects/misc/project-incubation.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
+| 36 | [project-incubation](projects/misc/project-incubation.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
+| 37 | [project-management](projects/misc/project-management.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 38 | [public](projects/misc/public.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 39 | [python-tornado-tcp-echo-server](projects/misc/python-tornado-tcp-echo-server.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 40 | [pytotube](projects/misc/pytotube.md) ⭐ | 🐙 GitHub | XML | 🔒 | ✅ |  | YouTube downloader |
+| 41 | [pytotube](projects/misc/pytotube.md) ⚠️ | 🐙 GitHub | XML | 🔓 | ✅ | 2024-10-14 | YouTube downloader |
+| 42 | [reasoning](projects/misc/reasoning.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 43 | [role](projects/misc/role.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 44 | [SA-tech-stack-ga](projects/misc/SA-tech-stack-ga.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 45 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ |  | GPS sensor fusion |
+| 46 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⚠️ | 🐙 GitHub | Python | 🔓 | ✅ | 2023-01-28 | GPS sensor fusion |
+| 47 | [side-projects](projects/misc/side-projects.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 48 | [side-projects](projects/misc/side-projects.md) ⚠️ | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 49 | [snake](projects/misc/snake.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | Ekin Ceylan Tarafindan yazilan oyun |
+| 50 | [system-prompts](projects/misc/system-prompts.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 51 | [task](projects/misc/task.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 52 | [unicode_tr](projects/misc/unicode_tr.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 53 | [windows-terminal](projects/misc/windows-terminal.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 54 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | wox plugins |
+| 55 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | wox plugins |
 
 ### 👤 Personal & Sites
 
 > Personal sites, blogs, and CV
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [cv](projects/personal/cv.md) | 🐙 GitHub | 🔒 | ❌ | 2026-05-17 | my cv |
-| 2 | [guneysus](projects/personal/guneysus.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2023-04-05 | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
-| 3 | [guneysus](projects/personal/guneysus.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2023-04-05 | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
-| 4 | [keychron-layouts](projects/personal/keychron-layouts.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-08 | Keychron layouts |
-| 5 | [keychron-layouts](projects/personal/keychron-layouts.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-10-08 | Keychron layouts |
-| 6 | [musahid](projects/personal/musahid.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Since user streams are deprecated and tweept does not updated, user stream code block is not working. |
-| 7 | [musahid](projects/personal/musahid.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Since user streams are deprecated and tweept does not updated, user stream code block is not working. |
-| 8 | [surmene](projects/personal/surmene.md) ⭐ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Import-Module PowerShellGet |
-| 9 | [surmene](projects/personal/surmene.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | Import-Module PowerShellGet |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [cv](projects/personal/cv.md) | 🐙 GitHub | — | 🔒 | ❌ | 2026-05-17 | my cv |
+| 2 | [guneysus](projects/personal/guneysus.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ | 2023-04-05 | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
+| 3 | [guneysus](projects/personal/guneysus.md) ⚠️ | 🐙 GitHub | Python | 🔒 | ❌ | 2023-04-05 | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
+| 4 | [keychron-layouts](projects/personal/keychron-layouts.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2025-10-08 | Keychron layouts |
+| 5 | [keychron-layouts](projects/personal/keychron-layouts.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ❌ | 2025-10-08 | Keychron layouts |
+| 6 | [musahid](projects/personal/musahid.md) ⭐ | 🐙 GitHub | Python | 🔒 | ✅ |  | Since user streams are deprecated and tweept does not updated, user stream code block is not working. |
+| 7 | [musahid](projects/personal/musahid.md) ⚠️ | 🐙 GitHub | Python | 🔓 | ✅ | 2023-01-28 | Since user streams are deprecated and tweept does not updated, user stream code block is not working. |
+| 8 | [surmene](projects/personal/surmene.md) ⭐ | 🦊 GitLab | PowerShell | 🔒 | ✅ | 2026-08-02 | Import-Module PowerShellGet |
+| 9 | [surmene](projects/personal/surmene.md) ⚠️ | 🦊 GitLab | PowerShell | 🔒 | ✅ | 2026-08-02 | Import-Module PowerShellGet |
 
 ### 🔐 Security
 
 > Security tooling, analysis, and CTF projects
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [git-ctf](projects/security/git-ctf.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Empty repository — no files to archive. |
-| 2 | [git-ctf](projects/security/git-ctf.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2026-05-28 | Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴 |
-| 3 | [sql-injection](projects/security/sql-injection.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 4 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-17 | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
-| 5 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-10-17 | Converts WSDL files to OpenAPI v3.0.x, streamlining API scan integration with Burp Suite |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [git-ctf](projects/security/git-ctf.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | Empty repository — no files to archive. |
+| 2 | [git-ctf](projects/security/git-ctf.md) ⚠️ | 🐙 GitHub | Markdown | 🔓 | ✅ | 2026-05-28 | Empty repository — no files to archive. |
+| 3 | [sql-injection](projects/security/sql-injection.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 4 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ | 2025-10-17 | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
+| 5 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⚠️ | 🐙 GitHub | JavaScript | 🔒 | ❌ | 2025-10-17 | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
 
 ### 🌐 Web
 
 > Web apps, sites, themes, and frontend projects
 
-| # | Project | Source | Visibility | Archived | Last activity | Description |
-| :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [app.namazvaktim](projects/web/app.namazvaktim.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | > Prayer Times |
-| 2 | [app.namazvaktim](projects/web/app.namazvaktim.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | https://guneysus.github.io/app.namazvaktim/ |
-| 3 | [blog-from-scratch](projects/web/blog-from-scratch.md) | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | Congratulations! Your new Hugo site was created in X:\git\gitlab.com\guneysu\blog.git. |
-| 4 | [blog-v1](projects/web/blog-v1.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | HEX: #567c73 |
-| 5 | [blog-v1](projects/web/blog-v1.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2025-09-06 | blog sources |
-| 6 | [blog-v2](projects/web/blog-v2.md) | 🐙 GitHub | 🔒 | ❌ | 2025-10-11 |  |
-| 7 | [blog-v3](projects/web/blog-v3.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 8 | [blog-v3](projects/web/blog-v3.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 9 | [blog-v3-theme](projects/web/blog-v3-theme.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-06-05 |  |
-| 10 | [blog-v3-theme](projects/web/blog-v3-theme.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-06-05 |  |
-| 11 | [browser-pick](projects/web/browser-pick.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Browser bookmark management utility |
-| 12 | [browser-pick](projects/web/browser-pick.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Android like selecting application for specific URLs, protocols etc. [WIP] |
-| 13 | [calcx](projects/web/calcx.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Calcx |
-| 14 | [chess.js](projects/web/chess.js.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | JavaScript chess engine |
-| 15 | [chess.js](projects/web/chess.js.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | A brand new OOP Chess modeling with ES6 |
-| 16 | [dashy](projects/web/dashy.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 17 | [form-flow](projects/web/form-flow.md) ⭐ | 🦊 GitLab | 🔒 | ✅ |  | This is a polyglot monorepo containing: |
-| 18 | [form-flow](projects/web/form-flow.md) ⚠️ | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
-| 19 | [galeri.nakizeyn.guneysu.dev](projects/web/galeri.nakizeyn.guneysu.dev.md) | 🐙 GitHub | 🔒 | ❌ | 2024-11-15 | Migrated Instagram Photos to a GoHugo web site |
-| 20 | [gohugo-hacker](projects/web/gohugo-hacker.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-01 | Hacker Theme for Hugo live demo |
-| 21 | [guneysu.dev](projects/web/guneysu.dev.md) | 🐙 GitHub | 🔒 | ✅ | 2025-09-14 | personal landing page |
-| 22 | [guneysus.github.io-archieved](projects/web/guneysus.github.io-archieved.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | - exif(exif/) |
-| 23 | [guneysus.github.io-archieved](projects/web/guneysus.github.io-archieved.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 | github home page |
-| 24 | [hugo-theme-monochrome](projects/web/hugo-theme-monochrome.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-17 | A fast, clean and responsive hugo theme |
-| 25 | [hugo-theme-monochrome](projects/web/hugo-theme-monochrome.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-10-17 | Monochrome is a fast, clean and responsive hugo theme |
-| 26 | [openresty-twitter-clone](projects/web/openresty-twitter-clone.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Learning OpenResty and Lua |
-| 27 | [openresty-twitter-clone](projects/web/openresty-twitter-clone.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Learning OpenResty and Lua |
-| 28 | [openweb-ui](projects/web/openweb-ui.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 29 | [personal-blog-theme-gohugo-soothing](projects/web/personal-blog-theme-gohugo-soothing.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2026-07-31 |  |
-| 30 | [personal-blog-theme-gohugo-soothing](projects/web/personal-blog-theme-gohugo-soothing.md) ⚠️ | 🐙 GitHub | 🔓 | ✅ | 2026-07-31 | Blog Theme |
-| 31 | [pw](projects/web/pw.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Password utility |
-| 32 | [pw](projects/web/pw.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Password utility |
-| 33 | [snow-flakes-js](projects/web/snow-flakes-js.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
-| 34 | [snow-flakes-js](projects/web/snow-flakes-js.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
-| 35 | [tutorial-serverless-contact-form](projects/web/tutorial-serverless-contact-form.md) ⭐ | 🐙 GitHub | 🔒 | ✅ | 2025-10-10 | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
-| 36 | [tutorial-serverless-contact-form](projects/web/tutorial-serverless-contact-form.md) ⚠️ | 🐙 GitHub | 🔒 | ❌ | 2025-10-10 | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
-| 37 | [web-layouts](projects/web/web-layouts.md) ⭐ | 🐙 GitHub | 🔒 | ✅ |  | - Bookmarks Template(./bookmarks/index.html) |
-| 38 | [web-layouts](projects/web/web-layouts.md) ⚠️ | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | - Bookmarks Template(./bookmarks/index.html) |
-| 39 | [whatismybrowser](projects/web/whatismybrowser.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | a simple https://www.whatsmybrowser.org clone but on the client side. |
+| # | Project | Source | Language | Visibility | Archived | Last activity | Description |
+| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
+| 1 | [app.namazvaktim](projects/web/app.namazvaktim.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | > Prayer Times |
+| 2 | [app.namazvaktim](projects/web/app.namazvaktim.md) ⚠️ | 🐙 GitHub | JavaScript | 🔒 | ✅ | 2024-10-14 | > Prayer Times |
+| 3 | [blog-from-scratch](projects/web/blog-from-scratch.md) | 🐙 GitHub | Markdown | 🔒 | ✅ | 2026-07-31 | Congratulations! Your new Hugo site was created in X:\git\gitlab.com\guneysu\blog.git. |
+| 4 | [blog-v1](projects/web/blog-v1.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | HEX: #567c73 |
+| 5 | [blog-v1](projects/web/blog-v1.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2025-09-06 | HEX: #567c73 |
+| 6 | [blog-v2](projects/web/blog-v2.md) | 🐙 GitHub | — | 🔒 | ❌ | 2025-10-11 |  |
+| 7 | [blog-v3](projects/web/blog-v3.md) ⭐ | 🐙 GitHub | HTML | 🔒 | ✅ | 2026-07-31 |  |
+| 8 | [blog-v3](projects/web/blog-v3.md) ⚠️ | 🐙 GitHub | HTML | 🔒 | ✅ | 2026-07-31 |  |
+| 9 | [blog-v3-theme](projects/web/blog-v3-theme.md) ⭐ | 🐙 GitHub | CSS | 🔒 | ✅ | 2025-06-05 |  |
+| 10 | [blog-v3-theme](projects/web/blog-v3-theme.md) ⚠️ | 🐙 GitHub | CSS | 🔒 | ❌ | 2025-06-05 |  |
+| 11 | [browser-pick](projects/web/browser-pick.md) ⭐ | 🐙 GitHub | C# | 🔒 | ✅ |  | Browser bookmark management utility |
+| 12 | [browser-pick](projects/web/browser-pick.md) ⚠️ | 🐙 GitHub | C# | 🔒 | ✅ | 2024-10-14 | Browser bookmark management utility |
+| 13 | [calcx](projects/web/calcx.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-31 | Calcx |
+| 14 | [chess.js](projects/web/chess.js.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | JavaScript chess engine |
+| 15 | [chess.js](projects/web/chess.js.md) ⚠️ | 🐙 GitHub | JavaScript | 🔓 | ✅ | 2024-10-14 | JavaScript chess engine |
+| 16 | [dashy](projects/web/dashy.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 17 | [form-flow](projects/web/form-flow.md) ⭐ | 🦊 GitLab | YAML | 🔒 | ✅ |  | This is a polyglot monorepo containing: |
+| 18 | [form-flow](projects/web/form-flow.md) ⚠️ | 🦊 GitLab | YAML | 🔒 | ✅ | 2026-08-02 | This is a polyglot monorepo containing: |
+| 19 | [galeri.nakizeyn.guneysu.dev](projects/web/galeri.nakizeyn.guneysu.dev.md) | 🐙 GitHub | — | 🔒 | ❌ | 2024-11-15 | Migrated Instagram Photos to a GoHugo web site |
+| 20 | [gohugo-hacker](projects/web/gohugo-hacker.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-01 | Hacker Theme for Hugo live demo |
+| 21 | [guneysu.dev](projects/web/guneysu.dev.md) | 🐙 GitHub | — | 🔒 | ✅ | 2025-09-14 | personal landing page |
+| 22 | [guneysus.github.io-archieved](projects/web/guneysus.github.io-archieved.md) ⭐ | 🐙 GitHub | HTML | 🔒 | ✅ | 2026-07-31 | - exif(exif/) |
+| 23 | [guneysus.github.io-archieved](projects/web/guneysus.github.io-archieved.md) ⚠️ | 🐙 GitHub | HTML | 🔒 | ✅ | 2026-07-31 | - exif(exif/) |
+| 24 | [hugo-theme-monochrome](projects/web/hugo-theme-monochrome.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2025-10-17 | A fast, clean and responsive hugo theme |
+| 25 | [hugo-theme-monochrome](projects/web/hugo-theme-monochrome.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ❌ | 2025-10-17 | A fast, clean and responsive hugo theme |
+| 26 | [openresty-twitter-clone](projects/web/openresty-twitter-clone.md) ⭐ | 🐙 GitHub | Lua | 🔒 | ✅ |  | Learning OpenResty and Lua |
+| 27 | [openresty-twitter-clone](projects/web/openresty-twitter-clone.md) ⚠️ | 🐙 GitHub | Lua | 🔒 | ✅ | 2024-10-14 | Learning OpenResty and Lua |
+| 28 | [openweb-ui](projects/web/openweb-ui.md) | 🦊 GitLab | — | 🔒 | ✅ | 2026-08-02 |  |
+| 29 | [personal-blog-theme-gohugo-soothing](projects/web/personal-blog-theme-gohugo-soothing.md) ⭐ | 🐙 GitHub | HTML | 🔒 | ✅ | 2026-07-31 |  |
+| 30 | [personal-blog-theme-gohugo-soothing](projects/web/personal-blog-theme-gohugo-soothing.md) ⚠️ | 🐙 GitHub | HTML | 🔓 | ✅ | 2026-07-31 | Blog Theme |
+| 31 | [pw](projects/web/pw.md) ⭐ | 🐙 GitHub | Markdown | 🔒 | ✅ |  | Password utility |
+| 32 | [pw](projects/web/pw.md) ⚠️ | 🐙 GitHub | Markdown | 🔒 | ✅ | 2024-10-14 | Password utility |
+| 33 | [snow-flakes-js](projects/web/snow-flakes-js.md) ⭐ | 🐙 GitHub | JavaScript | 🔒 | ✅ |  | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
+| 34 | [snow-flakes-js](projects/web/snow-flakes-js.md) ⚠️ | 🐙 GitHub | JavaScript | 🔒 | ✅ | 2024-10-14 | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
+| 35 | [tutorial-serverless-contact-form](projects/web/tutorial-serverless-contact-form.md) ⭐ | 🐙 GitHub | JSON | 🔒 | ✅ | 2025-10-10 | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
+| 36 | [tutorial-serverless-contact-form](projects/web/tutorial-serverless-contact-form.md) ⚠️ | 🐙 GitHub | JSON | 🔒 | ❌ | 2025-10-10 | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
+| 37 | [web-layouts](projects/web/web-layouts.md) ⭐ | 🐙 GitHub | HTML | 🔒 | ✅ |  | - Bookmarks Template(./bookmarks/index.html) |
+| 38 | [web-layouts](projects/web/web-layouts.md) ⚠️ | 🐙 GitHub | HTML | 🔒 | ✅ | 2024-10-14 | - Bookmarks Template(./bookmarks/index.html) |
+| 39 | [whatismybrowser](projects/web/whatismybrowser.md) | 🐙 GitHub | — | 🔓 | ✅ | 2024-10-14 | a simple https://www.whatsmybrowser.org clone but on the client side. |
 
 ## 🍴 Forks
 

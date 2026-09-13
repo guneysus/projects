@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | C# |
+| **Type** | Web App (Node.js) |
+| **Size** | Medium |
+| **Rating** | Multi |
 
 ## Links
 

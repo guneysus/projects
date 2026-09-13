@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | YAML |
+| **Type** | CLI Tool |
+| **Size** | Medium |
+| **Rating** | 56 |
+| **Score** | 50 |
 
 ## Links
 

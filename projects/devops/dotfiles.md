@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Shell |
+| **Type** | DevOps/Docker |
+| **Size** | Small |
+| **Rating** | 56 |
 
 ## Links
 

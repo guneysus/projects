@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Python |
+| **Type** | DevOps/CI |
+| **Size** | Small |
+| **Rating** | 80 |
+| **Score** | 0 |
 
 ## Links
 

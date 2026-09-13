@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | Python |
+| **Type** | DevOps/Docker |
+| **Size** | Small |
+| **Rating** | 64 |
 
 ## Links
 

@@ -16,6 +16,11 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
+| **Language** | HTML |
+| **Type** | DevOps/CI |
+| **Size** | Large |
+| **Rating** | Multi |
+| **Score** | 40 |
 
 ## Links
 

@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
+| **Language** | C |
+| **Type** | Miscellaneous |
+| **Size** | Medium |
+| **Rating** | 56 |
 
 ## Links
 

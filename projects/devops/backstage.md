@@ -16,6 +16,10 @@
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu` |
+| **Language** | TypeScript |
+| **Type** | DevOps/Docker |
+| **Size** | Medium |
+| **Rating** | Multi |
 
 ## Links
 
