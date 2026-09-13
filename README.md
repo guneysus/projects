@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 
-- **Total projects:** 221
-- **GitHub projects:** 204
+- **Total projects:** 222
+- **GitHub projects:** 205
 - **GitLab projects:** 17
 - **Forks:** 65
 - **Duplicates (in multiple archives):** 2
@@ -65,32 +65,33 @@ Projects are organized into subfolders by technology/domain.
 | 27 | [dotnet-sandbox-2](projects/dotnet/dotnet-sandbox-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 | 28 | [dotnetcore-imageserver](projects/dotnet/dotnetcore-imageserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | aspnet core image resizing web app with upload, delete support via REST interface |
 | 29 | [DotNetHooking](projects/dotnet/DotNetHooking.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 30 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
-| 31 | [extension-methods](projects/dotnet/extension-methods.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 32 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 33 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
-| 34 | [hg](projects/dotnet/hg.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | HG: DSL for Html Generation |
-| 35 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
-| 36 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 37 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
-| 38 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
-| 39 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) | 🐙 GitHub | 🔒 | ❌ | 2024-11-26 |  |
-| 40 | [peview](projects/dotnet/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
-| 41 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
-| 42 | [predicate-builder](projects/dotnet/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 43 | [sandbox-net](projects/dotnet/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 44 | [sid](projects/dotnet/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
-| 45 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
-| 46 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
-| 47 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) | 🐙 GitHub | 🔒 | ❌ | 2025-02-07 |  |
-| 48 | [testere](projects/dotnet/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 49 | [todo-gql](projects/dotnet/todo-gql.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
-| 50 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
-| 51 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
-| 52 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 53 | [underscore.net](projects/dotnet/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
-| 54 | [wxdatcom](projects/dotnet/wxdatcom.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | My Graduate Project /  Interactive DATCOM wxWidgets GUI |
-| 55 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 30 | [Dymo](projects/dotnet/Dymo.md) | 🐙 GitHub | 🔒 | ✅ | 2026-08-02 | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
+| 31 | [EfCoreQueryToolbar](projects/dotnet/EfCoreQueryToolbar.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
+| 32 | [extension-methods](projects/dotnet/extension-methods.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
+| 33 | [fullstack-dotnet-template](projects/dotnet/fullstack-dotnet-template.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 34 | [GraphQL.Tools](projects/dotnet/GraphQL.Tools.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
+| 35 | [hg](projects/dotnet/hg.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | HG: DSL for Html Generation |
+| 36 | [interview-downtime-alerter-service](projects/dotnet/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
+| 37 | [interview-project-mars-rover-tdd](projects/dotnet/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 38 | [NanoDbProfiler](projects/dotnet/NanoDbProfiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | A tiny profiler without hassle. |
+| 39 | [NullCollectionFix.Fody](projects/dotnet/NullCollectionFix.Fody.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-18 | Fixes IEnumerables that returns null by returning Empty Array. |
+| 40 | [NullFixEnumerable.Fody](projects/dotnet/NullFixEnumerable.Fody.md) | 🐙 GitHub | 🔒 | ❌ | 2024-11-26 |  |
+| 41 | [peview](projects/dotnet/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
+| 42 | [prank.var.sourcegenerator](projects/dotnet/prank.var.sourcegenerator.md) | 🐙 GitHub | 🔒 | ❌ | 2026-07-31 |  |
+| 43 | [predicate-builder](projects/dotnet/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 44 | [sandbox-net](projects/dotnet/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 45 | [sid](projects/dotnet/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
+| 46 | [speedcrunch.net](projects/dotnet/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
+| 47 | [sql-query-profiler](projects/dotnet/sql-query-profiler.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 |  |
+| 48 | [sql-query-profiler-sample-apps](projects/dotnet/sql-query-profiler-sample-apps.md) | 🐙 GitHub | 🔒 | ❌ | 2025-02-07 |  |
+| 49 | [testere](projects/dotnet/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 50 | [todo-gql](projects/dotnet/todo-gql.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | GraphQL Todo Example |
+| 51 | [Typr](projects/dotnet/Typr.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | Typr public repo for documentation and website |
+| 52 | [Typr.Source](projects/dotnet/Typr.Source.md) | 🐙 GitHub | 🔓 | ❌ | 2026-01-09 | Typer DSL to create C# Types with ease. |
+| 53 | [underscore-net-docs](projects/dotnet/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 54 | [underscore.net](projects/dotnet/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
+| 55 | [wxdatcom](projects/dotnet/wxdatcom.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | My Graduate Project /  Interactive DATCOM wxWidgets GUI |
+| 56 | [wxdatcom-2](projects/dotnet/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 
 ### 💻 CLI Tools
 

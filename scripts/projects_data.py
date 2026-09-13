@@ -97,6 +97,7 @@ CATEGORIES = {
 PROJECT_CATEGORIES = {
     # --- .NET / C# ---
     ".cli-template_dotnet": "dotnet",
+    "Dymo": "dotnet",
     "acme-welcome-dotnet": "dotnet",
     "analyzers": "dotnet",
     "asp-net-sample-apps": "dotnet",
@@ -262,6 +263,10 @@ PROJECT_CATEGORIES = {
 # Projects from gitlab-archive  (repos/guneysu + repos/guneysu.dev)
 # ---------------------------------------------------------------------------
 GITLAB_ARCHIVE_PROJECTS = [
+    # --- GitHub-origin projects archived in this monorepo ---
+    dict(name="Dymo", description=".NET bytecode manipulation project (Mono.Cecil / MonoMod)",
+         visibility="private", fork=False, last_activity="2026-08-02", archived=True,
+         source="github", owner="guneysus", archive_path="repos/github.com/guneysus/Dymo"),
     # --- guneysu namespace ---
     dict(name="backstage", description="", visibility="private", fork=False,
          last_activity="2026-08-02", archived=True, source="gitlab",

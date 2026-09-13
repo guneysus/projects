@@ -33,6 +33,18 @@
   },
   "projects": [
     {
+      "name": "Dymo",
+      "description": ".NET bytecode manipulation project (Mono.Cecil / MonoMod)",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/Dymo",
+      "archive_repo": "gitlab-archive"
+    },
+    {
       "name": "backstage",
       "description": "",
       "visibility": "private",
