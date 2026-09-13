@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-jump` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Jump between git branches using your keyboard up/down arrow keys. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 80 |
 | **Impl score** | 65 |
 | **Rating** | 74 |
-| **Score** | 55 |
 
 ## Links
 

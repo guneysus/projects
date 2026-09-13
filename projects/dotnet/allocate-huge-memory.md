@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `allocate-huge-memory` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

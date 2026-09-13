@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `system32` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

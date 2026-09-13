@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `guneysus.github.io-archieved` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | - exif(exif/) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 60 |
 | **Rating** | 54 |
-| **Score** | 50 |
 
 ## Links
 

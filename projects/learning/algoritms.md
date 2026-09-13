@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `algoritms` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Algorithm implementations and data structure exercises |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

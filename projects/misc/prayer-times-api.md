@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prayer-times-api` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

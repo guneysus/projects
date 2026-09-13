@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Object-Initialization-in-CSharp` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

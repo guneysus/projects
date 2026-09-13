@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `humanizer-tr` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | humanizer-tr |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

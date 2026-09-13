@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Devup` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | > YAML based, docker-compose like tools, helping to start development environments |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

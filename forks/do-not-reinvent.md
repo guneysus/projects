@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `do-not-reinvent` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

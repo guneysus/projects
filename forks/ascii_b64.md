@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `ascii_b64` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

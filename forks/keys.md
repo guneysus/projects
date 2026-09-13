@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `keys` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔓 Public |
 | **Fork** | Yes |

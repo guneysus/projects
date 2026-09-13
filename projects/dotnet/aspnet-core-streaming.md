@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aspnet-core-streaming` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | ASP.Net Streaming to the Client |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

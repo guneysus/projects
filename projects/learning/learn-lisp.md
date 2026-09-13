@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learn-lisp` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-16 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 0 |
 
 ## Links
 

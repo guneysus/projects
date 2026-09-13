@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wox-prayer-times-plugin` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | wox plugins |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

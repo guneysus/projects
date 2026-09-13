@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `GraphQL.Tools` |
+| **Tier** | 🗄️ Archive |
 | **Description** | !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | Multi |
 | **Impl score** | Multi |
 | **Rating** | Multi |
-| **Score** | 60 |
 
 ## Links
 

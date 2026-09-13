@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `claims-based-authorization` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

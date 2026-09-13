@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `redis` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `stored_procedures` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wxdatcom-2` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Very slow import |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

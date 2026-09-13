@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `grepz` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 70 |
 | **Rating** | 64 |
-| **Score** | 20 |
 
 ## Links
 

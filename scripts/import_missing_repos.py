@@ -2,9 +2,18 @@
 """
 Import missing GitHub repos into the guneysus/archive monorepo with full history.
 
-These 15 repos exist on GitHub (owned by guneysus) but were never imported into
+These repos exist on GitHub (owned by guneysus) but were never imported into
 the archive. This script imports each one into repos/github.com/guneysus/<name>/
 using git-filter-repo, preserving full commit history.
+
+Strategy: work directly in the local archive clone. For each repo:
+  1. Clone the repo (full history) to a temp dir
+  2. Rewrite its history into repos/github.com/guneysus/<name>/
+  3. Fetch that rewritten history into the archive clone
+  4. Merge it into the archive's local develop branch (unrelated histories)
+  5. At the end, push local develop to GitHub
+
+This avoids re-fetching the entire archive history for every repo.
 
 Usage:
   python scripts/import_missing_repos.py          # dry-run (shows what would happen)
@@ -21,12 +30,17 @@ import subprocess
 import sys
 import tempfile
 
-# The 15 repos that exist on GitHub and need importing
+# The repos that exist on GitHub and need importing.
+# blog-v2 and boilerplate were already imported successfully in earlier runs.
 REPOS = [
-    "blog-v2", "boilerplate", "calcx", "cv", "galeri.nakizeyn.guneysu.dev",
-    "gohugo-hacker", "goreplay", "mevlana-takvimi", "NanoDbProfiler", "ndig",
-    "pake", "ramblings", "Typr", "Typr.Source", "whatismybrowser",
+    "learn-prometheus",
 ]
+
+# Repos whose GitHub remote is deleted but a local clone with full history exists.
+# Maps repo name -> local path. These are copied (not cloned) into the archive.
+LOCAL_REPOS = {
+    "learn-prometheus": r"X:\git\github.com\guneysus\learn-prometheus",
+}
 
 ARCHIVE_PATH = r"X:\git\github.com\guneysus\github-archive"
 TARGET_BRANCH = "develop"  # the archive's working branch
@@ -46,33 +60,32 @@ def import_repo(name, dry_run):
     print(f"\n=== Importing {name} ===")
     tmp = tempfile.mkdtemp(prefix=f"import_{name}_")
     try:
-        # 1. Clone the repo with full history (no blob filter - filter-repo needs blobs)
-        print("  [1/5] Cloning repo with full history...")
-        run(["gh", "repo", "clone", f"guneysus/{name}", tmp])
+        # 1. Get the source repo (clone from GitHub, or copy from local path)
+        local_src = LOCAL_REPOS.get(name)
+        if local_src:
+            print(f"  [1/4] Copying local repo from {local_src}...")
+            run(["git", "clone", "--no-hardlinks", local_src, tmp])
+        else:
+            print("  [1/4] Cloning repo with full history...")
+            run(["gh", "repo", "clone", f"guneysus/{name}", tmp])
 
         # 2. Rewrite history to move everything into a subdirectory
-        print("  [2/5] Rewriting history into subdirectory...")
+        print("  [2/4] Rewriting history into subdirectory...")
         run(["git", "filter-repo", "--force", "--to-subdirectory-filter", f"{DEST_PREFIX}/{name}/"], cwd=tmp)
-
-        # 3. Add the archive as a remote and fetch
-        print("  [3/5] Adding archive remote...")
-        run(["git", "remote", "add", "archive", ARCHIVE_PATH], cwd=tmp)
 
         if dry_run:
             print("  [DRY-RUN] Skipping fetch/merge (would merge into archive)")
             return
 
-        # 4. Fetch the archive's target branch
-        print("  [4/5] Fetching archive branch...")
-        run(["git", "fetch", "archive", TARGET_BRANCH], cwd=tmp)
+        # 3. Fetch the rewritten history into the archive clone under a temp ref
+        print("  [3/4] Fetching rewritten history into archive...")
+        run(["git", "fetch", tmp, f"HEAD:refs/import/{name}"], cwd=ARCHIVE_PATH)
 
-        # 5. Merge into the archive branch with unrelated histories
-        print("  [5/5] Merging into archive...")
-        run(["git", "merge", "--allow-unrelated-histories", f"archive/{TARGET_BRANCH}"], cwd=tmp)
-
-        # Push back to the archive
-        print("  Pushing to archive...")
-        run(["git", "push", "archive", f"HEAD:{TARGET_BRANCH}"], cwd=tmp)
+        # 4. Merge into the archive's local develop branch (unrelated histories)
+        print("  [4/4] Merging into archive develop...")
+        run(["git", "checkout", TARGET_BRANCH], cwd=ARCHIVE_PATH)
+        run(["git", "merge", "--allow-unrelated-histories", "--no-edit", f"refs/import/{name}"], cwd=ARCHIVE_PATH)
+        run(["git", "branch", "-D", f"import/{name}"], cwd=ARCHIVE_PATH, check=False)
         print(f"  ✓ {name} imported successfully")
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
@@ -91,6 +104,12 @@ def main():
 
     for name in REPOS:
         import_repo(name, dry_run)
+
+    if not dry_run:
+        # Push the accumulated local develop branch to GitHub (the archive's origin).
+        print("\n=== Pushing local develop to GitHub ===")
+        run(["git", "push", "origin", f"{TARGET_BRANCH}:{TARGET_BRANCH}"], cwd=ARCHIVE_PATH)
+        print("  ✓ Pushed to GitHub")
 
     print("\nDone.")
 

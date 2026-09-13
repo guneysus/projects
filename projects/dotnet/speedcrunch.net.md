@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `speedcrunch.net` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | SpeedCrunch port |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

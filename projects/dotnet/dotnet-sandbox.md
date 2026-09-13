@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-sandbox` |
+| **Tier** | 🗄️ Archive |
 | **Description** | .NET code sandbox |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

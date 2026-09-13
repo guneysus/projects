@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `source-generators` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

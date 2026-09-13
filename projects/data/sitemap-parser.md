@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sitemap-parser` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Sitemap parser |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

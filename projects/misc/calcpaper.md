@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `calcpaper` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Calculator with paper tape |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

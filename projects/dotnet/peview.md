@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `peview` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Web based hex viewer, WIP Portable Executable Inspector. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `redis-backed-dictionary` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

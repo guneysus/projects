@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `chess.js` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | JavaScript chess engine |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

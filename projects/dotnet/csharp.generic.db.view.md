@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.generic.db.view` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Generic database viewer |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

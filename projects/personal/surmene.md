@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `surmene` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Import-Module PowerShellGet |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

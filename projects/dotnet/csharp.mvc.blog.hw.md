@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.mvc.blog.hw` |
+| **Tier** | 🗄️ Archive |
 | **Description** | MVC blog homework |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

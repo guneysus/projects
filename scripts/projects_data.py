@@ -128,6 +128,66 @@ CATEGORIES = {
     },
 }
 
+# ---------------------------------------------------------------------------
+# PARA-style tiers for organizing the project portfolio.
+#
+# Inspired by the PARA method (Projects, Areas, Resources, Archive), adapted
+# to a personal project portfolio. Each tier reflects a project's maturity,
+# value, and actionability:
+#
+#   flagship  : strong idea AND strong implementation — potential product/library
+#   showcase  : demonstrates sharp technical skill (high impl, moderate idea)
+#   learning  : learning/demo/PoC — small snippets, tutorials, experiments
+#   archive   : everything else — inactive, unclassified, or low-signal
+#
+# Auto-classification uses idea_score / impl_score / size / project_type when
+# available; projects without data default to "archive" (or "learning" if small).
+# ---------------------------------------------------------------------------
+TIERS = {
+    "flagship": {
+        "label": "Flagship Projects",
+        "emoji": "🏆",
+        "description": (
+            "Strong idea AND strong implementation — these could become a real "
+            "product or library. The best of the portfolio."
+        ),
+    },
+    "showcase": {
+        "label": "Technical Showcase",
+        "emoji": "🛠️",
+        "description": (
+            "Demonstrates sharp technical skill — deep, well-crafted implementation "
+            "even if the idea itself is modest."
+        ),
+    },
+    "learning": {
+        "label": "Learning & Experiments",
+        "emoji": "📚",
+        "description": (
+            "Learning, demonstration, or proof-of-concept projects — often small "
+            "snippets or tutorials."
+        ),
+    },
+    "archive": {
+        "label": "Archive",
+        "emoji": "🗄️",
+        "description": (
+            "Everything else — inactive, unclassified, or low-signal projects kept "
+            "for reference."
+        ),
+    },
+}
+
+# Tier order for display (flagship first, archive last).
+TIER_ORDER = ["flagship", "showcase", "learning", "archive"]
+
+# Auto-classification thresholds (used when idea_score/impl_score are available).
+TIER_THRESHOLDS = {
+    "flagship": {"idea": 70, "impl": 70},   # both idea and impl >= 70
+    "showcase": {"impl": 75},               # impl >= 75 (idea < flagship)
+    "learning": {"size": "Small"},          # small size, not already flagship/showcase
+}
+
 # Project name -> category key. Projects not listed here default to "misc".
 PROJECT_CATEGORIES = {
     # --- .NET / C# ---

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `bug.report-docker-3106` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Running docker-compose with tty: true |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

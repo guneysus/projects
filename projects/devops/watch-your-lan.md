@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `watch-your-lan` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `guneysu.dev` |
+| **Tier** | 🗄️ Archive |
 | **Description** | personal landing page |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2025-09-14 |
-| **Status** | ✅ Archived |
+| **Status** | ❌ Not archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 50 |
 
 ## Links
 

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.dotnet.custom-config-generator` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Custom config generator for .NET |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

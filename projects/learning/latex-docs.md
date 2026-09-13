@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `latex-docs` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | - Install devenv |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

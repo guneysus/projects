@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `http-experiments` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `fullstack-dotnet-template` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | This is a polyglot monorepo containing: |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

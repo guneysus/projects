@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `00-intro` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

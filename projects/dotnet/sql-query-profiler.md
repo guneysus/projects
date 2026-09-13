@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sql-query-profiler` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 10 |
 
 ## Links
 

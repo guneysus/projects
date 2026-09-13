@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `grammars` |
+| **Tier** | 🗄️ Archive |
 | **Description** | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | Multi |
 | **Impl score** | Multi |
 | **Rating** | Multi |
-| **Score** | 50 |
 
 ## Links
 

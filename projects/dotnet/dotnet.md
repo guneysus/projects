@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

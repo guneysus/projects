@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-dynamic-assembly-loading` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Dynamic assembly loading |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

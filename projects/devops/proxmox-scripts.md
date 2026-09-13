@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `proxmox-scripts` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-16 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 50 |
 | **Rating** | 56 |
-| **Score** | 10 |
 
 ## Links
 

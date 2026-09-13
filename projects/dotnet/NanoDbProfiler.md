@@ -1,34 +1,35 @@
 # NanoDbProfiler
 
-> A tiny profiler without hassle.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `NanoDbProfiler` |
-| **Description** | A tiny profiler without hassle. |
-| **Visibility** | 🔓 Public |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 20 |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/NanoDbProfiler](https://github.com/guneysus/NanoDbProfiler)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/NanoDbProfiler](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/NanoDbProfiler)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/NanoDbProfiler`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/NanoDbProfiler](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/NanoDbProfiler)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/NanoDbProfiler`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

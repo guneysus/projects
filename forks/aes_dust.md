@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aes_dust` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

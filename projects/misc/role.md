@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `role` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

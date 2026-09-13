@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `nqrgen` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 60 |
 | **Rating** | 60 |
-| **Score** | 30 |
 
 ## Links
 

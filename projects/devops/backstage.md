@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `backstage` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Backstage Personal Dev Portal |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

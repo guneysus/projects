@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `hugo-theme-monochrome` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | A fast, clean and responsive hugo theme |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-17 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 85 |
 | **Rating** | 70 |
-| **Score** | 10 |
 
 ## Links
 

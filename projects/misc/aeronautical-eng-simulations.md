@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aeronautical-eng-simulations` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

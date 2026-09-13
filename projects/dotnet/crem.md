@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `crem` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Crud Made Easy |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

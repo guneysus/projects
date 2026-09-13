@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prompts` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Prompt Library |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 60 |
 | **Rating** | 60 |
-| **Score** | 0 |
 
 ## Links
 

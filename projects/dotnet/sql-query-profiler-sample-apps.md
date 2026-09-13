@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sql-query-profiler-sample-apps` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Sample Applications |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-02-07 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 45 |
 | **Impl score** | 55 |
 | **Rating** | 49 |
-| **Score** | 10 |
 
 ## Links
 

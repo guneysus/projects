@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `mssql-TableTruncate` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

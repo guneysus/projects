@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sensorfusion-gps-process` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | GPS sensor fusion |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

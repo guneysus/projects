@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learning` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Learning projects |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-12-06 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | Multi |
 | **Impl score** | Multi |
 | **Rating** | Multi |
-| **Score** | 20 |
 
 ## Links
 

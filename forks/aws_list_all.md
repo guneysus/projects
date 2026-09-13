@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aws_list_all` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

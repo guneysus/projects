@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `gitops-config` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | This project contains Kubernetes configurations for deploying applications using GitOps principles. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

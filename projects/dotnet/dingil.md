@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dingil` |
+| **Tier** | 🗄️ Archive |
 | **Description** | > Generates simple CRUD APIs whose models are defined with YAMLs |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

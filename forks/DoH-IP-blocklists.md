@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `DoH-IP-blocklists` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

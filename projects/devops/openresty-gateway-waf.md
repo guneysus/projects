@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `openresty-gateway-waf` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | required libraries |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

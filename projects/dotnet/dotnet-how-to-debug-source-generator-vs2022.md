@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-how-to-debug-source-generator-vs2022` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

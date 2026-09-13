@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `hg` |
+| **Tier** | 🏆 Flagship Projects |
 | **Description** | HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 80 |
 | **Impl score** | 85 |
 | **Rating** | 82 |
-| **Score** | 50 |
 
 ## Links
 

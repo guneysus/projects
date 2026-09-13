@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `SA-tech-stack-ga` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

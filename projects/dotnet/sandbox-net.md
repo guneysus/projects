@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sandbox-net` |
+| **Tier** | 🗄️ Archive |
 | **Description** | https://stackoverflow.com/a/13187820/1766716 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

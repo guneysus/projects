@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `web-layouts` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | - Bookmarks Template(./bookmarks/index.html) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

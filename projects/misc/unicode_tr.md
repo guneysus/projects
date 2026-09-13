@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `unicode_tr` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

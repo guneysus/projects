@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `pytotube` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | YouTube downloader |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

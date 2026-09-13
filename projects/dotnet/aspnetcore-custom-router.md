@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aspnetcore-custom-router` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

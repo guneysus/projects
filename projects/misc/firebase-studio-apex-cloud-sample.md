@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `firebase-studio-apex-cloud-sample` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | This is a NextJS starter in Firebase Studio. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-09-23 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 75 |
 | **Rating** | 60 |
-| **Score** | 10 |
 
 ## Links
 

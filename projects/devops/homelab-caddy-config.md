@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `homelab-caddy-config` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-ctf` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Empty repository — no files to archive. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

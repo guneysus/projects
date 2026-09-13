@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-html-gen` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | var doc = document( |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

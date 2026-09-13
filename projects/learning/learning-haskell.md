@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learning-haskell` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

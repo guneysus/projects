@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `project-management` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

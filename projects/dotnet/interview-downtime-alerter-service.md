@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `interview-downtime-alerter-service` |
+| **Tier** | 🗄️ Archive |
 | **Description** | user/passwords: |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

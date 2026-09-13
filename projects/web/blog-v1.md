@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `blog-v1` |
+| **Tier** | 🗄️ Archive |
 | **Description** | HEX: #567c73 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

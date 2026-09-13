@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `browser-pick` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Browser bookmark management utility |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

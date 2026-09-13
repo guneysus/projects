@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `project-incubation` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | This is project incubation repository for side projects. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

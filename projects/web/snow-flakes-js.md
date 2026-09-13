@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `snow-flakes-js` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

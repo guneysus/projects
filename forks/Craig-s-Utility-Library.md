@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Craig-s-Utility-Library` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

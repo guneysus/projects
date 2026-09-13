@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `01-creating-a-debugger` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

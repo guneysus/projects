@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `NullFixEnumerable.Fody` |
+| **Tier** | 🗄️ Archive |
 | **Description** | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-11-26 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | Multi |
 | **Impl score** | Multi |
 | **Rating** | Multi |
-| **Score** | 20 |
 
 ## Links
 

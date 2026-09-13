@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `experiments` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

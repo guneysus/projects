@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prank.var.sourcegenerator` |
+| **Tier** | 🏆 Flagship Projects |
 | **Description** | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 75 |
 | **Impl score** | 70 |
 | **Rating** | 73 |
-| **Score** | 50 |
 
 ## Links
 

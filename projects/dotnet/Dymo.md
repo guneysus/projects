@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Dymo` |
+| **Tier** | 🗄️ Archive |
 | **Description** | .NET bytecode manipulation project (Mono.Cecil / MonoMod) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

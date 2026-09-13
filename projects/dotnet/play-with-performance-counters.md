@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `play-with-performance-counters` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

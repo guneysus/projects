@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotfiles` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | https://github.com/ssh0/dot |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

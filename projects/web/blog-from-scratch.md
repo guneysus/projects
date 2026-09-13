@@ -9,11 +9,12 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `blog-from-scratch` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Congratulations! Your new Hugo site was created in X:\git\gitlab.com\guneysu\blog.git. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-07-31 |
-| **Status** | ✅ Archived |
+| **Status** | ❌ Not archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 | **Language** | Markdown |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 60 |
 | **Rating** | 54 |
-| **Score** | 50 |
 
 ## Links
 

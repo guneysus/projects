@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-core-plugins` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | .NET Core plugin system |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

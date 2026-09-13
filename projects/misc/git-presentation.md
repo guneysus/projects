@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-presentation` |
+| **Tier** | 🗄️ Archive |
 | **Description** | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

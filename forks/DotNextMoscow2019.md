@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `DotNextMoscow2019` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

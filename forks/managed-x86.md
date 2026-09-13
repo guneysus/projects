@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `managed-x86` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `docker-images` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | Custom Docker images |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

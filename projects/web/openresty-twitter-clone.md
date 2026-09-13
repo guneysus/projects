@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `openresty-twitter-clone` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Learning OpenResty and Lua |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

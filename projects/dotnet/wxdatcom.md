@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wxdatcom` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Very slow import |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-08-01 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 65 |
 | **Rating** | 56 |
-| **Score** | 85 |
 
 ## Links
 

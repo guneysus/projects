@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learning-graphql` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

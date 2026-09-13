@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `docker-apps` |
+| **Tier** | 🗄️ Archive |
 | **Description** | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 65 |
 | **Rating** | 56 |
-| **Score** | 50 |
 
 ## Links
 

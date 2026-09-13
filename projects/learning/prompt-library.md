@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prompt-library` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | A curated collection of reusable prompts for various AI and LLM applications. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

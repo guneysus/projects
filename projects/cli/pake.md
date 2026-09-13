@@ -1,34 +1,35 @@
 # pake
 
-> GNU Make like simple build/automation tool implemented with Powershell
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `pake` |
-| **Description** | GNU Make like simple build/automation tool implemented with Powershell |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 30 |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/pake](https://github.com/guneysus/pake)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/pake](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/pake)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/pake`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/pake](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/pake)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/pake`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

@@ -1,34 +1,35 @@
 # Typr
 
-> Typr public repo for documentation and website
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `Typr` |
-| **Description** | Typr public repo for documentation and website |
-| **Visibility** | 🔓 Public |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 20 |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Typr](https://github.com/guneysus/Typr)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/Typr`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Typr](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Typr)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/Typr`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

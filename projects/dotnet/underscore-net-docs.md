@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `underscore-net-docs` |
+| **Tier** | 🗄️ Archive |
 | **Description** | > side projects documentation |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

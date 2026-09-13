@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `vulnerable-api` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

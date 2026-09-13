@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Todos` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

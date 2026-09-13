@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dnlib` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

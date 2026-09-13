@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `tutorial-serverless-contact-form` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-10 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 55 |
 | **Rating** | 58 |
-| **Score** | 10 |
 
 ## Links
 

@@ -1,34 +1,35 @@
 # whatismybrowser
 
-> a simple https://www.whatsmybrowser.org clone but on the client side.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `whatismybrowser` |
-| **Description** | a simple https://www.whatsmybrowser.org clone but on the client side. |
-| **Visibility** | 🔓 Public |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-10-14 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
-| **Score** | 70 |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/whatismybrowser](https://github.com/guneysus-archieve/whatismybrowser)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/whatismybrowser](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/whatismybrowser)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/whatismybrowser`
+- **Original repository:** [https://github.com/guneysus/whatismybrowser](https://github.com/guneysus/whatismybrowser)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/whatismybrowser](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/whatismybrowser)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/whatismybrowser`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

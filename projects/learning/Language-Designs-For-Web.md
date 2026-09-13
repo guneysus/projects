@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Language-Designs-For-Web` |
+| **Tier** | 🗄️ Archive |
 | **Description** | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | Multi |
 | **Impl score** | Multi |
 | **Rating** | Multi |
-| **Score** | 55 |
 
 ## Links
 

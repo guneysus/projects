@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `performance-optimization` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

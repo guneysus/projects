@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `deployement-templates` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Deployment templates |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

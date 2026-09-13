@@ -1,6 +1,6 @@
 # EzanVaktiAPI
 
-> Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.
+> *No description available.*
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `EzanVaktiAPI` |
-| **Description** | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2026-08-01 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 95 |
 
 ## Links
 

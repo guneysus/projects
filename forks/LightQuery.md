@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `LightQuery` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

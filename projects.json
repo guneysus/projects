@@ -106,6 +106,10 @@
       "archive",
       "github-guneysus-archive"
     ],
+    "NanoDbProfiler": [
+      "archive",
+      "github-guneysus-archive"
+    ],
     "NullCollectionFix.Fody": [
       "archive",
       "github-guneysus-archive"
@@ -119,6 +123,14 @@
       "github-guneysus-archive"
     ],
     "Startup-CTO-Handbook": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Typr.Source": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Typr": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -154,11 +166,19 @@
       "archive",
       "github-guneysus-archive"
     ],
+    "blog-v2": [
+      "archive",
+      "github-guneysus-archive"
+    ],
     "blog-v3-theme": [
       "archive",
       "github-guneysus-archive"
     ],
     "blog-v3": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "boilerplate": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -171,6 +191,10 @@
       "github-guneysus-archive"
     ],
     "calcpaper": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "calcx": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -211,6 +235,10 @@
       "github-guneysus-archive"
     ],
     "csharp.winforms.autocomplete": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "cv": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -278,6 +306,10 @@
       "archive",
       "github-guneysus-archive"
     ],
+    "galeri.nakizeyn.guneysu.dev": [
+      "archive",
+      "github-guneysus-archive"
+    ],
     "git-ctf": [
       "archive",
       "github-guneysus-archive"
@@ -287,6 +319,14 @@
       "github-guneysus-archive"
     ],
     "git-presentation": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "gohugo-hacker": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "goreplay": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -342,6 +382,10 @@
       "archive",
       "github-guneysus-archive"
     ],
+    "learn-prometheus": [
+      "archive",
+      "github-guneysus-archive"
+    ],
     "learning": [
       "archive",
       "github-guneysus-archive"
@@ -354,11 +398,19 @@
       "archive",
       "github-guneysus-archive"
     ],
+    "mevlana-takvimi": [
+      "archive",
+      "github-guneysus-archive"
+    ],
     "mssql-tools": [
       "archive",
       "github-guneysus-archive"
     ],
     "musahid": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ndig": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -371,6 +423,10 @@
       "github-guneysus-archive"
     ],
     "openresty-twitter-clone": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "pake": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -415,6 +471,10 @@
       "github-guneysus-archive"
     ],
     "pytotube": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ramblings": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -495,6 +555,10 @@
       "github-guneysus-archive"
     ],
     "web-layouts": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "whatismybrowser": [
       "archive",
       "github-guneysus-archive"
     ],
@@ -1778,8 +1842,7 @@
       "rating": "56",
       "idea": "Docker Compose configurations for self-hosted applications",
       "idea_score": "50",
-      "impl_score": "65",
-      "score": "50"
+      "impl_score": "65"
     },
     {
       "name": "dotnet-extension-methods",
@@ -1898,8 +1961,7 @@
       "rating": "Multi",
       "idea": "Collection of parsers and language processing tools including Calcx",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "25"
+      "impl_score": "Multi"
     },
     {
       "name": "project-incubation",
@@ -2008,18 +2070,17 @@
     },
     {
       "name": ".cli-template_dotnet",
-      "description": ".NET CLI Tool Template",
+      "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2024-12-11",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/.cli-template_dotnet",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "duplicate_of": null
     },
     {
       "name": "Devup",
@@ -2047,7 +2108,7 @@
       "description": "Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-18",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2061,15 +2122,14 @@
       "rating": "Multi",
       "idea": "Intercept and inspect EF Core SQL queries in-browser during development",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "GraphQL.Tools",
       "description": "!PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com)",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2083,15 +2143,14 @@
       "rating": "Multi",
       "idea": "Code-generate C# types from GraphQL schemas for type-safe GraphQL clients",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "60"
+      "impl_score": "Multi"
     },
     {
       "name": "Language-Designs-For-Web",
       "description": "The aim of this repository is designing simple languages to be used for web apps giving more dynamic features.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2105,15 +2164,28 @@
       "rating": "Multi",
       "idea": "The aim of this repository is designing simple languages to be used for web apps giving more dynamic features.",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "55"
+      "impl_score": "Multi"
+    },
+    {
+      "name": "NanoDbProfiler",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/NanoDbProfiler",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NullCollectionFix.Fody",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-18",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2127,15 +2199,14 @@
       "rating": "Multi",
       "idea": "",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "25"
+      "impl_score": "Multi"
     },
     {
       "name": "NullFixEnumerable.Fody",
       "description": "https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2024-11-26",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2149,15 +2220,14 @@
       "rating": "Multi",
       "idea": "https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "SqlServer.Rules",
       "description": "A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-04-02",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2171,15 +2241,14 @@
       "rating": "Multi",
       "idea": "Static analysis rules for SQL Server code quality and best practices",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "Startup-CTO-Handbook",
       "description": "You can view the latest content of the book in markdown here(StartupCTOHandbook.md)",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-04-02",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2193,8 +2262,35 @@
       "rating": "58",
       "idea": "Curated knowledge base for startup CTOs covering technical leadership",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "20"
+      "impl_score": "55"
+    },
+    {
+      "name": "Typr.Source",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/Typr.Source",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Typr",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/Typr",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "algoritms",
@@ -2222,7 +2318,7 @@
       "description": "-   Discourerage using DateTime",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2236,8 +2332,7 @@
       "rating": "Multi",
       "idea": "Roslyn code analyzers for C# code quality enforcement",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "50"
+      "impl_score": "Multi"
     },
     {
       "name": "app.namazvaktim",
@@ -2265,15 +2360,14 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/asp-net-sample-apps",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "50"
+      "duplicate_of": null
     },
     {
       "name": "aspcore-sample-apps",
@@ -2322,7 +2416,7 @@
       "description": "Background information display utility",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2336,8 +2430,7 @@
       "rating": "58",
       "idea": "Background information display utility",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "blog-v1",
@@ -2361,11 +2454,25 @@
       "impl_score": "Multi"
     },
     {
+      "name": "blog-v2",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/blog-v2",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "blog-v3-theme",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-06-05",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2379,15 +2486,14 @@
       "rating": "64",
       "idea": "Custom Hugo theme for blog-v3 personal site",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "20"
+      "impl_score": "70"
     },
     {
       "name": "blog-v3",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2401,8 +2507,21 @@
       "rating": "Multi",
       "idea": "Personal blog v3 built with Hugo static site generator",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "40"
+      "impl_score": "Multi"
+    },
+    {
+      "name": "boilerplate",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/boilerplate",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "browser-pick",
@@ -2468,6 +2587,20 @@
       "impl_score": "55"
     },
     {
+      "name": "calcx",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/calcx",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "chess.js",
       "description": "JavaScript chess engine",
       "visibility": "private",
@@ -2493,7 +2626,7 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2507,8 +2640,7 @@
       "rating": "58",
       "idea": "Centralized development configuration files and dotfiles",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "crem",
@@ -2677,6 +2809,20 @@
       "idea": "WinForms autocomplete textbox with LINQ and EF",
       "idea_score": "60",
       "impl_score": "60"
+    },
+    {
+      "name": "cv",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/cv",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "deployement-templates",
@@ -2977,7 +3123,7 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -2991,15 +3137,14 @@
       "rating": "58",
       "idea": "Collection of useful C# extension methods for common patterns",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "firebase-studio-apex-cloud-sample",
       "description": "This is a NextJS starter in Firebase Studio.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-09-23",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3013,8 +3158,21 @@
       "rating": "60",
       "idea": "Next.js starter project for Firebase Studio cloud IDE",
       "idea_score": "50",
-      "impl_score": "75",
-      "score": "10"
+      "impl_score": "75"
+    },
+    {
+      "name": "galeri.nakizeyn.guneysu.dev",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/galeri.nakizeyn.guneysu.dev",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "git-ctf",
@@ -3042,7 +3200,7 @@
       "description": "Jump between git branches using your keyboard up/down arrow keys.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3056,8 +3214,7 @@
       "rating": "74",
       "idea": "Interactive terminal UI for fast git branch switching with keyboard navigation",
       "idea_score": "80",
-      "impl_score": "65",
-      "score": "55"
+      "impl_score": "65"
     },
     {
       "name": "git-presentation",
@@ -3081,11 +3238,39 @@
       "impl_score": "55"
     },
     {
+      "name": "gohugo-hacker",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/gohugo-hacker",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "goreplay",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/goreplay",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "grammars",
       "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3099,15 +3284,14 @@
       "rating": "Multi",
       "idea": "Collection of grammar definitions for parsers and language tools",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "50"
+      "impl_score": "Multi"
     },
     {
       "name": "grepz",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-04-02",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3121,15 +3305,14 @@
       "rating": "64",
       "idea": "Enhanced grep-like search tool with additional features",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "20"
+      "impl_score": "70"
     },
     {
       "name": "guneysus.github.io-archieved",
       "description": "- exif(exif/)",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3143,15 +3326,14 @@
       "rating": "54",
       "idea": "Archived personal GitHub Pages site with blog content",
       "idea_score": "50",
-      "impl_score": "60",
-      "score": "50"
+      "impl_score": "60"
     },
     {
       "name": "guneysus",
       "description": "- C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2023-04-05",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3165,15 +3347,14 @@
       "rating": "64",
       "idea": "Personal blog and technical writing on functional programming and .NET",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "40"
+      "impl_score": "70"
     },
     {
       "name": "hg",
       "description": "HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3187,15 +3368,14 @@
       "rating": "82",
       "idea": "C# HTML generation DSL using operator overloading for fluent markup",
       "idea_score": "80",
-      "impl_score": "85",
-      "score": "50"
+      "impl_score": "85"
     },
     {
       "name": "hugo-theme-monochrome",
       "description": "A fast, clean and responsive hugo theme",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-17",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3209,8 +3389,7 @@
       "rating": "70",
       "idea": "Minimal monochrome Hugo theme for clean content presentation",
       "idea_score": "60",
-      "impl_score": "85",
-      "score": "10"
+      "impl_score": "85"
     },
     {
       "name": "humanizer-tr",
@@ -3280,7 +3459,7 @@
       "description": "Keychron layouts",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-08",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3294,8 +3473,7 @@
       "rating": "56",
       "idea": "Custom key mappings and layouts for Keychron keyboards",
       "idea_score": "60",
-      "impl_score": "50",
-      "score": "10"
+      "impl_score": "50"
     },
     {
       "name": "kvb-iot-demo",
@@ -3323,37 +3501,49 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learn-go",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "learn-lisp",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-16",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learn-lisp",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
+    },
+    {
+      "name": "learn-prometheus",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/learn-prometheus",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learning",
       "description": "Learning projects",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2024-12-06",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3367,15 +3557,14 @@
       "rating": "Multi",
       "idea": "Personal learning projects and code experiments",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "llm",
       "description": "Some adhoc LLM experiments.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3389,15 +3578,14 @@
       "rating": "60",
       "idea": "Ad-hoc experiments with large language models and AI",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "40"
+      "impl_score": "60"
     },
     {
       "name": "memoryleak",
       "description": "Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-04-02",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3411,8 +3599,21 @@
       "rating": "80",
       "idea": "Educational tool demonstrating .NET memory leak patterns and debugging",
       "idea_score": "80",
-      "impl_score": "80",
-      "score": "30"
+      "impl_score": "80"
+    },
+    {
+      "name": "mevlana-takvimi",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/mevlana-takvimi",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mssql-tools",
@@ -3457,11 +3658,25 @@
       "impl_score": "55"
     },
     {
+      "name": "ndig",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/ndig",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "nqrgen",
       "description": "scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-01-09",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3475,8 +3690,7 @@
       "rating": "60",
       "idea": "QR code generator CLI tool with customizable output",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "30"
+      "impl_score": "60"
     },
     {
       "name": "openresty-gateway-waf",
@@ -3521,11 +3735,25 @@
       "impl_score": "60"
     },
     {
+      "name": "pake",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/pake",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "personal-blog-theme-gohugo-soothing",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3539,8 +3767,7 @@
       "rating": "64",
       "idea": "Custom Hugo theme for personal blogging with soothing design",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "70"
+      "impl_score": "70"
     },
     {
       "name": "peview",
@@ -3568,7 +3795,7 @@
       "description": "The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q)",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3582,8 +3809,7 @@
       "rating": "73",
       "idea": "C# source generator that replaces 'var' with explicit types at compile time",
       "idea_score": "75",
-      "impl_score": "70",
-      "score": "50"
+      "impl_score": "70"
     },
     {
       "name": "prayer-times-android",
@@ -3653,7 +3879,7 @@
       "description": "Prompt Library",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3667,15 +3893,14 @@
       "rating": "60",
       "idea": "Personal prompt library for AI coding assistants",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "0"
+      "impl_score": "60"
     },
     {
       "name": "proxmox-scripts",
       "description": "bash -c \"$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)\"",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-16",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3689,8 +3914,7 @@
       "rating": "56",
       "idea": "Post-installation automation scripts for Proxmox VE hypervisor",
       "idea_score": "60",
-      "impl_score": "50",
-      "score": "10"
+      "impl_score": "50"
     },
     {
       "name": "pw",
@@ -3756,11 +3980,25 @@
       "impl_score": "50"
     },
     {
+      "name": "ramblings",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/ramblings",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "rende",
       "description": "scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-01-09",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3774,8 +4012,7 @@
       "rating": "58",
       "idea": "Cross-platform rendering utility tool",
       "idea_score": "50",
-      "impl_score": "70",
-      "score": "25"
+      "impl_score": "70"
     },
     {
       "name": "sandbox-net",
@@ -3803,15 +4040,14 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/sd-llm-benchmark",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "50"
+      "duplicate_of": null
     },
     {
       "name": "sensorfusion-gps-process",
@@ -3958,7 +4194,7 @@
       "description": "Sample Applications",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-02-07",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -3972,30 +4208,28 @@
       "rating": "49",
       "idea": "Sample applications demonstrating SQL query profiler usage",
       "idea_score": "45",
-      "impl_score": "55",
-      "score": "10"
+      "impl_score": "55"
     },
     {
       "name": "sql-query-profiler",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/sql-query-profiler",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "10"
+      "duplicate_of": null
     },
     {
       "name": "swe-route-optimization-project",
       "description": "A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges.",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-18",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -4009,8 +4243,7 @@
       "rating": "80",
       "idea": "Vehicle routing optimization using Google OR-Tools for logistics",
       "idea_score": "70",
-      "impl_score": "95",
-      "score": "0"
+      "impl_score": "95"
     },
     {
       "name": "testere",
@@ -4038,7 +4271,7 @@
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-01-09",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -4052,30 +4285,28 @@
       "rating": "Multi",
       "idea": "GraphQL-based todo list API template with various .NET backends",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "10"
+      "impl_score": "Multi"
     },
     {
       "name": "torque-collector-net-clickhouse",
       "description": "",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-07-31",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/torque-collector-net-clickhouse",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "50"
+      "duplicate_of": null
     },
     {
       "name": "tutorial-serverless-contact-form",
       "description": "Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-10",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -4089,8 +4320,7 @@
       "rating": "58",
       "idea": "Serverless contact form using Netlify Functions and Cloudflare Zero Trust",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "10"
+      "impl_score": "55"
     },
     {
       "name": "underscore-net-docs",
@@ -4156,6 +4386,20 @@
       "impl_score": "55"
     },
     {
+      "name": "whatismybrowser",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "repos/github.com/guneysus/whatismybrowser",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "wox-prayer-times-plugin",
       "description": "wox plugins",
       "visibility": "private",
@@ -4181,7 +4425,7 @@
       "description": "wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2025-10-17",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -4195,15 +4439,14 @@
       "rating": "72",
       "idea": "Convert WSDL to OpenAPI v3 via soap-converter + swagger2openapi",
       "idea_score": "80",
-      "impl_score": "60",
-      "score": "30"
+      "impl_score": "60"
     },
     {
       "name": "wxdatcom",
       "description": "Very slow import",
       "visibility": "private",
       "fork": false,
-      "last_activity": "2026-08-01",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
@@ -4217,8 +4460,7 @@
       "rating": "56",
       "idea": "wxWidgets-based DATCOM interface for aircraft design calculations",
       "idea_score": "50",
-      "impl_score": "65",
-      "score": "85"
+      "impl_score": "65"
     },
     {
       "name": "acme-welcome-dotnet",
@@ -4306,48 +4548,45 @@
     },
     {
       "name": "EzanVaktiAPI",
-      "description": "Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.",
+      "description": "",
       "visibility": "private",
       "fork": true,
-      "last_activity": "2026-08-01",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "forks/github.com/guneysus/EzanVaktiAPI",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "95"
+      "duplicate_of": null
     },
     {
       "name": "PluginFramework",
-      "description": "Everything is a Plugin in .NET",
+      "description": "",
       "visibility": "private",
       "fork": true,
-      "last_activity": "2025-10-21",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "forks/github.com/guneysus/PluginFramework",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "45"
+      "duplicate_of": null
     },
     {
       "name": "lcnc-security-engine",
-      "description": "Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review.",
+      "description": "",
       "visibility": "private",
       "fork": true,
-      "last_activity": "2026-07-06",
+      "last_activity": "",
       "archived": true,
       "source": "github",
       "owner": "guneysus",
       "archive_path": "forks/github.com/guneysus/lcnc-security-engine",
       "archive_repo": "archive",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "15"
+      "duplicate_of": null
     },
     {
       "name": ".template-powershell-core-binary-module",
@@ -5299,8 +5538,7 @@
       "rating": "56",
       "idea": "Docker Compose configurations for self-hosted applications",
       "idea_score": "50",
-      "impl_score": "65",
-      "score": "50"
+      "impl_score": "65"
     },
     {
       "name": "dotnet-extension-methods",
@@ -5419,8 +5657,7 @@
       "rating": "Multi",
       "idea": "Collection of parsers and language processing tools including Calcx",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "25"
+      "impl_score": "Multi"
     },
     {
       "name": "project-incubation",
@@ -5623,8 +5860,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/.cli-template_dotnet",
       "canonical": false,
-      "duplicate_of": ".cli-template_dotnet",
-      "score": "20"
+      "duplicate_of": ".cli-template_dotnet"
     },
     {
       "name": "aes",
@@ -5666,8 +5902,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ai",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "algoritms",
@@ -5696,7 +5931,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -5709,8 +5944,7 @@
       "rating": "Multi",
       "idea": "Roslyn code analyzers for C# code quality enforcement",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "50"
+      "impl_score": "Multi"
     },
     {
       "name": "app.namazvaktim",
@@ -5753,14 +5987,13 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/asp-net-sample-apps",
       "canonical": false,
-      "duplicate_of": "asp-net-sample-apps",
-      "score": "50"
+      "duplicate_of": "asp-net-sample-apps"
     },
     {
       "name": "aspcore-sample-apps",
@@ -5824,7 +6057,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -5837,8 +6070,7 @@
       "rating": "58",
       "idea": "Background information display utility",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "bin",
@@ -5860,7 +6092,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -5873,8 +6105,7 @@
       "rating": "54",
       "idea": "Hugo-based personal blog built from scratch",
       "idea_score": "50",
-      "impl_score": "60",
-      "score": "50"
+      "impl_score": "60"
     },
     {
       "name": "blog-v1",
@@ -5908,9 +6139,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/blog-v2",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "canonical": false,
+      "duplicate_of": "blog-v2"
     },
     {
       "name": "blog-v3",
@@ -5918,7 +6148,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -5931,8 +6161,7 @@
       "rating": "Multi",
       "idea": "Personal blog v3 built with Hugo static site generator",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "40"
+      "impl_score": "Multi"
     },
     {
       "name": "blog-v3-theme",
@@ -5953,8 +6182,7 @@
       "rating": "64",
       "idea": "Custom Hugo theme for blog-v3 personal site",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "20"
+      "impl_score": "70"
     },
     {
       "name": "boilerplate",
@@ -5967,9 +6195,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/boilerplate",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "10"
+      "canonical": false,
+      "duplicate_of": "boilerplate"
     },
     {
       "name": "browser-pick",
@@ -6038,9 +6265,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/calcx",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "10"
+      "canonical": false,
+      "duplicate_of": "calcx"
     },
     {
       "name": "chess.js",
@@ -6083,7 +6309,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6096,8 +6322,7 @@
       "rating": "58",
       "idea": "Centralized development configuration files and dotfiles",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "CoreHook",
@@ -6173,9 +6398,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/cv",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "10"
+      "canonical": false,
+      "duplicate_of": "cv"
     },
     {
       "name": "de4dot",
@@ -6323,7 +6547,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6336,8 +6560,7 @@
       "rating": "56",
       "idea": "Docker Compose configurations for self-hosted applications",
       "idea_score": "50",
-      "impl_score": "65",
-      "score": "50"
+      "impl_score": "65"
     },
     {
       "name": "docker-baseimage-rdesktop",
@@ -6638,8 +6861,7 @@
       "rating": "Multi",
       "idea": "Intercept and inspect EF Core SQL queries in-browser during development",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "extension-methods",
@@ -6647,7 +6869,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6660,8 +6882,7 @@
       "rating": "58",
       "idea": "Collection of useful C# extension methods for common patterns",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "50"
+      "impl_score": "55"
     },
     {
       "name": "EzanVaktiAPI",
@@ -6669,14 +6890,13 @@
       "visibility": "public",
       "fork": true,
       "last_activity": "2023-01-28",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/EzanVaktiAPI",
       "canonical": false,
-      "duplicate_of": "EzanVaktiAPI",
-      "score": "95"
+      "duplicate_of": "EzanVaktiAPI"
     },
     {
       "name": "firebase-studio-apex-cloud-sample",
@@ -6697,8 +6917,7 @@
       "rating": "60",
       "idea": "Next.js starter project for Firebase Studio cloud IDE",
       "idea_score": "50",
-      "impl_score": "75",
-      "score": "10"
+      "impl_score": "75"
     },
     {
       "name": "galeri.nakizeyn.guneysu.dev",
@@ -6711,9 +6930,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "50"
+      "canonical": false,
+      "duplicate_of": "galeri.nakizeyn.guneysu.dev"
     },
     {
       "name": "git-jump",
@@ -6721,7 +6939,7 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6734,8 +6952,7 @@
       "rating": "74",
       "idea": "Interactive terminal UI for fast git branch switching with keyboard navigation",
       "idea_score": "80",
-      "impl_score": "65",
-      "score": "55"
+      "impl_score": "65"
     },
     {
       "name": "gohugo-hacker",
@@ -6748,9 +6965,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/gohugo-hacker",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "30"
+      "canonical": false,
+      "duplicate_of": "gohugo-hacker"
     },
     {
       "name": "goreplay",
@@ -6763,9 +6979,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/goreplay",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "canonical": false,
+      "duplicate_of": "goreplay"
     },
     {
       "name": "grammars",
@@ -6773,7 +6988,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6786,8 +7001,7 @@
       "rating": "Multi",
       "idea": "Collection of grammar definitions for parsers and language tools",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "50"
+      "impl_score": "Multi"
     },
     {
       "name": "GraphQL.Tools",
@@ -6795,7 +7009,7 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6808,8 +7022,7 @@
       "rating": "Multi",
       "idea": "Code-generate C# types from GraphQL schemas for type-safe GraphQL clients",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "60"
+      "impl_score": "Multi"
     },
     {
       "name": "grepz",
@@ -6830,8 +7043,7 @@
       "rating": "64",
       "idea": "Enhanced grep-like search tool with additional features",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "20"
+      "impl_score": "70"
     },
     {
       "name": "guneysu.dev",
@@ -6839,14 +7051,13 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2025-09-14",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/guneysu.dev",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "50"
+      "duplicate_of": null
     },
     {
       "name": "guneysus",
@@ -6867,8 +7078,7 @@
       "rating": "64",
       "idea": "Personal blog and technical writing on functional programming and .NET",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "40"
+      "impl_score": "70"
     },
     {
       "name": "guneysus.github.io-archieved",
@@ -6876,7 +7086,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6889,8 +7099,7 @@
       "rating": "54",
       "idea": "Archived personal GitHub Pages site with blog content",
       "idea_score": "50",
-      "impl_score": "60",
-      "score": "50"
+      "impl_score": "60"
     },
     {
       "name": "hugo-theme-monochrome",
@@ -6911,8 +7120,7 @@
       "rating": "70",
       "idea": "Minimal monochrome Hugo theme for clean content presentation",
       "idea_score": "60",
-      "impl_score": "85",
-      "score": "10"
+      "impl_score": "85"
     },
     {
       "name": "kb",
@@ -6926,8 +7134,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/kb",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "15"
+      "duplicate_of": null
     },
     {
       "name": "keychron-layouts",
@@ -6948,8 +7155,7 @@
       "rating": "56",
       "idea": "Custom key mappings and layouts for Keychron keyboards",
       "idea_score": "60",
-      "impl_score": "50",
-      "score": "10"
+      "impl_score": "50"
     },
     {
       "name": "keys",
@@ -6971,7 +7177,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -6984,8 +7190,7 @@
       "rating": "Multi",
       "idea": "The aim of this repository is designing simple languages to be used for web apps giving more dynamic features.",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "55"
+      "impl_score": "Multi"
     },
     {
       "name": "lcnc-security-engine",
@@ -6999,8 +7204,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/lcnc-security-engine",
       "canonical": false,
-      "duplicate_of": "lcnc-security-engine",
-      "score": "15"
+      "duplicate_of": "lcnc-security-engine"
     },
     {
       "name": "learn-agentic-ai",
@@ -7014,8 +7218,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-agentic-ai",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "learn-fsharp",
@@ -7029,8 +7232,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-fsharp",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "learn-go",
@@ -7044,8 +7246,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-go",
       "canonical": false,
-      "duplicate_of": "learn-go",
-      "score": "0"
+      "duplicate_of": "learn-go"
     },
     {
       "name": "learn-lisp",
@@ -7059,8 +7260,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-lisp",
       "canonical": false,
-      "duplicate_of": "learn-lisp",
-      "score": "0"
+      "duplicate_of": "learn-lisp"
     },
     {
       "name": "learn-mastering-dotnet-expression-trees",
@@ -7074,8 +7274,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-mastering-dotnet-expression-trees",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "learn-mcp",
@@ -7089,8 +7288,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-mcp",
       "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "duplicate_of": null
     },
     {
       "name": "learn-prometheus",
@@ -7103,9 +7301,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/learn-prometheus",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "canonical": false,
+      "duplicate_of": "learn-prometheus"
     },
     {
       "name": "learning",
@@ -7126,8 +7323,7 @@
       "rating": "Multi",
       "idea": "Personal learning projects and code experiments",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "llm",
@@ -7135,7 +7331,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -7148,8 +7344,7 @@
       "rating": "60",
       "idea": "Ad-hoc experiments with large language models and AI",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "40"
+      "impl_score": "60"
     },
     {
       "name": "memoryleak",
@@ -7170,8 +7365,7 @@
       "rating": "80",
       "idea": "Educational tool demonstrating .NET memory leak patterns and debugging",
       "idea_score": "80",
-      "impl_score": "80",
-      "score": "30"
+      "impl_score": "80"
     },
     {
       "name": "mevlana-takvimi",
@@ -7184,9 +7378,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/mevlana-takvimi",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "canonical": false,
+      "duplicate_of": "mevlana-takvimi"
     },
     {
       "name": "NanoDbProfiler",
@@ -7199,9 +7392,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/NanoDbProfiler",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "canonical": false,
+      "duplicate_of": "NanoDbProfiler"
     },
     {
       "name": "ndig",
@@ -7209,14 +7401,13 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ndig",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "60"
+      "canonical": false,
+      "duplicate_of": "ndig"
     },
     {
       "name": "nqrgen",
@@ -7237,8 +7428,7 @@
       "rating": "60",
       "idea": "QR code generator CLI tool with customizable output",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "30"
+      "impl_score": "60"
     },
     {
       "name": "NullCollectionFix.Fody",
@@ -7259,8 +7449,7 @@
       "rating": "Multi",
       "idea": "",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "25"
+      "impl_score": "Multi"
     },
     {
       "name": "NullFixEnumerable.Fody",
@@ -7281,8 +7470,7 @@
       "rating": "Multi",
       "idea": "https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "pake",
@@ -7295,9 +7483,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/pake",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "30"
+      "canonical": false,
+      "duplicate_of": "pake"
     },
     {
       "name": "parsers",
@@ -7318,8 +7505,7 @@
       "rating": "Multi",
       "idea": "Collection of parsers and language processing tools including Calcx",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "25"
+      "impl_score": "Multi"
     },
     {
       "name": "personal-blog-theme-gohugo-soothing",
@@ -7327,7 +7513,7 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -7340,8 +7526,7 @@
       "rating": "64",
       "idea": "Custom Hugo theme for personal blogging with soothing design",
       "idea_score": "60",
-      "impl_score": "70",
-      "score": "70"
+      "impl_score": "70"
     },
     {
       "name": "PluginFramework",
@@ -7355,8 +7540,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/PluginFramework",
       "canonical": false,
-      "duplicate_of": "PluginFramework",
-      "score": "45"
+      "duplicate_of": "PluginFramework"
     },
     {
       "name": "prank.var.sourcegenerator",
@@ -7364,7 +7548,7 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -7377,8 +7561,7 @@
       "rating": "73",
       "idea": "C# source generator that replaces 'var' with explicit types at compile time",
       "idea_score": "75",
-      "impl_score": "70",
-      "score": "50"
+      "impl_score": "70"
     },
     {
       "name": "prompts",
@@ -7399,8 +7582,7 @@
       "rating": "60",
       "idea": "Personal prompt library for AI coding assistants",
       "idea_score": "60",
-      "impl_score": "60",
-      "score": "0"
+      "impl_score": "60"
     },
     {
       "name": "proxmox-scripts",
@@ -7421,8 +7603,7 @@
       "rating": "56",
       "idea": "Post-installation automation scripts for Proxmox VE hypervisor",
       "idea_score": "60",
-      "impl_score": "50",
-      "score": "10"
+      "impl_score": "50"
     },
     {
       "name": "ramblings",
@@ -7435,9 +7616,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ramblings",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "0"
+      "canonical": false,
+      "duplicate_of": "ramblings"
     },
     {
       "name": "rende",
@@ -7458,8 +7638,7 @@
       "rating": "58",
       "idea": "Cross-platform rendering utility tool",
       "idea_score": "50",
-      "impl_score": "70",
-      "score": "25"
+      "impl_score": "70"
     },
     {
       "name": "sd-llm-benchmark",
@@ -7467,14 +7646,13 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/sd-llm-benchmark",
       "canonical": false,
-      "duplicate_of": "sd-llm-benchmark",
-      "score": "50"
+      "duplicate_of": "sd-llm-benchmark"
     },
     {
       "name": "sql-query-profiler",
@@ -7488,8 +7666,7 @@
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/sql-query-profiler",
       "canonical": false,
-      "duplicate_of": "sql-query-profiler",
-      "score": "10"
+      "duplicate_of": "sql-query-profiler"
     },
     {
       "name": "sql-query-profiler-sample-apps",
@@ -7510,8 +7687,7 @@
       "rating": "49",
       "idea": "Sample applications demonstrating SQL query profiler usage",
       "idea_score": "45",
-      "impl_score": "55",
-      "score": "10"
+      "impl_score": "55"
     },
     {
       "name": "SqlServer.Rules",
@@ -7532,8 +7708,7 @@
       "rating": "Multi",
       "idea": "Static analysis rules for SQL Server code quality and best practices",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "20"
+      "impl_score": "Multi"
     },
     {
       "name": "Startup-CTO-Handbook",
@@ -7554,8 +7729,7 @@
       "rating": "58",
       "idea": "Curated knowledge base for startup CTOs covering technical leadership",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "20"
+      "impl_score": "55"
     },
     {
       "name": "swe-route-optimization-project",
@@ -7576,8 +7750,7 @@
       "rating": "80",
       "idea": "Vehicle routing optimization using Google OR-Tools for logistics",
       "idea_score": "70",
-      "impl_score": "95",
-      "score": "0"
+      "impl_score": "95"
     },
     {
       "name": "todo-gql",
@@ -7598,8 +7771,7 @@
       "rating": "Multi",
       "idea": "GraphQL-based todo list API template with various .NET backends",
       "idea_score": "Multi",
-      "impl_score": "Multi",
-      "score": "10"
+      "impl_score": "Multi"
     },
     {
       "name": "torque-collector-net-clickhouse",
@@ -7607,14 +7779,13 @@
       "visibility": "private",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/torque-collector-net-clickhouse",
       "canonical": false,
-      "duplicate_of": "torque-collector-net-clickhouse",
-      "score": "50"
+      "duplicate_of": "torque-collector-net-clickhouse"
     },
     {
       "name": "tutorial-serverless-contact-form",
@@ -7635,8 +7806,7 @@
       "rating": "58",
       "idea": "Serverless contact form using Netlify Functions and Cloudflare Zero Trust",
       "idea_score": "60",
-      "impl_score": "55",
-      "score": "10"
+      "impl_score": "55"
     },
     {
       "name": "Typr",
@@ -7649,9 +7819,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Typr",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "20"
+      "canonical": false,
+      "duplicate_of": "Typr"
     },
     {
       "name": "Typr.Source",
@@ -7664,9 +7833,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Typr.Source",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "10"
+      "canonical": false,
+      "duplicate_of": "Typr.Source"
     },
     {
       "name": "whatismybrowser",
@@ -7674,14 +7842,13 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2024-10-14",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/whatismybrowser",
-      "canonical": true,
-      "duplicate_of": null,
-      "score": "70"
+      "canonical": false,
+      "duplicate_of": "whatismybrowser"
     },
     {
       "name": "wsdl2swagger2openapi",
@@ -7702,8 +7869,7 @@
       "rating": "72",
       "idea": "Convert WSDL to OpenAPI v3 via soap-converter + swagger2openapi",
       "idea_score": "80",
-      "impl_score": "60",
-      "score": "30"
+      "impl_score": "60"
     },
     {
       "name": "wxdatcom",
@@ -7711,7 +7877,7 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2023-01-28",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
@@ -7724,8 +7890,7 @@
       "rating": "56",
       "idea": "wxWidgets-based DATCOM interface for aircraft design calculations",
       "idea_score": "50",
-      "impl_score": "65",
-      "score": "85"
+      "impl_score": "65"
     },
     {
       "name": "dotnetcore-imageserver",
@@ -7824,7 +7989,7 @@
       "visibility": "public",
       "fork": false,
       "last_activity": "2026-07-31",
-      "archived": true,
+      "archived": false,
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
@@ -7837,8 +8002,7 @@
       "rating": "82",
       "idea": "C# HTML generation DSL using operator overloading for fluent markup",
       "idea_score": "80",
-      "impl_score": "85",
-      "score": "50"
+      "impl_score": "85"
     },
     {
       "name": "har-spec",

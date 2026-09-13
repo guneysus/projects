@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `templates` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Default Variables |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sql-injection` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

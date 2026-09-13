@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dinq` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | Dynamic LINQ query builder |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

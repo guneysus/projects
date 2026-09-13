@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `skaf` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | This repo contains the source code for Skaf which is a SaaS |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

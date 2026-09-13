@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `predicate-builder` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Simple predicate string parser |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `memoryleak` |
+| **Tier** | 🏆 Flagship Projects |
 | **Description** | Memory management is complex, even in a managed framework like .NET. Analyzing and understanding memory issues can be challenging. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 80 |
 | **Impl score** | 80 |
 | **Rating** | 80 |
-| **Score** | 30 |
 
 ## Links
 

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `har-spec` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

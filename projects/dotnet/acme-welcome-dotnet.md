@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `acme-welcome-dotnet` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | command log |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

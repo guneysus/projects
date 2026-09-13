@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `rende` |
+| **Tier** | 🗄️ Archive |
 | **Description** | scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 50 |
 | **Impl score** | 70 |
 | **Rating** | 58 |
-| **Score** | 25 |
 
 ## Links
 

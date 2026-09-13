@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `vaultwarden` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

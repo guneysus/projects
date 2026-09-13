@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `kvb-iot-demo` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | KVB IoT demo |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

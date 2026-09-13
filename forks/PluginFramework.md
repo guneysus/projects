@@ -1,6 +1,6 @@
 # PluginFramework
 
-> Everything is a Plugin in .NET
+> *No description available.*
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `PluginFramework` |
-| **Description** | Everything is a Plugin in .NET |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2025-10-21 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 45 |
 
 ## Links
 

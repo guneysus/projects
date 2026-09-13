@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Startup-CTO-Handbook` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | You can view the latest content of the book in markdown here(StartupCTOHandbook.md) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 55 |
 | **Rating** | 58 |
-| **Score** | 20 |
 
 ## Links
 

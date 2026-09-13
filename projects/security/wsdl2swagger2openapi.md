@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wsdl2swagger2openapi` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-17 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 80 |
 | **Impl score** | 60 |
 | **Rating** | 72 |
-| **Score** | 30 |
 
 ## Links
 

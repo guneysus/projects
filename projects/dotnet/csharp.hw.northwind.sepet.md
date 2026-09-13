@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.hw.northwind.sepet` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Sipariş/Sepet |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

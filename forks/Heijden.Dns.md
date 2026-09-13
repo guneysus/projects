@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Heijden.Dns` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `keychron-layouts` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Keychron layouts |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-08 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 50 |
 | **Rating** | 56 |
-| **Score** | 10 |
 
 ## Links
 

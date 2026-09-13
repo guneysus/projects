@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aspcore-sample-apps` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Sample ASP.NET Core applications |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

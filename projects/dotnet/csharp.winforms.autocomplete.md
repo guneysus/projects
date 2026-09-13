@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.winforms.autocomplete` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sample-tests` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

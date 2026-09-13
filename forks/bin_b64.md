@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `bin_b64` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

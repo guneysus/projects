@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `powertoys-new-plus-templates` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

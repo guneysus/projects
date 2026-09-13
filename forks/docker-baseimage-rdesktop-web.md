@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `docker-baseimage-rdesktop-web` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

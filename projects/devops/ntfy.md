@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `ntfy` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prayer-times-android` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Minimal persisten notification based android application using the prayer times api |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

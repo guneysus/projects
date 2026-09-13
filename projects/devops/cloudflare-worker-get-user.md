@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `cloudflare-worker-get-user` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

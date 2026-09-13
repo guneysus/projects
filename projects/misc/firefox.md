@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `firefox` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

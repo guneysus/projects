@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `app.namazvaktim` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | > Prayer Times |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

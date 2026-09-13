@@ -1,6 +1,6 @@
 # lcnc-security-engine
 
-> Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review.
+> *No description available.*
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,14 +9,14 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `lcnc-security-engine` |
-| **Description** | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2026-07-06 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 15 |
 
 ## Links
 

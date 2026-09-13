@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learn-mastering-dotnet-expression-trees` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
@@ -16,7 +17,6 @@
 | **Status** | ❌ Not archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 0 |
 
 ## Links
 

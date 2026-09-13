@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `selenium-webdriver-winappdriver-example` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

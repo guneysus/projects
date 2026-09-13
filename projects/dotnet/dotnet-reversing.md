@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-reversing` |
+| **Tier** | 🗄️ Archive |
 | **Description** | .NET reverse engineering |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

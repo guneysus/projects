@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `mssql-tools` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Simple Toolkits |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `interview-project-mars-rover-tdd` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | dotnet test |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

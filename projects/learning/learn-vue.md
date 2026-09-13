@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learn-vue` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

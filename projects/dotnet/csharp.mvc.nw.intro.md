@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.mvc.nw.intro` |
+| **Tier** | 🗄️ Archive |
 | **Description** | Northwind MVC intro |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

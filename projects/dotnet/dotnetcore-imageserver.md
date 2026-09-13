@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnetcore-imageserver` |
+| **Tier** | 🛠️ Technical Showcase |
 | **Description** | Simple Image for uploading for serving resized and cropped images. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

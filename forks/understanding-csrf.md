@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `understanding-csrf` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sid` |
+| **Tier** | 🏆 Flagship Projects |
 | **Description** | Simple Declarative Web Apps |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

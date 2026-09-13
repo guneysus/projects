@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `de4dot` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Random-Problems` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |

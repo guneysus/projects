@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `pw` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Password utility |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learn-m4` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

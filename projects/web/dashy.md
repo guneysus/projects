@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dashy` |
+| **Tier** | 🗄️ Archive |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

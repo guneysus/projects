@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `blog-v3-theme` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-06-05 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 70 |
 | **Rating** | 64 |
-| **Score** | 20 |
 
 ## Links
 

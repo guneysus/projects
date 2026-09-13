@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `snake` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Ekin Ceylan Tarafindan yazilan oyun |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

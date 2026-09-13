@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `python-sqlite-json-explorer` |
+| **Tier** | 🗄️ Archive |
 | **Description** | SQLite JSON explorer |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |

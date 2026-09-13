@@ -9,10 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `guneysus` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2023-04-05 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
@@ -23,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 70 |
 | **Rating** | 64 |
-| **Score** | 40 |
 
 ## Links
 

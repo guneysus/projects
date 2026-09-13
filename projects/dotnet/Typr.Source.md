@@ -1,34 +1,35 @@
 # Typr.Source
 
-> Typer DSL to create C# Types with ease.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `Typr.Source` |
-| **Description** | Typer DSL to create C# Types with ease. |
-| **Visibility** | 🔓 Public |
+| **Tier** | 🗄️ Archive |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
-| **Score** | 10 |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Typr.Source](https://github.com/guneysus/Typr.Source)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr.Source](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr.Source)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/Typr.Source`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Typr.Source](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Typr.Source)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/Typr.Source`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

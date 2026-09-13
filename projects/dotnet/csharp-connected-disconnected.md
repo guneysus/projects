@@ -9,6 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp-connected-disconnected` |
+| **Tier** | 📚 Learning & Experiments |
 | **Description** | Connected vs disconnected data access demo |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
