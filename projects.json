@@ -525,6 +525,278 @@
     "skaf": [
       "archive",
       "gitlab-archive"
+    ],
+    "EzanVaktiAPI": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "PluginFramework": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "lcnc-security-engine": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    ".template-powershell-core-binary-module": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Antlr4.Extension": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "CSharpExpressionTreesInTheRealWorld": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "CoreHook": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Craig-s-Utility-Library": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Design-Patterns": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Disposable-Pattern": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "DoH-IP-blocklists": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "DotNetHooking": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "DotNextMoscow2019": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Heijden.Dns": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ILProgramming": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ILProj": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "LightQuery": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "MethodRedirect": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "NGINX-Demos": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "NRules": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Object-Initialization-in-CSharp": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Parallel-Evolution": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "PiOBDII": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Random-Problems": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Todos": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "Virtual-in-Constructor": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "aes": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "aes_dust": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ascii_b64": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "asm": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "asprofiled": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "aws_list_all": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "bin": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "bin_b64": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "calc.asm": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "clr-profiling": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "coding-interview-university": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "de4dot": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "des": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "dlr": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "do-not-reinvent": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "docker-baseimage-rdesktop-web": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "docker-baseimage-rdesktop": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "docker-rdesktop": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "dot": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "har-spec": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "heceleme": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ildasm": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "loadlibrary": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "managed-x86": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "minsk": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "mssql-TableTruncate": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "mssqlfs": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "nemerle": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "ntpserver": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "perfect-presentation": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "performance-optimization": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "playbook": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "pose": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "project-switcher": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "selenium-webdriver-winappdriver-example": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "sql-injection": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "sscli20_20060311": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "symreader-converter": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "understanding-csrf": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "unicode_tr": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "uxplay": [
+      "archive",
+      "github-guneysus-archive"
+    ],
+    "vulnerable-api": [
+      "archive",
+      "github-guneysus-archive"
     ]
   },
   "projects": [
@@ -4033,6 +4305,961 @@
       "impl_score": "80"
     },
     {
+      "name": "EzanVaktiAPI",
+      "description": "Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "2026-08-01",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "forks/github.com/guneysus/EzanVaktiAPI",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null,
+      "score": "95"
+    },
+    {
+      "name": "PluginFramework",
+      "description": "Everything is a Plugin in .NET",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "2025-10-21",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "forks/github.com/guneysus/PluginFramework",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null,
+      "score": "45"
+    },
+    {
+      "name": "lcnc-security-engine",
+      "description": "Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review.",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "2026-07-06",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_path": "forks/github.com/guneysus/lcnc-security-engine",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null,
+      "score": "15"
+    },
+    {
+      "name": ".template-powershell-core-binary-module",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/.template-powershell-core-binary-module",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Antlr4.Extension",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Antlr4.Extension",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "CSharpExpressionTreesInTheRealWorld",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/CSharpExpressionTreesInTheRealWorld",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "CoreHook",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/CoreHook",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Craig-s-Utility-Library",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Craig-s-Utility-Library",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Design-Patterns",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Design-Patterns",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Disposable-Pattern",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Disposable-Pattern",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "DoH-IP-blocklists",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/DoH-IP-blocklists",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "DotNetHooking",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/DotNetHooking",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "DotNextMoscow2019",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/DotNextMoscow2019",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Heijden.Dns",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Heijden.Dns",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "ILProgramming",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/ILProgramming",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "ILProj",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/ILProj",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "LightQuery",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/LightQuery",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "MethodRedirect",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/MethodRedirect",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "NGINX-Demos",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/NGINX-Demos",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "NRules",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/NRules",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Object-Initialization-in-CSharp",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Parallel-Evolution",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Parallel-Evolution",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "PiOBDII",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/PiOBDII",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Random-Problems",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Random-Problems",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Todos",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Todos",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "Virtual-in-Constructor",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/Virtual-in-Constructor",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "aes",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/aes",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "aes_dust",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/aes_dust",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "ascii_b64",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/ascii_b64",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "asm",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/asm",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "asprofiled",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/asprofiled",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "aws_list_all",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/aws_list_all",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "bin",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/bin",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "bin_b64",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/bin_b64",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "calc.asm",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/calc.asm",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "clr-profiling",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/clr-profiling",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "coding-interview-university",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/coding-interview-university",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "de4dot",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/de4dot",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "des",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/des",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "dlr",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/dlr",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "do-not-reinvent",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/do-not-reinvent",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "docker-baseimage-rdesktop-web",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/docker-baseimage-rdesktop-web",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "docker-baseimage-rdesktop",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/docker-baseimage-rdesktop",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "docker-rdesktop",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/docker-rdesktop",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "dot",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/dot",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "har-spec",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/har-spec",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "heceleme",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/heceleme",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "ildasm",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/ildasm",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "loadlibrary",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/loadlibrary",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "managed-x86",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/managed-x86",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "minsk",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/minsk",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "mssql-TableTruncate",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/mssql-TableTruncate",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "mssqlfs",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/mssqlfs",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "nemerle",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/nemerle",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "ntpserver",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/ntpserver",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "perfect-presentation",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/perfect-presentation",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "performance-optimization",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/performance-optimization",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "playbook",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/playbook",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "pose",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/pose",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "project-switcher",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/project-switcher",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "selenium-webdriver-winappdriver-example",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "sql-injection",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/sql-injection",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "sscli20_20060311",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/sscli20_20060311",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "symreader-converter",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/symreader-converter",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "understanding-csrf",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/understanding-csrf",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "unicode_tr",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/unicode_tr",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "uxplay",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/uxplay",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "vulnerable-api",
+      "description": "",
+      "visibility": "private",
+      "fork": true,
+      "last_activity": "",
+      "archived": true,
+      "source": "github",
+      "owner": "guneysus-archieve",
+      "archive_path": "forks/github.com/guneysus-archieve/vulnerable-api",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
       "name": "backstage",
       "description": "Backstage Personal Dev Portal",
       "visibility": "private",
@@ -4410,8 +5637,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/aes",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "aes"
     },
     {
       "name": "aes_dust",
@@ -4424,8 +5651,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/aes_dust",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "aes_dust"
     },
     {
       "name": "ai",
@@ -4517,8 +5744,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/asm",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "asm"
     },
     {
       "name": "asp-net-sample-apps",
@@ -4588,8 +5815,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/aws_list_all",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "aws_list_all"
     },
     {
       "name": "bginfz",
@@ -4624,8 +5851,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/bin",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "bin"
     },
     {
       "name": "blog-from-scratch",
@@ -4797,8 +6024,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/calc.asm",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "calc.asm"
     },
     {
       "name": "calcx",
@@ -4847,8 +6074,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/coding-interview-university",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "coding-interview-university"
     },
     {
       "name": "configs",
@@ -4883,8 +6110,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/CoreHook",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "CoreHook"
     },
     {
       "name": "Craig-s-Utility-Library",
@@ -4897,8 +6124,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Craig-s-Utility-Library",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Craig-s-Utility-Library"
     },
     {
       "name": "crem",
@@ -4932,8 +6159,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/CSharpExpressionTreesInTheRealWorld",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "CSharpExpressionTreesInTheRealWorld"
     },
     {
       "name": "cv",
@@ -4961,8 +6188,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/de4dot",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "de4dot"
     },
     {
       "name": "deployement-templates",
@@ -4996,8 +6223,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Design-Patterns",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Design-Patterns"
     },
     {
       "name": "Devup",
@@ -5073,8 +6300,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dlr",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "dlr"
     },
     {
       "name": "do-not-reinvent",
@@ -5087,8 +6314,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/do-not-reinvent",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "do-not-reinvent"
     },
     {
       "name": "docker-apps",
@@ -5123,8 +6350,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "docker-baseimage-rdesktop"
     },
     {
       "name": "docker-baseimage-rdesktop-web",
@@ -5137,8 +6364,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "docker-baseimage-rdesktop-web"
     },
     {
       "name": "docker-images",
@@ -5172,8 +6399,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/docker-rdesktop",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "docker-rdesktop"
     },
     {
       "name": "DoH-IP-blocklists",
@@ -5186,8 +6413,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/DoH-IP-blocklists",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "DoH-IP-blocklists"
     },
     {
       "name": "dotfiles",
@@ -5447,8 +6674,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/EzanVaktiAPI",
-      "canonical": true,
-      "duplicate_of": null,
+      "canonical": false,
+      "duplicate_of": "EzanVaktiAPI",
       "score": "95"
     },
     {
@@ -5771,8 +6998,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/lcnc-security-engine",
-      "canonical": true,
-      "duplicate_of": null,
+      "canonical": false,
+      "duplicate_of": "lcnc-security-engine",
       "score": "15"
     },
     {
@@ -6127,8 +7354,8 @@
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/PluginFramework",
-      "canonical": true,
-      "duplicate_of": null,
+      "canonical": false,
+      "duplicate_of": "PluginFramework",
       "score": "45"
     },
     {
@@ -6532,8 +7759,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/DotNetHooking",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "DotNetHooking"
     },
     {
       "name": "DotNextMoscow2019",
@@ -6546,8 +7773,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/DotNextMoscow2019",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "DotNextMoscow2019"
     },
     {
       "name": "git-ctf",
@@ -6624,8 +7851,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/har-spec",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "har-spec"
     },
     {
       "name": "heceleme",
@@ -6638,8 +7865,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/heceleme",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "heceleme"
     },
     {
       "name": "Heijden.Dns",
@@ -6652,8 +7879,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Heijden.Dns",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Heijden.Dns"
     },
     {
       "name": "humanizer-tr",
@@ -6687,8 +7914,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ildasm",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "ildasm"
     },
     {
       "name": "ILProgramming",
@@ -6701,8 +7928,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ILProgramming",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "ILProgramming"
     },
     {
       "name": "ILProj",
@@ -6715,8 +7942,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ILProj",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "ILProj"
     },
     {
       "name": "interview-downtime-alerter-service",
@@ -6792,8 +8019,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/LightQuery",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "LightQuery"
     },
     {
       "name": "loadlibrary",
@@ -6806,8 +8033,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/loadlibrary",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "loadlibrary"
     },
     {
       "name": "managed-x86",
@@ -6820,8 +8047,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/managed-x86",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "managed-x86"
     },
     {
       "name": "MethodRedirect",
@@ -6834,8 +8061,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/MethodRedirect",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "MethodRedirect"
     },
     {
       "name": "minsk",
@@ -6848,8 +8075,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/minsk",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "minsk"
     },
     {
       "name": "mssql-TableTruncate",
@@ -6862,8 +8089,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/mssql-TableTruncate",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "mssql-TableTruncate"
     },
     {
       "name": "mssql-tools",
@@ -6897,8 +8124,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/mssqlfs",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "mssqlfs"
     },
     {
       "name": "musahid",
@@ -6932,8 +8159,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/nemerle",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "nemerle"
     },
     {
       "name": "NGINX-Demos",
@@ -6946,8 +8173,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/NGINX-Demos",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "NGINX-Demos"
     },
     {
       "name": "NRules",
@@ -6960,8 +8187,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/NRules",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "NRules"
     },
     {
       "name": "ntpserver",
@@ -6974,8 +8201,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ntpserver",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "ntpserver"
     },
     {
       "name": "Object-Initialization-in-CSharp",
@@ -6988,8 +8215,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Object-Initialization-in-CSharp",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Object-Initialization-in-CSharp"
     },
     {
       "name": "openresty-gateway-waf",
@@ -7044,8 +8271,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Parallel-Evolution",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Parallel-Evolution"
     },
     {
       "name": "perfect-presentation",
@@ -7058,8 +8285,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/perfect-presentation",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "perfect-presentation"
     },
     {
       "name": "performance-optimization",
@@ -7072,8 +8299,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/performance-optimization",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "performance-optimization"
     },
     {
       "name": "peview",
@@ -7107,8 +8334,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/PiOBDII",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "PiOBDII"
     },
     {
       "name": "playbook",
@@ -7121,8 +8348,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/playbook",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "playbook"
     },
     {
       "name": "pose",
@@ -7135,8 +8362,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/pose",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "pose"
     },
     {
       "name": "prayer-times-android",
@@ -7212,8 +8439,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/project-switcher",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "project-switcher"
     },
     {
       "name": "pw",
@@ -7289,8 +8516,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Random-Problems",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Random-Problems"
     },
     {
       "name": "sandbox-net",
@@ -7324,8 +8551,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "selenium-webdriver-winappdriver-example"
     },
     {
       "name": "sensorfusion-gps-process",
@@ -7478,8 +8705,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/sql-injection",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "sql-injection"
     },
     {
       "name": "sscli20_20060311",
@@ -7492,8 +8719,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/sscli20_20060311",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "sscli20_20060311"
     },
     {
       "name": "symreader-converter",
@@ -7506,8 +8733,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/symreader-converter",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "symreader-converter"
     },
     {
       "name": "testere",
@@ -7541,8 +8768,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Todos",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Todos"
     },
     {
       "name": "underscore-net-docs",
@@ -7597,8 +8824,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/understanding-csrf",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "understanding-csrf"
     },
     {
       "name": "unicode_tr",
@@ -7611,8 +8838,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/unicode_tr",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "unicode_tr"
     },
     {
       "name": "uxplay",
@@ -7625,8 +8852,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/uxplay",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "uxplay"
     },
     {
       "name": "Virtual-in-Constructor",
@@ -7639,8 +8866,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Virtual-in-Constructor",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Virtual-in-Constructor"
     },
     {
       "name": "vulnerable-api",
@@ -7653,8 +8880,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/vulnerable-api",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "vulnerable-api"
     },
     {
       "name": "web-layouts",
@@ -7730,8 +8957,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/.template-powershell-core-binary-module",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": ".template-powershell-core-binary-module"
     },
     {
       "name": "Antlr4.Extension",
@@ -7744,8 +8971,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Antlr4.Extension",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Antlr4.Extension"
     },
     {
       "name": "ascii_b64",
@@ -7758,8 +8985,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/ascii_b64",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "ascii_b64"
     },
     {
       "name": "asprofiled",
@@ -7772,8 +8999,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/asprofiled",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "asprofiled"
     },
     {
       "name": "bin_b64",
@@ -7786,8 +9013,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/bin_b64",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "bin_b64"
     },
     {
       "name": "calcpaper",
@@ -7821,8 +9048,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/clr-profiling",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "clr-profiling"
     },
     {
       "name": "csharp-connected-disconnected",
@@ -7996,8 +9223,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/des",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "des"
     },
     {
       "name": "Disposable-Pattern",
@@ -8010,8 +9237,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/Disposable-Pattern",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "Disposable-Pattern"
     },
     {
       "name": "dot",
@@ -8024,8 +9251,8 @@
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
       "archive_path": "repos/github.com/guneysus-archieve/dot",
-      "canonical": true,
-      "duplicate_of": null
+      "canonical": false,
+      "duplicate_of": "dot"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 > Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -10,25 +10,26 @@
 | --- | --- |
 | **Name** | `EzanVaktiAPI` |
 | **Description** | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
-| **Visibility** | 🔓 Public |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2023-01-28 |
+| **Last activity** | 2026-08-01 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 | **Score** | 95 |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/EzanVaktiAPI](https://github.com/guneysus-archieve/EzanVaktiAPI)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EzanVaktiAPI](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EzanVaktiAPI)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/EzanVaktiAPI`
+- **Original repository:** [https://github.com/guneysus/EzanVaktiAPI](https://github.com/guneysus/EzanVaktiAPI)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/EzanVaktiAPI](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/EzanVaktiAPI)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus/EzanVaktiAPI`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

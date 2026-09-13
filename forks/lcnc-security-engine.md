@@ -2,7 +2,7 @@
 
 > Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review.
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -10,10 +10,10 @@
 | --- | --- |
 | **Name** | `lcnc-security-engine` |
 | **Description** | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
-| **Visibility** | 🔓 Public |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
 | **Last activity** | 2026-07-06 |
-| **Status** | ❌ Not archived |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 | **Score** | 15 |
@@ -21,14 +21,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/lcnc-security-engine)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/lcnc-security-engine](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/lcnc-security-engine)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/lcnc-security-engine`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/lcnc-security-engine)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus/lcnc-security-engine`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

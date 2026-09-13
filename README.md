@@ -12,11 +12,11 @@
 
 ## 📊 Summary
 
-- **Total projects:** 411
-- **GitHub projects:** 361
+- **Total projects:** 479
+- **GitHub projects:** 429
 - **GitLab projects:** 50
-- **Forks:** 67
-- **Duplicates (in multiple archives):** 123
+- **Forks:** 135
+- **Duplicates (in multiple archives):** 191
 
 ## ⚠️ Duplicates
 
@@ -25,31 +25,67 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | Project | Canonical | Other archives |
 | --- | --- | --- |
 | `.cli-template_dotnet` | Archive | GitHub Projects Archive |
+| `.template-powershell-core-binary-module` | Archive | GitHub Projects Archive |
+| `Antlr4.Extension` | Archive | GitHub Projects Archive |
+| `CSharpExpressionTreesInTheRealWorld` | Archive | GitHub Projects Archive |
+| `CoreHook` | Archive | GitHub Projects Archive |
+| `Craig-s-Utility-Library` | Archive | GitHub Projects Archive |
+| `Design-Patterns` | Archive | GitHub Projects Archive |
 | `Devup` | Archive | GitHub Projects Archive |
+| `Disposable-Pattern` | Archive | GitHub Projects Archive |
+| `DoH-IP-blocklists` | Archive | GitHub Projects Archive |
+| `DotNetHooking` | Archive | GitHub Projects Archive |
+| `DotNextMoscow2019` | Archive | GitHub Projects Archive |
 | `EfCoreQueryToolbar` | Archive | GitHub Projects Archive |
+| `EzanVaktiAPI` | Archive | GitHub Projects Archive |
 | `GraphQL.Tools` | Archive | GitHub Projects Archive |
+| `Heijden.Dns` | Archive | GitHub Projects Archive |
+| `ILProgramming` | Archive | GitHub Projects Archive |
+| `ILProj` | Archive | GitHub Projects Archive |
 | `Language-Designs-For-Web` | Archive | GitHub Projects Archive |
+| `LightQuery` | Archive | GitHub Projects Archive |
+| `MethodRedirect` | Archive | GitHub Projects Archive |
+| `NGINX-Demos` | Archive | GitHub Projects Archive |
+| `NRules` | Archive | GitHub Projects Archive |
 | `NullCollectionFix.Fody` | Archive | GitHub Projects Archive |
 | `NullFixEnumerable.Fody` | Archive | GitHub Projects Archive |
+| `Object-Initialization-in-CSharp` | Archive | GitHub Projects Archive |
+| `Parallel-Evolution` | Archive | GitHub Projects Archive |
+| `PiOBDII` | Archive | GitHub Projects Archive |
+| `PluginFramework` | Archive | GitHub Projects Archive |
+| `Random-Problems` | Archive | GitHub Projects Archive |
 | `SqlServer.Rules` | Archive | GitHub Projects Archive |
 | `Startup-CTO-Handbook` | Archive | GitHub Projects Archive |
+| `Todos` | Archive | GitHub Projects Archive |
+| `Virtual-in-Constructor` | Archive | GitHub Projects Archive |
 | `acme-welcome-dotnet` | Archive | GitLab Archive |
+| `aes` | Archive | GitHub Projects Archive |
+| `aes_dust` | Archive | GitHub Projects Archive |
 | `algoritms` | Archive | GitHub Projects Archive |
 | `analyzers` | Archive | GitHub Projects Archive |
 | `app.namazvaktim` | Archive | GitHub Projects Archive |
+| `ascii_b64` | Archive | GitHub Projects Archive |
+| `asm` | Archive | GitHub Projects Archive |
 | `asp-net-sample-apps` | Archive | GitHub Projects Archive |
 | `aspcore-sample-apps` | Archive | GitHub Projects Archive |
 | `aspnet-core-streaming` | Archive | GitHub Projects Archive |
+| `asprofiled` | Archive | GitHub Projects Archive |
+| `aws_list_all` | Archive | GitHub Projects Archive |
 | `backstage` | Archive | GitLab Archive |
 | `bginfz` | Archive | GitHub Projects Archive |
+| `bin` | Archive | GitHub Projects Archive |
+| `bin_b64` | Archive | GitHub Projects Archive |
 | `blog-v1` | Archive | GitHub Projects Archive |
 | `blog-v3` | Archive | GitHub Projects Archive |
 | `blog-v3-theme` | Archive | GitHub Projects Archive |
 | `browser-pick` | Archive | GitHub Projects Archive |
 | `bug.report-docker-3106` | Archive | GitHub Projects Archive |
+| `calc.asm` | Archive | GitHub Projects Archive |
 | `calcpaper` | Archive | GitHub Projects Archive |
 | `chess.js` | Archive | GitHub Projects Archive |
 | `cloudflare-worker-get-user` | Archive | GitLab Archive |
+| `clr-profiling` | Archive | GitHub Projects Archive |
+| `coding-interview-university` | Archive | GitHub Projects Archive |
 | `configs` | Archive | GitHub Projects Archive |
 | `crem` | Archive | GitHub Projects Archive |
 | `csharp-connected-disconnected` | Archive | GitHub Projects Archive |
@@ -59,11 +95,19 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | `csharp.mvc.blog.hw` | Archive | GitHub Projects Archive |
 | `csharp.mvc.nw.intro` | Archive | GitHub Projects Archive |
 | `csharp.winforms.autocomplete` | Archive | GitHub Projects Archive |
+| `de4dot` | Archive | GitHub Projects Archive |
 | `deployement-templates` | Archive | GitHub Projects Archive |
+| `des` | Archive | GitHub Projects Archive |
 | `dingil` | Archive | GitHub Projects Archive |
 | `dinq` | Archive | GitHub Projects Archive |
+| `dlr` | Archive | GitHub Projects Archive |
+| `do-not-reinvent` | Archive | GitHub Projects Archive |
 | `docker-apps` | Archive | GitHub Projects Archive, GitLab Archive |
+| `docker-baseimage-rdesktop` | Archive | GitHub Projects Archive |
+| `docker-baseimage-rdesktop-web` | Archive | GitHub Projects Archive |
 | `docker-images` | Archive | GitHub Projects Archive |
+| `docker-rdesktop` | Archive | GitHub Projects Archive |
+| `dot` | Archive | GitHub Projects Archive |
 | `dotfiles` | Archive | GitHub Projects Archive |
 | `dotnet-core-plugins` | Archive | GitHub Projects Archive |
 | `dotnet-dynamic-assembly-loading` | Archive | GitHub Projects Archive |
@@ -87,33 +131,49 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | `grepz` | Archive | GitHub Projects Archive |
 | `guneysus` | Archive | GitHub Projects Archive |
 | `guneysus.github.io-archieved` | Archive | GitHub Projects Archive |
+| `har-spec` | Archive | GitHub Projects Archive |
+| `heceleme` | Archive | GitHub Projects Archive |
 | `hg` | Archive | GitHub Projects Archive |
 | `homelab-caddy-config` | Archive | GitLab Archive |
 | `hugo-theme-monochrome` | Archive | GitHub Projects Archive |
 | `humanizer-tr` | Archive | GitHub Projects Archive |
+| `ildasm` | Archive | GitHub Projects Archive |
 | `interview-downtime-alerter-service` | Archive | GitHub Projects Archive |
 | `interview-project-mars-rover-tdd` | Archive | GitHub Projects Archive |
 | `keychron-layouts` | Archive | GitHub Projects Archive |
 | `kvb-iot-demo` | Archive | GitHub Projects Archive |
 | `latex-docs` | Archive | GitLab Archive |
+| `lcnc-security-engine` | Archive | GitHub Projects Archive |
 | `learn-go` | Archive | GitHub Projects Archive |
 | `learn-lisp` | Archive | GitHub Projects Archive |
 | `learning` | Archive | GitHub Projects Archive |
 | `llm` | Archive | GitHub Projects Archive |
+| `loadlibrary` | Archive | GitHub Projects Archive |
+| `managed-x86` | Archive | GitHub Projects Archive |
 | `memoryleak` | Archive | GitHub Projects Archive |
+| `minsk` | Archive | GitHub Projects Archive |
+| `mssql-TableTruncate` | Archive | GitHub Projects Archive |
 | `mssql-tools` | Archive | GitHub Projects Archive |
+| `mssqlfs` | Archive | GitHub Projects Archive |
 | `musahid` | Archive | GitHub Projects Archive |
+| `nemerle` | Archive | GitHub Projects Archive |
 | `nqrgen` | Archive | GitHub Projects Archive |
+| `ntpserver` | Archive | GitHub Projects Archive |
 | `openresty-gateway-waf` | Archive | GitHub Projects Archive |
 | `openresty-twitter-clone` | Archive | GitHub Projects Archive |
 | `parsers` | Archive | GitHub Projects Archive, GitLab Archive |
+| `perfect-presentation` | Archive | GitHub Projects Archive |
+| `performance-optimization` | Archive | GitHub Projects Archive |
 | `personal-blog-theme-gohugo-soothing` | Archive | GitHub Projects Archive |
 | `peview` | Archive | GitHub Projects Archive |
+| `playbook` | Archive | GitHub Projects Archive |
+| `pose` | Archive | GitHub Projects Archive |
 | `prank.var.sourcegenerator` | Archive | GitHub Projects Archive |
 | `prayer-times-android` | Archive | GitHub Projects Archive |
 | `prayer-times-api` | Archive | GitHub Projects Archive |
 | `predicate-builder` | Archive | GitHub Projects Archive |
 | `project-incubation` | Archive | GitLab Archive |
+| `project-switcher` | Archive | GitHub Projects Archive |
 | `prompt-library` | Archive | GitLab Archive |
 | `prompts` | Archive | GitHub Projects Archive |
 | `proxmox-scripts` | Archive | GitHub Projects Archive |
@@ -123,6 +183,7 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | `rende` | Archive | GitHub Projects Archive |
 | `sandbox-net` | Archive | GitHub Projects Archive |
 | `sd-llm-benchmark` | Archive | GitHub Projects Archive |
+| `selenium-webdriver-winappdriver-example` | Archive | GitHub Projects Archive |
 | `sensorfusion-gps-process` | Archive | GitHub Projects Archive |
 | `sid` | Archive | GitHub Projects Archive |
 | `side-projects` | Archive | GitHub Projects Archive |
@@ -131,10 +192,13 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | `snake` | Archive | GitHub Projects Archive |
 | `snow-flakes-js` | Archive | GitHub Projects Archive |
 | `speedcrunch.net` | Archive | GitHub Projects Archive |
+| `sql-injection` | Archive | GitHub Projects Archive |
 | `sql-query-profiler` | Archive | GitHub Projects Archive |
 | `sql-query-profiler-sample-apps` | Archive | GitHub Projects Archive |
+| `sscli20_20060311` | Archive | GitHub Projects Archive |
 | `surmene` | Archive | GitLab Archive |
 | `swe-route-optimization-project` | Archive | GitHub Projects Archive |
+| `symreader-converter` | Archive | GitHub Projects Archive |
 | `templates` | Archive | GitLab Archive |
 | `testere` | Archive | GitHub Projects Archive |
 | `todo-gql` | Archive | GitHub Projects Archive |
@@ -143,6 +207,10 @@ Some projects exist in **more than one** archive monorepo. The **Archive** repo 
 | `tutorial-serverless-contact-form` | Archive | GitHub Projects Archive |
 | `underscore-net-docs` | Archive | GitHub Projects Archive |
 | `underscore.net` | Archive | GitHub Projects Archive |
+| `understanding-csrf` | Archive | GitHub Projects Archive |
+| `unicode_tr` | Archive | GitHub Projects Archive |
+| `uxplay` | Archive | GitHub Projects Archive |
+| `vulnerable-api` | Archive | GitHub Projects Archive |
 | `web-layouts` | Archive | GitHub Projects Archive |
 | `wox-prayer-times-plugin` | Archive | GitHub Projects Archive |
 | `wsdl2swagger2openapi` | Archive | GitHub Projects Archive |
@@ -341,46 +409,43 @@ Projects are organized into subfolders by technology/domain. Only canonical entr
 
 | # | Project | Source | Language | Type | Size | Idea | Impl | Rating | Visibility | Archived | Last activity | Description |
 | :-: | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- |
-| 1 | [.template-powershell-core-binary-module](projects/misc/.template-powershell-core-binary-module.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2024-10-14 |  |
-| 2 | [_edit](projects/misc/_edit.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 3 | [aeronautical-eng-simulations](projects/misc/aeronautical-eng-simulations.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 4 | [ai](projects/misc/ai.md) | 🐙 GitHub | — | — | — | — | — | — | 🔓 | ❌ | 2026-06-29 |  |
-| 5 | [bginfz](projects/misc/bginfz.md) ⭐ | 🐙 GitHub | C# | Library (.NET) | Small | Background information display utility | 55 | 58 | 🔒 | ✅ | 2026-07-31 | Background information display utility |
-| 6 | [boilerplate](projects/misc/boilerplate.md) | 🐙 GitHub | — | — | — | — | — | — | 🔓 | ❌ | 2025-10-03 | Boilerplate file templates to be used by copier |
-| 7 | [calcpaper](projects/misc/calcpaper.md) ⭐ | 🐙 GitHub | JavaScript | Library (Node.js) | Small | Calculator application with paper tape display | 55 | 52 | 🔒 | ✅ |  | Calculator with paper tape |
-| 8 | [dist](projects/misc/dist.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 9 | [docs](projects/misc/docs.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 10 | [dot](projects/misc/dot.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2024-10-14 |  |
-| 11 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⭐ | 🐙 GitHub | TypeScript | Web App (Node.js) | Medium | Next.js starter project for Firebase Studio cloud IDE | 75 | 60 | 🔒 | ✅ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
-| 12 | [firefox](projects/misc/firefox.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 13 | [format](projects/misc/format.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 14 | [git](projects/misc/git.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 15 | [git-presentation](projects/misc/git-presentation.md) ⭐ | 🐙 GitHub | CSS | Miscellaneous | Medium | Git presentation materials and workshop content | 55 | 52 | 🔒 | ✅ |  | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
-| 16 | [goreplay](projects/misc/goreplay.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ❌ | 2025-10-17 | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. |
-| 17 | [graphql](projects/misc/graphql.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 18 | [group-ride](projects/misc/group-ride.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 19 | [humanizer-tr](projects/misc/humanizer-tr.md) ⭐ | 🐙 GitHub | Python | Miscellaneous | Small | Turkish language humanizer for .NET strings and numbers | 55 | 58 | 🔒 | ✅ |  | humanizer-tr |
-| 20 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⭐ | 🐙 GitHub | Markdown | Miscellaneous | Small | KVB IoT demonstration project for public transport | 55 | 58 | 🔒 | ✅ |  | KVB IoT demo |
-| 21 | [parsers](projects/misc/parsers.md) ⭐ | 🦊 GitLab | C# | Web App (Node.js) | Medium | Collection of parsers and language processing tools including Calcx | Multi | Multi | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
-| 22 | [performance-dashboard](projects/misc/performance-dashboard.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 23 | [prayer-times-android](projects/misc/prayer-times-android.md) ⭐ | 🐙 GitHub | XML | Mobile (Android) | Medium | Minimal Android app showing prayer times with persistent notification | 65 | 62 | 🔒 | ✅ |  | Minimal persisten notification based android application using the prayer times api |
-| 24 | [prayer-times-api](projects/misc/prayer-times-api.md) ⭐ | 🐙 GitHub | Python | DevOps/Docker | Small | Serverless prayer times API via AWS S3 static site | 70 | 64 | 🔒 | ✅ |  | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
-| 25 | [project-incubation](projects/misc/project-incubation.md) ⭐ | 🦊 GitLab | YAML | DevOps/CI | Medium | Side project incubation repository for experimental ideas | 85 | 64 | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
-| 26 | [project-management](projects/misc/project-management.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 27 | [public](projects/misc/public.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 28 | [python-tornado-tcp-echo-server](projects/misc/python-tornado-tcp-echo-server.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 29 | [pytotube](projects/misc/pytotube.md) ⭐ | 🐙 GitHub | XML | Miscellaneous | Small | YouTube video downloader and manager in Python | 50 | 50 | 🔒 | ✅ |  | YouTube downloader |
-| 30 | [reasoning](projects/misc/reasoning.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 31 | [role](projects/misc/role.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 32 | [SA-tech-stack-ga](projects/misc/SA-tech-stack-ga.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 33 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⭐ | 🐙 GitHub | Python | Miscellaneous | Small | GPS sensor fusion and signal processing algorithms | 55 | 58 | 🔒 | ✅ |  | GPS sensor fusion |
-| 34 | [side-projects](projects/misc/side-projects.md) ⭐ | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ |  |  |
-| 35 | [snake](projects/misc/snake.md) ⭐ | 🐙 GitHub | JavaScript | Miscellaneous | Small | Classic Snake game implementation | 50 | 56 | 🔒 | ✅ |  | Ekin Ceylan Tarafindan yazilan oyun |
-| 36 | [system-prompts](projects/misc/system-prompts.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 37 | [task](projects/misc/task.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 38 | [unicode_tr](projects/misc/unicode_tr.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2024-10-14 |  |
-| 39 | [windows-terminal](projects/misc/windows-terminal.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
-| 40 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⭐ | 🐙 GitHub | C# | Library/Extension | Small | Wox launcher plugin for prayer times | 55 | 58 | 🔒 | ✅ |  | wox plugins |
+| 1 | [_edit](projects/misc/_edit.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 2 | [aeronautical-eng-simulations](projects/misc/aeronautical-eng-simulations.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 3 | [ai](projects/misc/ai.md) | 🐙 GitHub | — | — | — | — | — | — | 🔓 | ❌ | 2026-06-29 |  |
+| 4 | [bginfz](projects/misc/bginfz.md) ⭐ | 🐙 GitHub | C# | Library (.NET) | Small | Background information display utility | 55 | 58 | 🔒 | ✅ | 2026-07-31 | Background information display utility |
+| 5 | [boilerplate](projects/misc/boilerplate.md) | 🐙 GitHub | — | — | — | — | — | — | 🔓 | ❌ | 2025-10-03 | Boilerplate file templates to be used by copier |
+| 6 | [calcpaper](projects/misc/calcpaper.md) ⭐ | 🐙 GitHub | JavaScript | Library (Node.js) | Small | Calculator application with paper tape display | 55 | 52 | 🔒 | ✅ |  | Calculator with paper tape |
+| 7 | [dist](projects/misc/dist.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 8 | [docs](projects/misc/docs.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 9 | [firebase-studio-apex-cloud-sample](projects/misc/firebase-studio-apex-cloud-sample.md) ⭐ | 🐙 GitHub | TypeScript | Web App (Node.js) | Medium | Next.js starter project for Firebase Studio cloud IDE | 75 | 60 | 🔒 | ✅ | 2025-09-23 | This is a NextJS starter in Firebase Studio. |
+| 10 | [firefox](projects/misc/firefox.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 11 | [format](projects/misc/format.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 12 | [git](projects/misc/git.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 13 | [git-presentation](projects/misc/git-presentation.md) ⭐ | 🐙 GitHub | CSS | Miscellaneous | Medium | Git presentation materials and workshop content | 55 | 52 | 🔒 | ✅ |  | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
+| 14 | [goreplay](projects/misc/goreplay.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ❌ | 2025-10-17 | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. |
+| 15 | [graphql](projects/misc/graphql.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 16 | [group-ride](projects/misc/group-ride.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 17 | [humanizer-tr](projects/misc/humanizer-tr.md) ⭐ | 🐙 GitHub | Python | Miscellaneous | Small | Turkish language humanizer for .NET strings and numbers | 55 | 58 | 🔒 | ✅ |  | humanizer-tr |
+| 18 | [kvb-iot-demo](projects/misc/kvb-iot-demo.md) ⭐ | 🐙 GitHub | Markdown | Miscellaneous | Small | KVB IoT demonstration project for public transport | 55 | 58 | 🔒 | ✅ |  | KVB IoT demo |
+| 19 | [parsers](projects/misc/parsers.md) ⭐ | 🦊 GitLab | C# | Web App (Node.js) | Medium | Collection of parsers and language processing tools including Calcx | Multi | Multi | 🔒 | ✅ | 2026-08-02 | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
+| 20 | [performance-dashboard](projects/misc/performance-dashboard.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 21 | [prayer-times-android](projects/misc/prayer-times-android.md) ⭐ | 🐙 GitHub | XML | Mobile (Android) | Medium | Minimal Android app showing prayer times with persistent notification | 65 | 62 | 🔒 | ✅ |  | Minimal persisten notification based android application using the prayer times api |
+| 22 | [prayer-times-api](projects/misc/prayer-times-api.md) ⭐ | 🐙 GitHub | Python | DevOps/Docker | Small | Serverless prayer times API via AWS S3 static site | 70 | 64 | 🔒 | ✅ |  | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
+| 23 | [project-incubation](projects/misc/project-incubation.md) ⭐ | 🦊 GitLab | YAML | DevOps/CI | Medium | Side project incubation repository for experimental ideas | 85 | 64 | 🔒 | ✅ | 2026-08-02 | This is project incubation repository for side projects. |
+| 24 | [project-management](projects/misc/project-management.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 25 | [public](projects/misc/public.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 26 | [python-tornado-tcp-echo-server](projects/misc/python-tornado-tcp-echo-server.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 27 | [pytotube](projects/misc/pytotube.md) ⭐ | 🐙 GitHub | XML | Miscellaneous | Small | YouTube video downloader and manager in Python | 50 | 50 | 🔒 | ✅ |  | YouTube downloader |
+| 28 | [reasoning](projects/misc/reasoning.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 29 | [role](projects/misc/role.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 30 | [SA-tech-stack-ga](projects/misc/SA-tech-stack-ga.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 31 | [sensorfusion-gps-process](projects/misc/sensorfusion-gps-process.md) ⭐ | 🐙 GitHub | Python | Miscellaneous | Small | GPS sensor fusion and signal processing algorithms | 55 | 58 | 🔒 | ✅ |  | GPS sensor fusion |
+| 32 | [side-projects](projects/misc/side-projects.md) ⭐ | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ |  |  |
+| 33 | [snake](projects/misc/snake.md) ⭐ | 🐙 GitHub | JavaScript | Miscellaneous | Small | Classic Snake game implementation | 50 | 56 | 🔒 | ✅ |  | Ekin Ceylan Tarafindan yazilan oyun |
+| 34 | [system-prompts](projects/misc/system-prompts.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 35 | [task](projects/misc/task.md) | 🦊 GitLab | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 36 | [windows-terminal](projects/misc/windows-terminal.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2026-08-02 |  |
+| 37 | [wox-prayer-times-plugin](projects/misc/wox-prayer-times-plugin.md) ⭐ | 🐙 GitHub | C# | Library/Extension | Small | Wox launcher plugin for prayer times | 55 | 58 | 🔒 | ✅ |  | wox plugins |
 
 ### 👤 Personal & Sites
 
@@ -401,8 +466,7 @@ Projects are organized into subfolders by technology/domain. Only canonical entr
 | # | Project | Source | Language | Type | Size | Idea | Impl | Rating | Visibility | Archived | Last activity | Description |
 | :-: | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- |
 | 1 | [git-ctf](projects/security/git-ctf.md) ⭐ | 🐙 GitHub | Markdown | Miscellaneous | Small | Git-based CTF challenge repository | 50 | 50 | 🔒 | ✅ |  | Empty repository — no files to archive. |
-| 2 | [sql-injection](projects/security/sql-injection.md) | 🐙 GitHub | — | — | — | — | — | — | 🔒 | ✅ | 2024-10-14 |  |
-| 3 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⭐ | 🐙 GitHub | JavaScript | Library (Node.js) | Small | Convert WSDL to OpenAPI v3 via soap-converter + swagger2openapi | 60 | 72 | 🔒 | ✅ | 2025-10-17 | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
+| 2 | [wsdl2swagger2openapi](projects/security/wsdl2swagger2openapi.md) ⭐ | 🐙 GitHub | JavaScript | Library (Node.js) | Small | Convert WSDL to OpenAPI v3 via soap-converter + swagger2openapi | 60 | 72 | 🔒 | ✅ | 2025-10-17 | wsdl2swagger2openapi is a Node.js tool designed to convert a WSDL file into an OpenAPI v3.0.x file. This is achieved by chaining two existing tools: soap-converter and swagger2openapi. The purpose of |
 
 ### 🌐 Web
 
@@ -441,72 +505,76 @@ Projects are organized into subfolders by technology/domain. Only canonical entr
 
 | # | Project | Source | Language | Visibility | Archived | Last activity | Description |
 | :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |
-| 1 | [aes](forks/aes.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | AES-256 block cipher |
-| 2 | [aes_dust](forks/aes_dust.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-28 | Unlicensed tiny / small portable implementation of 128/256-bit AES encryption in C, x86, AMD64, ARM32 and ARM64 assembly |
-| 3 | [Antlr4.Extension](forks/Antlr4.Extension.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 4 | [ascii_b64](forks/ascii_b64.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 5 | [asm](forks/asm.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Learning assembly for linux-x64 |
-| 6 | [asprofiled](forks/asprofiled.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 7 | [aws_list_all](forks/aws_list_all.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-28 | List all your AWS resources, all regions, all services. |
-| 8 | [bin](forks/bin.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 |  |
-| 9 | [bin_b64](forks/bin_b64.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 10 | [calc.asm](forks/calc.asm.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Minimal arithmetic calculator in x86 assembly |
-| 11 | [clr-profiling](forks/clr-profiling.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 12 | [coding-interview-university](forks/coding-interview-university.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-05-08 | A complete computer science study plan to become a software engineer. |
-| 13 | [CoreHook](forks/CoreHook.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-10-13 | A library that simplifies intercepting application function calls using managed code and the .NET Core runtime |
-| 14 | [Craig-s-Utility-Library](forks/Craig-s-Utility-Library.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Main repo for Craig's Utility Library |
-| 15 | [CSharpExpressionTreesInTheRealWorld](forks/CSharpExpressionTreesInTheRealWorld.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Slides plus links for my talk, C# Expression Trees in the Real World |
-| 16 | [de4dot](forks/de4dot.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-04-05 | .NET deobfuscator and unpacker. |
-| 17 | [des](forks/des.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 18 | [Design-Patterns](forks/Design-Patterns.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-28 | You can find here bunch of useful design patterns to help your project |
-| 19 | [Disposable-Pattern](forks/Disposable-Pattern.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 20 | [dlr](forks/dlr.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-01-03 | Dynamic Language Runtime |
-| 21 | [do-not-reinvent](forks/do-not-reinvent.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | My technical memo |
-| 22 | [docker-baseimage-rdesktop](forks/docker-baseimage-rdesktop.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-02-26 | base image for xrdp containers |
-| 23 | [docker-baseimage-rdesktop-web](forks/docker-baseimage-rdesktop-web.md) | 🐙 GitHub | — | 🔓 | ✅ | 2025-01-15 | Custom all in one container for running GUI apps from a web browser |
-| 24 | [docker-rdesktop](forks/docker-rdesktop.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-02-26 |  |
-| 25 | [DoH-IP-blocklists](forks/DoH-IP-blocklists.md) | 🐙 GitHub | — | 🔓 | ✅ | 2026-08-01 | This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server |
-| 26 | [DotNetHooking](forks/DotNetHooking.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 27 | [DotNextMoscow2019](forks/DotNextMoscow2019.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 28 | [ecma-standarts](forks/ecma-standarts.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
-| 29 | [EzanVaktiAPI](forks/EzanVaktiAPI.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
-| 30 | [har-spec](forks/har-spec.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | The HTTP Archive Spec |
-| 31 | [heceleme](forks/heceleme.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 32 | [Heijden.Dns](forks/Heijden.Dns.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 33 | [ildasm](forks/ildasm.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 34 | [ILProgramming](forks/ILProgramming.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-02-18 | Coding close to the .NET Runtime using ILProj, ildasm, ilasm |
-| 35 | [ILProj](forks/ILProj.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-24 |  |
-| 36 | [keys](forks/keys.md) | 🐙 GitHub | — | 🔓 | ❌ | 2023-01-28 |  |
-| 37 | [lcnc-security-engine](forks/lcnc-security-engine.md) | 🐙 GitHub | — | 🔓 | ❌ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
-| 38 | [LightQuery](forks/LightQuery.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-04-28 | Lightweight solution for sorting and paging Asp.Net Core API results |
-| 39 | [loadlibrary](forks/loadlibrary.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-28 | Porting Windows Dynamic Link Libraries to Linux |
-| 40 | [managed-x86](forks/managed-x86.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 41 | [MethodRedirect](forks/MethodRedirect.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 42 | [minsk](forks/minsk.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
-| 43 | [mssql-TableTruncate](forks/mssql-TableTruncate.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 44 | [mssqlfs](forks/mssqlfs.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 45 | [nemerle](forks/nemerle.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-12-22 | Nemerle language. Main repository. |
-| 46 | [NGINX-Demos](forks/NGINX-Demos.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-04-04 | NGINX and NGINX Plus demos |
-| 47 | [NRules](forks/NRules.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-11-03 | Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. |
-| 48 | [ntpserver](forks/ntpserver.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 49 | [Object-Initialization-in-CSharp](forks/Object-Initialization-in-CSharp.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-12-19 | A C# Pill that highlights the order in which the fields, properties and constructors, both static and instance, are initialized in C#. |
-| 50 | [Parallel-Evolution](forks/Parallel-Evolution.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 51 | [perfect-presentation](forks/perfect-presentation.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-25 | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
-| 52 | [performance-optimization](forks/performance-optimization.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Guidance on how to observe, measure, and correct common issues in a cloud-based system. |
-| 53 | [PiOBDII](forks/PiOBDII.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 54 | [playbook](forks/playbook.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
-| 55 | [PluginFramework](forks/PluginFramework.md) | 🐙 GitHub | — | 🔓 | ❌ | 2025-10-21 | Everything is a Plugin in .NET |
-| 56 | [pose](forks/pose.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Replace any .NET method (including static and non-virtual) with a delegate |
-| 57 | [project-switcher](forks/project-switcher.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | hassle free project switching |
-| 58 | [Random-Problems](forks/Random-Problems.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-12-16 | What actually happens when we use a Random instance from multiple threads? Can we do something to make it thread-safe? |
-| 59 | [selenium-webdriver-winappdriver-example](forks/selenium-webdriver-winappdriver-example.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-01-04 | An example of selenium-webdriver and winappdriver integration |
-| 61 | [sscli20_20060311](forks/sscli20_20060311.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | Version: 2.0 Date Published: 3/23/2006. The Shared Source CLI is a compressed archive of the source code to a working implementation of the ECMA CLI and the ECMA C# language specification. This implementation builds and runs on Windows XP. |
-| 62 | [symreader-converter](forks/symreader-converter.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-28 | Converts between Windows PDB and Portable PDB formats. |
-| 63 | [Todos](forks/Todos.md) | 🐙 GitHub | — | 🔓 | ✅ | 2021-02-26 | Various todo list backend API implementations |
-| 64 | [understanding-csrf](forks/understanding-csrf.md) | 🐙 GitHub | — | 🔓 | ✅ | 2023-01-28 | What are CSRF tokens and how do they work? |
-| 65 | [uxplay](forks/uxplay.md) | 🐙 GitHub | — | 🔓 | ✅ | 2024-10-14 |  |
-| 66 | [Virtual-in-Constructor](forks/Virtual-in-Constructor.md) | 🐙 GitHub | — | 🔓 | ✅ | 2022-12-19 | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
-| 67 | [vulnerable-api](forks/vulnerable-api.md) | 🐙 GitHub | — | 🔒 | ✅ | 2024-10-14 |  |
+| 1 | [.template-powershell-core-binary-module](forks/.template-powershell-core-binary-module.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 2 | [aes](forks/aes.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 4 | [aes_dust](forks/aes_dust.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 6 | [Antlr4.Extension](forks/Antlr4.Extension.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 8 | [ascii_b64](forks/ascii_b64.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 10 | [asm](forks/asm.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 12 | [asprofiled](forks/asprofiled.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 14 | [aws_list_all](forks/aws_list_all.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 16 | [bin](forks/bin.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 18 | [bin_b64](forks/bin_b64.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 20 | [calc.asm](forks/calc.asm.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 22 | [clr-profiling](forks/clr-profiling.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 24 | [coding-interview-university](forks/coding-interview-university.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 26 | [CoreHook](forks/CoreHook.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 28 | [Craig-s-Utility-Library](forks/Craig-s-Utility-Library.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 30 | [CSharpExpressionTreesInTheRealWorld](forks/CSharpExpressionTreesInTheRealWorld.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 32 | [de4dot](forks/de4dot.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 34 | [des](forks/des.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 36 | [Design-Patterns](forks/Design-Patterns.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 38 | [Disposable-Pattern](forks/Disposable-Pattern.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 40 | [dlr](forks/dlr.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 42 | [do-not-reinvent](forks/do-not-reinvent.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 44 | [docker-baseimage-rdesktop](forks/docker-baseimage-rdesktop.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 46 | [docker-baseimage-rdesktop-web](forks/docker-baseimage-rdesktop-web.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 48 | [docker-rdesktop](forks/docker-rdesktop.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 50 | [DoH-IP-blocklists](forks/DoH-IP-blocklists.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 52 | [dot](forks/dot.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 53 | [DotNetHooking](forks/DotNetHooking.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 55 | [DotNextMoscow2019](forks/DotNextMoscow2019.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 57 | [ecma-standarts](forks/ecma-standarts.md) | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-02 |  |
+| 58 | [EzanVaktiAPI](forks/EzanVaktiAPI.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-08-01 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
+| 60 | [har-spec](forks/har-spec.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 62 | [heceleme](forks/heceleme.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 64 | [Heijden.Dns](forks/Heijden.Dns.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 66 | [ildasm](forks/ildasm.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 68 | [ILProgramming](forks/ILProgramming.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 70 | [ILProj](forks/ILProj.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 72 | [keys](forks/keys.md) | 🐙 GitHub | — | 🔓 | ❌ | 2023-01-28 |  |
+| 73 | [lcnc-security-engine](forks/lcnc-security-engine.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
+| 75 | [LightQuery](forks/LightQuery.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 77 | [loadlibrary](forks/loadlibrary.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 79 | [managed-x86](forks/managed-x86.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 81 | [MethodRedirect](forks/MethodRedirect.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 83 | [minsk](forks/minsk.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 85 | [mssql-TableTruncate](forks/mssql-TableTruncate.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 87 | [mssqlfs](forks/mssqlfs.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 89 | [nemerle](forks/nemerle.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 91 | [NGINX-Demos](forks/NGINX-Demos.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 93 | [NRules](forks/NRules.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 95 | [ntpserver](forks/ntpserver.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 97 | [Object-Initialization-in-CSharp](forks/Object-Initialization-in-CSharp.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 99 | [Parallel-Evolution](forks/Parallel-Evolution.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 101 | [perfect-presentation](forks/perfect-presentation.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 103 | [performance-optimization](forks/performance-optimization.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 105 | [PiOBDII](forks/PiOBDII.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 107 | [playbook](forks/playbook.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 109 | [PluginFramework](forks/PluginFramework.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ | 2025-10-21 | Everything is a Plugin in .NET |
+| 111 | [pose](forks/pose.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 113 | [project-switcher](forks/project-switcher.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 115 | [Random-Problems](forks/Random-Problems.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 117 | [selenium-webdriver-winappdriver-example](forks/selenium-webdriver-winappdriver-example.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 120 | [sql-injection](forks/sql-injection.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 121 | [sscli20_20060311](forks/sscli20_20060311.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 123 | [symreader-converter](forks/symreader-converter.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 125 | [Todos](forks/Todos.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 127 | [understanding-csrf](forks/understanding-csrf.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 129 | [unicode_tr](forks/unicode_tr.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 130 | [uxplay](forks/uxplay.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 132 | [Virtual-in-Constructor](forks/Virtual-in-Constructor.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
+| 134 | [vulnerable-api](forks/vulnerable-api.md) ⭐ | 🐙 GitHub | — | 🔒 | ✅ |  |  |
 
 ---
 

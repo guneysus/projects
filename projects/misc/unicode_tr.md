@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⚠️ **Duplicate copy** — the canonical source is `unicode_tr` in the Archive.
 
 ## Overview
 

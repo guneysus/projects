@@ -1,4 +1,4 @@
-# Todos
+# unicode_tr
 
 > *No description available.*
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `Todos` |
+| **Name** | `unicode_tr` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
@@ -19,10 +19,10 @@
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/Todos](https://github.com/guneysus-archieve/Todos)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Todos](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Todos)
+- **Original repository:** [https://github.com/guneysus-archieve/unicode_tr](https://github.com/guneysus-archieve/unicode_tr)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/unicode_tr](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/unicode_tr)
 - **Archive monorepo:** Archive
-- **Archive path:** `forks/github.com/guneysus-archieve/Todos`
+- **Archive path:** `forks/github.com/guneysus-archieve/unicode_tr`
 
 ## Archive Origins
 

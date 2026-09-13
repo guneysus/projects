@@ -2,7 +2,7 @@
 
 > Everything is a Plugin in .NET
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -10,10 +10,10 @@
 | --- | --- |
 | **Name** | `PluginFramework` |
 | **Description** | Everything is a Plugin in .NET |
-| **Visibility** | 🔓 Public |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
 | **Last activity** | 2025-10-21 |
-| **Status** | ❌ Not archived |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 | **Score** | 45 |
@@ -21,14 +21,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/PluginFramework](https://github.com/guneysus/PluginFramework)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/PluginFramework](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/PluginFramework)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/PluginFramework`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/PluginFramework](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/PluginFramework)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus/PluginFramework`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

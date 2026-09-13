@@ -324,6 +324,35 @@ def discover_archive_projects():
                 "owner": owner,
                 "archive_path": f"{sub}/{name}",
             }
+
+    # Discover forks from the archive repo's forks/ section
+    fork_sections = {
+        "forks/github.com/guneysus": ("github", "guneysus"),
+        "forks/github.com/guneysus-archieve": ("github", "guneysus-archieve"),
+    }
+    for sub, (source, owner) in fork_sections.items():
+        try:
+            out = subprocess.run(
+                ["git", "-C", repo_root, "ls-tree", "-d", "--name-only", f"origin/{branch}", sub + "/"],
+                capture_output=True, text=True, check=True,
+            )
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            continue
+        for line in out.stdout.splitlines():
+            name = line.rstrip("/").split("/")[-1]
+            if not name or name in discovered:
+                continue
+            discovered[name] = {
+                "name": name,
+                "description": "",
+                "visibility": "private",
+                "fork": True,
+                "last_activity": "",
+                "archived": True,
+                "source": source,
+                "owner": owner,
+                "archive_path": f"{sub}/{name}",
+            }
     return list(discovered.values())
 
 

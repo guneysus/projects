@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⚠️ **Duplicate copy** — the canonical source is `dot` in the Archive.
 
 ## Overview
 

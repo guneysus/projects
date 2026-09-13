@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⚠️ **Duplicate copy** — the canonical source is `sql-injection` in the Archive.
 
 ## Overview
 

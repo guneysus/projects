@@ -1,18 +1,18 @@
 # perfect-presentation
 
-> This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `perfect-presentation` |
-| **Description** | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2021-02-25 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
@@ -20,14 +20,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/perfect-presentation](https://github.com/guneysus-archieve/perfect-presentation)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/perfect-presentation](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/perfect-presentation)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/perfect-presentation`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/perfect-presentation](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/perfect-presentation)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus-archieve/perfect-presentation`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

@@ -1,18 +1,18 @@
 # DoH-IP-blocklists
 
-> This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `DoH-IP-blocklists` |
-| **Description** | This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2026-08-01 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
@@ -20,14 +20,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/DoH-IP-blocklists](https://github.com/guneysus-archieve/DoH-IP-blocklists)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/DoH-IP-blocklists](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/DoH-IP-blocklists)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/DoH-IP-blocklists`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/DoH-IP-blocklists](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/DoH-IP-blocklists)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus-archieve/DoH-IP-blocklists`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

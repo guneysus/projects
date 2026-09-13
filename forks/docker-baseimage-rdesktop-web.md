@@ -1,18 +1,18 @@
 # docker-baseimage-rdesktop-web
 
-> Custom all in one container for running GUI apps from a web browser
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `docker-baseimage-rdesktop-web` |
-| **Description** | Custom all in one container for running GUI apps from a web browser |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2025-01-15 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
@@ -20,14 +20,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/docker-baseimage-rdesktop-web](https://github.com/guneysus-archieve/docker-baseimage-rdesktop-web)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop-web](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop-web)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus-archieve/docker-baseimage-rdesktop-web`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

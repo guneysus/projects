@@ -1,18 +1,18 @@
 # Virtual-in-Constructor
 
-> This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `Virtual-in-Constructor` |
-| **Description** | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | Yes |
-| **Last activity** | 2022-12-19 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
@@ -20,14 +20,15 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Virtual-in-Constructor](https://github.com/guneysus-archieve/Virtual-in-Constructor)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Virtual-in-Constructor](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Virtual-in-Constructor)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/Virtual-in-Constructor`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor)
+- **Archive monorepo:** Archive
+- **Archive path:** `forks/github.com/guneysus-archieve/Virtual-in-Constructor`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

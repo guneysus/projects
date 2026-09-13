@@ -1,4 +1,4 @@
-# Todos
+# dot
 
 > *No description available.*
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `Todos` |
+| **Name** | `dot` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
@@ -19,10 +19,10 @@
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/Todos](https://github.com/guneysus-archieve/Todos)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Todos](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Todos)
+- **Original repository:** [https://github.com/guneysus-archieve/dot](https://github.com/guneysus-archieve/dot)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/dot](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/dot)
 - **Archive monorepo:** Archive
-- **Archive path:** `forks/github.com/guneysus-archieve/Todos`
+- **Archive path:** `forks/github.com/guneysus-archieve/dot`
 
 ## Archive Origins
 
