@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/graphql](https://github.com/guneysus/graphql)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/graphql](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/graphql)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/graphql](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/graphql)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/graphql`
 

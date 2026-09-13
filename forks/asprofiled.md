@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/asprofiled](https://github.com/guneysus-archieve/asprofiled)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/asprofiled](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/asprofiled)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/asprofiled](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/asprofiled)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/asprofiled`
 

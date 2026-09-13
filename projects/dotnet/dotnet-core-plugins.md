@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotnet-core-plugins](https://github.com/guneysus/dotnet-core-plugins)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-core-plugins](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-core-plugins)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-core-plugins](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-core-plugins)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dotnet-core-plugins`
 

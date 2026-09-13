@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/system32](https://github.com/guneysus/system32)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/system32](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/system32)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/system32](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/system32)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/system32`
 

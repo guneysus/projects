@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/latex-docs](https://gitlab.com/guneysu/latex-docs)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/latex-docs](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/latex-docs)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/latex-docs](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/latex-docs)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/latex-docs`
 

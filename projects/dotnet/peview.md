@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/peview](https://github.com/guneysus/peview)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/peview](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/peview)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/peview](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/peview)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/peview`
 

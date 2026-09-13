@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Devup](https://github.com/guneysus/Devup)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Devup](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Devup)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Devup](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Devup)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/Devup`
 

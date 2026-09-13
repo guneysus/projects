@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/uxplay](https://github.com/guneysus-archieve/uxplay)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/uxplay](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/uxplay)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/uxplay](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/uxplay)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/uxplay`
 

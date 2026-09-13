@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Startup-CTO-Handbook](https://github.com/guneysus/Startup-CTO-Handbook)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/Startup-CTO-Handbook`
 

@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/snow-flakes-js](https://github.com/guneysus/snow-flakes-js)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/snow-flakes-js](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/snow-flakes-js)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snow-flakes-js](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snow-flakes-js)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/snow-flakes-js`
 

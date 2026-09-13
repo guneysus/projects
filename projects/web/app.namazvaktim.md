@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/app.namazvaktim](https://github.com/guneysus/app.namazvaktim)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/app.namazvaktim](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/app.namazvaktim)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/app.namazvaktim](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/app.namazvaktim)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/app.namazvaktim`
 

@@ -26,7 +26,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotnet-expression-trees](https://github.com/guneysus/dotnet-expression-trees)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-expression-trees](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-expression-trees)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-expression-trees](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-expression-trees)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dotnet-expression-trees`
 

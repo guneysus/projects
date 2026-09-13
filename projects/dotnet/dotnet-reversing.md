@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotnet-reversing](https://github.com/guneysus/dotnet-reversing)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-reversing](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-reversing)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-reversing](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-reversing)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dotnet-reversing`
 

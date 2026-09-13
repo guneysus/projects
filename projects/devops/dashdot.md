@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/dashdot](https://gitlab.com/guneysu/dashdot)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/dashdot](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/dashdot)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/dashdot](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/dashdot)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/dashdot`
 

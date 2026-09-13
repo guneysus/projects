@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/LightQuery](https://github.com/guneysus-archieve/LightQuery)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/LightQuery](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/LightQuery)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/LightQuery](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/LightQuery)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/LightQuery`
 

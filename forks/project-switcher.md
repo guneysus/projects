@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/project-switcher](https://github.com/guneysus-archieve/project-switcher)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/project-switcher](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/project-switcher)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/project-switcher](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/project-switcher)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/project-switcher`
 

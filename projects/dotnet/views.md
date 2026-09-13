@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/views](https://github.com/guneysus/views)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/views](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/views)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/views](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/views)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/views`
 

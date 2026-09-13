@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/project-incubation](https://gitlab.com/guneysu/project-incubation)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/project-incubation](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/project-incubation)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/project-incubation](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/project-incubation)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/project-incubation`
 

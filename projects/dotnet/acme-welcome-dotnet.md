@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu.dev/acme-welcome-dotnet](https://gitlab.com/guneysu.dev/acme-welcome-dotnet)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu.dev/acme-welcome-dotnet](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu.dev/acme-welcome-dotnet)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/acme-welcome-dotnet](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/acme-welcome-dotnet)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu.dev/acme-welcome-dotnet`
 

@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/testere](https://github.com/guneysus/testere)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/testere](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/testere)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/testere](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/testere)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/testere`
 

@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/grepz](https://github.com/guneysus/grepz)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/grepz](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/grepz)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/grepz](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/grepz)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/grepz`
 

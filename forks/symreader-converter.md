@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/symreader-converter](https://github.com/guneysus-archieve/symreader-converter)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/symreader-converter](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/symreader-converter)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/symreader-converter](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/symreader-converter)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/symreader-converter`
 

@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/bginfz](https://github.com/guneysus/bginfz)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/bginfz](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/bginfz)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/bginfz](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/bginfz)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/bginfz`
 

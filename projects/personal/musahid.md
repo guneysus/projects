@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/musahid](https://github.com/guneysus/musahid)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/musahid](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/musahid)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/musahid](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/musahid)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/musahid`
 

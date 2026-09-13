@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/templates](https://gitlab.com/guneysu/templates)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/templates](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/templates)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/templates](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/templates)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/templates`
 

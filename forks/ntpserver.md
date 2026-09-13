@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/ntpserver](https://github.com/guneysus-archieve/ntpserver)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ntpserver](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ntpserver)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ntpserver](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ntpserver)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/ntpserver`
 

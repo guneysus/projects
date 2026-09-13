@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/calcpaper](https://github.com/guneysus/calcpaper)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/calcpaper](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/calcpaper)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/calcpaper](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/calcpaper)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/calcpaper`
 

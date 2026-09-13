@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/docker-baseimage-rdesktop](https://github.com/guneysus-archieve/docker-baseimage-rdesktop)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-baseimage-rdesktop)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/docker-baseimage-rdesktop`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Antlr4.Extension](https://github.com/guneysus-archieve/Antlr4.Extension)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Antlr4.Extension](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Antlr4.Extension)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Antlr4.Extension](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Antlr4.Extension)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/Antlr4.Extension`
 

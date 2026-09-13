@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/tutorial-serverless-contact-form](https://github.com/guneysus/tutorial-serverless-contact-form)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/tutorial-serverless-contact-form](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/tutorial-serverless-contact-form)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/tutorial-serverless-contact-form](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/tutorial-serverless-contact-form)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/tutorial-serverless-contact-form`
 

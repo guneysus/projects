@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dinq](https://github.com/guneysus/dinq)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dinq](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dinq)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dinq](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dinq)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dinq`
 

@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/personal-blog-theme-gohugo-soothing](https://github.com/guneysus/personal-blog-theme-gohugo-soothing)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/personal-blog-theme-gohugo-soothing](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/personal-blog-theme-gohugo-soothing)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/personal-blog-theme-gohugo-soothing](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/personal-blog-theme-gohugo-soothing)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/personal-blog-theme-gohugo-soothing`
 

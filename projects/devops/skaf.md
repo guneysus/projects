@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu.dev/skaf](https://gitlab.com/guneysu.dev/skaf)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu.dev/skaf](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu.dev/skaf)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/skaf](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/skaf)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu.dev/skaf`
 

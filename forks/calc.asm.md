@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/calc.asm](https://github.com/guneysus-archieve/calc.asm)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/calc.asm](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/calc.asm)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/calc.asm](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/calc.asm)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/calc.asm`
 

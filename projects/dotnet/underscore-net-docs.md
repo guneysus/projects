@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/underscore-net-docs](https://github.com/guneysus/underscore-net-docs)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/underscore-net-docs](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/underscore-net-docs)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/underscore-net-docs](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/underscore-net-docs)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/underscore-net-docs`
 

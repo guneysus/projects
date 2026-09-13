@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/swe-route-optimization-project](https://github.com/guneysus/swe-route-optimization-project)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/swe-route-optimization-project](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/swe-route-optimization-project)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/swe-route-optimization-project](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/swe-route-optimization-project)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/swe-route-optimization-project`
 

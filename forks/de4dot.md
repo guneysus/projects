@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/de4dot](https://github.com/guneysus-archieve/de4dot)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/de4dot](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/de4dot)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/de4dot](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/de4dot)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/de4dot`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/ILProgramming](https://github.com/guneysus-archieve/ILProgramming)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ILProgramming](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ILProgramming)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ILProgramming](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ILProgramming)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/ILProgramming`
 

@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/learn-lisp](https://github.com/guneysus/learn-lisp)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/learn-lisp](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/learn-lisp)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learn-lisp](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learn-lisp)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/learn-lisp`
 

@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/aspnet-core-streaming](https://github.com/guneysus/aspnet-core-streaming)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/aspnet-core-streaming](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/aspnet-core-streaming)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnet-core-streaming](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnet-core-streaming)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/aspnet-core-streaming`
 

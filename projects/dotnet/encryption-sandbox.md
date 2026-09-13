@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/encryption-sandbox](https://github.com/guneysus/encryption-sandbox)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/encryption-sandbox](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/encryption-sandbox)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/encryption-sandbox](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/encryption-sandbox)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/encryption-sandbox`
 

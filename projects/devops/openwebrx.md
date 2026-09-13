@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/openwebrx](https://gitlab.com/guneysu/openwebrx)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/openwebrx](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/openwebrx)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/openwebrx](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/openwebrx)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/openwebrx`
 

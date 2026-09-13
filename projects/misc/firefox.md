@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/firefox](https://github.com/guneysus/firefox)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/firefox](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/firefox)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/firefox](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/firefox)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/firefox`
 

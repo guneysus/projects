@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/EzanVaktiAPI](https://github.com/guneysus/EzanVaktiAPI)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/EzanVaktiAPI](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/EzanVaktiAPI)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/EzanVaktiAPI](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/EzanVaktiAPI)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus/EzanVaktiAPI`
 

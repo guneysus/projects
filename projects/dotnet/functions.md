@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/functions](https://github.com/guneysus/functions)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/functions](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/functions)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/functions](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/functions)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/functions`
 

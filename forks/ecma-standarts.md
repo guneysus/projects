@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/ecma-standarts](https://github.com/guneysus/ecma-standarts)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/ecma-standarts](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/ecma-standarts)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/ecma-standarts](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/ecma-standarts)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/ecma-standarts`
 

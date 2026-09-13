@@ -47,9 +47,8 @@ ARCHIVES = {
     "archive": {
         "label": "Archive",
         "local_path": r"X:\git\github.com\guneysus\github-archive",
-        # GitHub repo is private; GitLab is the accessible view where the user
-        # browses the archive. Links point to GitLab.
-        "web_url": "https://gitlab.com/guneysu/archive",
+        # All current-location links point to GitHub (the source of truth).
+        "web_url": "https://github.com/guneysus/archive",
         "branch": "develop",
         "origins": [
             "git@github.com:guneysus/archive.git",

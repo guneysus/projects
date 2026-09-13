@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/algoritms](https://github.com/guneysus/algoritms)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/algoritms](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/algoritms)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/algoritms](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/algoritms)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/algoritms`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/play-with-performance-counters](https://github.com/guneysus/play-with-performance-counters)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/play-with-performance-counters](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/play-with-performance-counters)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/play-with-performance-counters](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/play-with-performance-counters)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/play-with-performance-counters`
 

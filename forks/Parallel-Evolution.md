@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Parallel-Evolution](https://github.com/guneysus-archieve/Parallel-Evolution)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Parallel-Evolution](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Parallel-Evolution)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Parallel-Evolution](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Parallel-Evolution)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/Parallel-Evolution`
 

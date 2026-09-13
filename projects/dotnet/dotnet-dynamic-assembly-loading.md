@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotnet-dynamic-assembly-loading](https://github.com/guneysus/dotnet-dynamic-assembly-loading)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-dynamic-assembly-loading](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotnet-dynamic-assembly-loading)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-dynamic-assembly-loading](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-dynamic-assembly-loading)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dotnet-dynamic-assembly-loading`
 

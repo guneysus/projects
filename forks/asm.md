@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/asm](https://github.com/guneysus-archieve/asm)
-- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/asm](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/asm)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/asm](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/asm)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/asm`
 
