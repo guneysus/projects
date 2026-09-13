@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/firebase-studio-apex-cloud-sample](https://github.com/guneysus/firebase-studio-apex-cloud-sample)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/firebase-studio-apex-cloud-sample](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/firebase-studio-apex-cloud-sample)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/firebase-studio-apex-cloud-sample`
 
 ## Archive Origins

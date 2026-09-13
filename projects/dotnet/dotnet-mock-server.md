@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/dotnet-mock-server](https://github.com/guneysus-archieve/dotnet-mock-server)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-mock-server](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-mock-server)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/dotnet-mock-server`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/project-switcher](https://github.com/guneysus-archieve/project-switcher)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/project-switcher](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/project-switcher)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/project-switcher`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/learn-agentic-ai](https://github.com/guneysus/learn-agentic-ai)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-agentic-ai](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-agentic-ai)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/learn-agentic-ai`
 
 ## Archive Origins

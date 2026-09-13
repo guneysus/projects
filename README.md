@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | **Archive** | `X:\git\github.com\guneysus\github-archive` | `git@github.com:guneysus/archive.git`<br>`git@gitlab.com:guneysu/archive.git`<br>`gitea@192.168.1.19:guneysu.dev/github-archive.git` |
 | **GitLab Archive** | `X:\git\gitlab.com\guneysu\gitlab-archive` | `git@gitlab.com:guneysu/gitlab-archive.git` |
-| **GitHub Archive** | `X:\git\gitlab.com\guneysu\github-guneysus-archive` | `git@gitlab.com:guneysu/github-guneysus-archive.git`<br>`gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git` |
+| **GitHub Projects Archive** | `X:\git\gitlab.com\guneysu\github-guneysus-archive` | `git@gitlab.com:guneysu/github-guneysus-archive.git`<br>`gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git` |
 
 ## 📊 Summary
 
@@ -24,8 +24,8 @@ Some projects exist in **more than one** archive monorepo. They may have differe
 
 | Project | Archives |
 | --- | --- |
-| `docker-apps` | GitHub Archive, GitLab Archive |
-| `parsers` | GitHub Archive, GitLab Archive |
+| `docker-apps` | GitHub Projects Archive, GitLab Archive |
+| `parsers` | GitHub Projects Archive, GitLab Archive |
 
 ## 🗂️ Projects
 

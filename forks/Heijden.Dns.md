@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/Heijden.Dns](https://github.com/guneysus-archieve/Heijden.Dns)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Heijden.Dns](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Heijden.Dns)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Heijden.Dns`
 
 ## Archive Origins

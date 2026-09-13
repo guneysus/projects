@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/gohugo-hacker](https://github.com/guneysus/gohugo-hacker)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/gohugo-hacker](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/gohugo-hacker)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/gohugo-hacker`
 
 ## Archive Origins

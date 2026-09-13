@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/SqlServer.Rules](https://github.com/guneysus/SqlServer.Rules)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/SqlServer.Rules](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/SqlServer.Rules)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/SqlServer.Rules`
 
 ## Archive Origins

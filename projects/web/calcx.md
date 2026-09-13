@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/calcx](https://github.com/guneysus/calcx)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/calcx](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/calcx)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/calcx`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/peview](https://github.com/guneysus-archieve/peview)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/peview](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/peview)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/peview`
 
 ## Archive Origins

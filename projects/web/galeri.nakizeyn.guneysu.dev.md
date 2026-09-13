@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/galeri.nakizeyn.guneysu.dev](https://github.com/guneysus/galeri.nakizeyn.guneysu.dev)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev`
 
 ## Archive Origins

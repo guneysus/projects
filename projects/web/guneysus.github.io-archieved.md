@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/guneysus.github.io-archieved](https://github.com/guneysus/guneysus.github.io-archieved)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/guneysus.github.io-archieved](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/guneysus.github.io-archieved)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/guneysus.github.io-archieved`
 
 ## Archive Origins

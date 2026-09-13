@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/personal-blog-theme-gohugo-soothing](https://github.com/guneysus/personal-blog-theme-gohugo-soothing)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing`
 
 ## Archive Origins

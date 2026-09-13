@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/prank.var.sourcegenerator](https://github.com/guneysus/prank.var.sourcegenerator)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prank.var.sourcegenerator](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prank.var.sourcegenerator)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/prank.var.sourcegenerator`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/todo-gql](https://github.com/guneysus/todo-gql)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/todo-gql](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/todo-gql)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/todo-gql`
 
 ## Archive Origins

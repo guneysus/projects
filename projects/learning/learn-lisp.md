@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/learn-lisp](https://github.com/guneysus/learn-lisp)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-lisp](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-lisp)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/learn-lisp`
 
 ## Archive Origins

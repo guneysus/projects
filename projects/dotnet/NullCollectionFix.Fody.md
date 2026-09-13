@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/NullCollectionFix.Fody](https://github.com/guneysus/NullCollectionFix.Fody)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NullCollectionFix.Fody](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NullCollectionFix.Fody)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/NullCollectionFix.Fody`
 
 ## Archive Origins

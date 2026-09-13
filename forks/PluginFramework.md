@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/PluginFramework](https://github.com/guneysus/PluginFramework)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/PluginFramework](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/PluginFramework)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/PluginFramework`
 
 ## Archive Origins

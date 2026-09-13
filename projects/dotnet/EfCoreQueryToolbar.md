@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/EfCoreQueryToolbar](https://github.com/guneysus/EfCoreQueryToolbar)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EfCoreQueryToolbar](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EfCoreQueryToolbar)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/EfCoreQueryToolbar`
 
 ## Archive Origins

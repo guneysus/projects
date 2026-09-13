@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/rende](https://github.com/guneysus/rende)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/rende](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/rende)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/rende`
 
 ## Archive Origins

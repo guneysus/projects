@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/Devup](https://github.com/guneysus-archieve/Devup)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Devup](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Devup)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Devup`
 
 ## Archive Origins

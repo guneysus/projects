@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/csharp.generic.db.view](https://github.com/guneysus-archieve/csharp.generic.db.view)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/csharp.generic.db.view](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/csharp.generic.db.view)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/csharp.generic.db.view`
 
 ## Archive Origins

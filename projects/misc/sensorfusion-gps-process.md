@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/sensorfusion-gps-process](https://github.com/guneysus-archieve/sensorfusion-gps-process)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/sensorfusion-gps-process](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/sensorfusion-gps-process)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/sensorfusion-gps-process`
 
 ## Archive Origins

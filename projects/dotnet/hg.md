@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/hg](https://github.com/guneysus/hg)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/hg](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/hg)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/hg`
 
 ## Archive Origins

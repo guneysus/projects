@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/NullFixEnumerable.Fody](https://github.com/guneysus/NullFixEnumerable.Fody)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NullFixEnumerable.Fody](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NullFixEnumerable.Fody)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/NullFixEnumerable.Fody`
 
 ## Archive Origins

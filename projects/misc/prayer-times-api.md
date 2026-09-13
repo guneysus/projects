@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/prayer-times-api](https://github.com/guneysus-archieve/prayer-times-api)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prayer-times-api](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prayer-times-api)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/prayer-times-api`
 
 ## Archive Origins

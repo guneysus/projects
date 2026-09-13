@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/blog-from-scratch](https://github.com/guneysus/blog-from-scratch)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-from-scratch](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-from-scratch)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/blog-from-scratch`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/lcnc-security-engine)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/lcnc-security-engine](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/lcnc-security-engine)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/lcnc-security-engine`
 
 ## Archive Origins

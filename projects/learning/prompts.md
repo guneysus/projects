@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/prompts](https://github.com/guneysus/prompts)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prompts](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/prompts)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/prompts`
 
 ## Archive Origins

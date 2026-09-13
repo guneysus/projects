@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/pake](https://github.com/guneysus/pake)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/pake](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/pake)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/pake`
 
 ## Archive Origins

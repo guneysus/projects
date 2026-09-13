@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/blog-v3-theme](https://github.com/guneysus/blog-v3-theme)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-v3-theme](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-v3-theme)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/blog-v3-theme`
 
 ## Archive Origins

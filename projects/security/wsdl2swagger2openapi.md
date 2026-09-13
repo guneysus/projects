@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/wsdl2swagger2openapi](https://github.com/guneysus/wsdl2swagger2openapi)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/wsdl2swagger2openapi](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/wsdl2swagger2openapi)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/wsdl2swagger2openapi`
 
 ## Archive Origins

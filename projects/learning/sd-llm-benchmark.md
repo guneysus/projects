@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/sd-llm-benchmark](https://github.com/guneysus/sd-llm-benchmark)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/sd-llm-benchmark](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/sd-llm-benchmark)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/sd-llm-benchmark`
 
 ## Archive Origins

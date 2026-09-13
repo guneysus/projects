@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/Virtual-in-Constructor](https://github.com/guneysus-archieve/Virtual-in-Constructor)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Virtual-in-Constructor](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Virtual-in-Constructor)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Virtual-in-Constructor`
 
 ## Archive Origins

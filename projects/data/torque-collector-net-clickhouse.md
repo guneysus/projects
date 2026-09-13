@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/torque-collector-net-clickhouse](https://github.com/guneysus/torque-collector-net-clickhouse)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/torque-collector-net-clickhouse](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/torque-collector-net-clickhouse)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/torque-collector-net-clickhouse`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/asm](https://github.com/guneysus-archieve/asm)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/asm](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/asm)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/asm`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/NanoDbProfiler](https://github.com/guneysus/NanoDbProfiler)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NanoDbProfiler](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/NanoDbProfiler)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/NanoDbProfiler`
 
 ## Archive Origins

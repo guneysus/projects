@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/dingil](https://github.com/guneysus-archieve/dingil)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dingil](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dingil)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/dingil`
 
 ## Archive Origins

@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/configs](https://github.com/guneysus/configs)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/configs](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/configs)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/configs`
 
 ## Archive Origins

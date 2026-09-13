@@ -65,7 +65,7 @@ ARCHIVES = {
         ],
     },
     "github-guneysus-archive": {
-        "label": "GitHub Archive",
+        "label": "GitHub Projects Archive",
         "local_path": r"X:\git\gitlab.com\guneysu\github-guneysus-archive",
         "web_url": "https://gitlab.com/guneysu/github-guneysus-archive",
         "branch": "main",

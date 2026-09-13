@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/Startup-CTO-Handbook](https://github.com/guneysus/Startup-CTO-Handbook)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Startup-CTO-Handbook](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Startup-CTO-Handbook)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Startup-CTO-Handbook`
 
 ## Archive Origins

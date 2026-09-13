@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/cv](https://github.com/guneysus/cv)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/cv](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/cv)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/cv`
 
 ## Archive Origins

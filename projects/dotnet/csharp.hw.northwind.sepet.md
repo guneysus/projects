@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/csharp.hw.northwind.sepet](https://github.com/guneysus-archieve/csharp.hw.northwind.sepet)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/csharp.hw.northwind.sepet](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/csharp.hw.northwind.sepet)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/csharp.hw.northwind.sepet`
 
 ## Archive Origins

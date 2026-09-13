@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus/analyzers](https://github.com/guneysus/analyzers)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/analyzers](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/analyzers)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/analyzers`
 
 ## Archive Origins

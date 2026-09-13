@@ -21,7 +21,7 @@
 
 - **Original repository:** [https://github.com/guneysus-archieve/DotNetHooking](https://github.com/guneysus-archieve/DotNetHooking)
 - **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/DotNetHooking](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/DotNetHooking)
-- **Archive monorepo:** GitHub Archive
+- **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/DotNetHooking`
 
 ## Archive Origins
