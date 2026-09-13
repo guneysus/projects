@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Blog |
 | **Size** | Small |
+| **Idea** | Hugo-based personal blog built from scratch |
+| **Idea score** | 50 |
+| **Impl score** | 60 |
 | **Rating** | 54 |
 | **Score** | 50 |
 

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | YAML-based development environment manager like docker-compose for dev setups |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Small |
+| **Idea** | XML sitemap parser and analyzer |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

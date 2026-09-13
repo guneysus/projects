@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Interactive terminal UI for fast git branch switching with keyboard navigation |
+| **Idea score** | 80 |
+| **Impl score** | 65 |
 | **Rating** | 74 |
 | **Score** | 55 |
 

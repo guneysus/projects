@@ -19,6 +19,9 @@
 | **Language** | TypeScript |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea** | Next.js starter project for Firebase Studio cloud IDE |
+| **Idea score** | 50 |
+| **Impl score** | 75 |
 | **Rating** | 60 |
 | **Score** | 10 |
 

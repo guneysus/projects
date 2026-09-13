@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | HTML5 Canvas snowflake animation for web pages |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

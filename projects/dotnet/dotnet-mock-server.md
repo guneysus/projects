@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Medium |
+| **Idea** | Declarative mock server with fake data generation for .NET Core |
+| **Idea score** | 70 |
+| **Impl score** | 95 |
 | **Rating** | 80 |
 
 ## Links

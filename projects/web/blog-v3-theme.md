@@ -19,6 +19,9 @@
 | **Language** | CSS |
 | **Type** | Blog |
 | **Size** | Small |
+| **Idea** | Custom Hugo theme for blog-v3 personal site |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 | **Score** | 20 |
 

@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Library (Node.js) |
 | **Size** | Small |
+| **Idea** | JavaScript chess engine and board implementation |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

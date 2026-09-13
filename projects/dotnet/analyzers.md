@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Medium |
+| **Idea** | Roslyn code analyzers for C# code quality enforcement |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 50 |
 

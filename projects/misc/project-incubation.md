@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | DevOps/CI |
 | **Size** | Medium |
+| **Idea** | Side project incubation repository for experimental ideas |
+| **Idea score** | 50 |
+| **Impl score** | 85 |
 | **Rating** | 64 |
 
 ## Links

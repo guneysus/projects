@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Sample/Tutorial |
 | **Size** | Small |
+| **Idea** | Sample ASP.NET Core applications demonstrating features |
+| **Idea score** | 40 |
+| **Impl score** | 55 |
 | **Rating** | 46 |
 
 ## Links

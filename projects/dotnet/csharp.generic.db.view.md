@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Generic database viewer with C# Windows Forms |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 
 ## Links

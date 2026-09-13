@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Library (.NET) |
 | **Size** | Medium |
+| **Idea** | Cross-platform rendering utility tool |
+| **Idea score** | 50 |
+| **Impl score** | 70 |
 | **Rating** | 58 |
 | **Score** | 25 |
 

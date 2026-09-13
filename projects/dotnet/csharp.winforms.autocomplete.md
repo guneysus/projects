@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | WinForms autocomplete textbox with LINQ and EF |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 
 ## Links

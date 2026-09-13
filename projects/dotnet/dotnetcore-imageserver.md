@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | DevOps/Docker |
 | **Size** | Medium |
+| **Idea** | Image upload and serving API with resizing and cropping |
+| **Idea score** | 60 |
+| **Impl score** | 95 |
 | **Rating** | 74 |
 
 ## Links

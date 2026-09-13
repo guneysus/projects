@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Large |
+| **Idea** | YAML-driven CRUD API generator for rapid prototyping |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

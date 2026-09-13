@@ -19,6 +19,9 @@
 | **Language** | Python |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | GPS sensor fusion and signal processing algorithms |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

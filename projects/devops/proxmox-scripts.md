@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Post-installation automation scripts for Proxmox VE hypervisor |
+| **Idea score** | 60 |
+| **Impl score** | 50 |
 | **Rating** | 56 |
 | **Score** | 10 |
 

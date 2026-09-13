@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Library (.NET) |
 | **Size** | Medium |
+| **Idea** | Enhanced grep-like search tool with additional features |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 | **Score** | 20 |
 

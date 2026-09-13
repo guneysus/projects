@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | API (GraphQL) |
 | **Size** | Small |
+| **Idea** | Sample applications demonstrating SQL query profiler usage |
+| **Idea score** | 45 |
+| **Impl score** | 55 |
 | **Rating** | 49 |
 | **Score** | 10 |
 

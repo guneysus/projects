@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Mars Rover TDD coding exercise (interview project) |
+| **Idea score** | 60 |
+| **Impl score** | 85 |
 | **Rating** | 70 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | DevOps/CI |
 | **Size** | Medium |
+| **Idea** | Handy utility toolkit for .NET Core with high test coverage |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

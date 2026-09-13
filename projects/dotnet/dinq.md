@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Dynamic LINQ query builder for .NET |
+| **Idea score** | 60 |
+| **Impl score** | 80 |
 | **Rating** | 68 |
 
 ## Links

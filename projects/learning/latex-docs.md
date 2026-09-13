@@ -19,6 +19,9 @@
 | **Language** | Shell |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | LaTeX document templates and tutorials for academic writing |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

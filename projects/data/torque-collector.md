@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | DevOps/Docker |
 | **Size** | Medium |
+| **Idea** | Torque data collector for vehicle telemetry and diagnostics |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

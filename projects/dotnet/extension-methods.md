@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Library/Extension |
 | **Size** | Small |
+| **Idea** | Collection of useful C# extension methods for common patterns |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 | **Score** | 50 |
 

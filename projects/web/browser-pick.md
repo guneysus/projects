@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Browser bookmark and tab management utility |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Source Generator |
 | **Size** | Medium |
+| **Idea** | Personal learning projects and code experiments |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 20 |
 

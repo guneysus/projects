@@ -19,6 +19,8 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 25 |
 

@@ -19,6 +19,9 @@
 | **Language** | Python |
 | **Type** | DevOps/CI |
 | **Size** | Small |
+| **Idea** | Vehicle routing optimization using Google OR-Tools for logistics |
+| **Idea score** | 70 |
+| **Impl score** | 95 |
 | **Rating** | 80 |
 | **Score** | 0 |
 

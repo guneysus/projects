@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Shopping cart homework using Northwind database |
+| **Idea score** | 40 |
+| **Impl score** | 60 |
 | **Rating** | 48 |
 
 ## Links

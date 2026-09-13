@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Library (Node.js) |
 | **Size** | Small |
+| **Idea** | Cloudflare Workers function for user data retrieval |
+| **Idea score** | 50 |
+| **Impl score** | 70 |
 | **Rating** | 58 |
 
 ## Links

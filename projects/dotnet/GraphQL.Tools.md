@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | API (GraphQL) |
 | **Size** | Medium |
+| **Idea** | Code-generate C# types from GraphQL schemas for type-safe GraphQL clients |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 60 |
 

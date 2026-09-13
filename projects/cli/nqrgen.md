@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | QR code generator CLI tool with customizable output |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 | **Score** | 30 |
 

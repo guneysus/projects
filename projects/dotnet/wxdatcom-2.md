@@ -19,6 +19,9 @@
 | **Language** | C |
 | **Type** | Miscellaneous |
 | **Size** | Medium |
+| **Idea** | Updated wxWidgets DATCOM interface with modern tooling |
+| **Idea score** | 50 |
+| **Impl score** | 65 |
 | **Rating** | 56 |
 
 ## Links

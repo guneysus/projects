@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Medium |
+| **Idea** | Downtime monitoring and alerting service (interview project) |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

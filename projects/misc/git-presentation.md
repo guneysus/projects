@@ -19,6 +19,9 @@
 | **Language** | CSS |
 | **Type** | Miscellaneous |
 | **Size** | Medium |
+| **Idea** | Git presentation materials and workshop content |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

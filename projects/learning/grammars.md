@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea** | Collection of grammar definitions for parsers and language tools |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 50 |
 

@@ -19,6 +19,9 @@
 | **Language** | Shell |
 | **Type** | DevOps/Docker |
 | **Size** | Small |
+| **Idea** | https://github.com/ssh0/dot |
+| **Idea score** | 50 |
+| **Impl score** | 65 |
 | **Rating** | 56 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Step-by-step guide and demo for debugging C# source generators in VS2022 |
+| **Idea score** | 55 |
+| **Impl score** | 60 |
 | **Rating** | 57 |
 
 ## Links

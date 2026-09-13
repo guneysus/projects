@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Small |
+| **Idea** | Custom configuration file generator for .NET projects |
+| **Idea score** | 65 |
+| **Impl score** | 60 |
 | **Rating** | 63 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Medium |
+| **Idea** | Experimental .NET code sandbox for testing ideas |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

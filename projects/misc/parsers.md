@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea** | Collection of parsers and language processing tools including Calcx |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 25 |
 

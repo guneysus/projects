@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Web App (Node.js) |
 | **Size** | Small |
+| **Idea** | SaaS application scaffold with modern .NET architecture |
+| **Idea score** | 50 |
+| **Impl score** | 80 |
 | **Rating** | 62 |
 
 ## Links

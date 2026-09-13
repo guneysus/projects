@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | Docker Compose configurations for self-hosted applications |
+| **Idea score** | 50 |
+| **Impl score** | 65 |
 | **Rating** | 56 |
 | **Score** | 50 |
 

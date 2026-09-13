@@ -19,6 +19,9 @@
 | **Language** | Python |
 | **Type** | DevOps/Docker |
 | **Size** | Small |
+| **Idea** | Serverless prayer times API via AWS S3 static site |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 
 ## Links

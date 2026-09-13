@@ -19,6 +19,9 @@
 | **Language** | Lua |
 | **Type** | Proxy/Gateway |
 | **Size** | Small |
+| **Idea** | OpenResty-based API gateway with WAF capabilities |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

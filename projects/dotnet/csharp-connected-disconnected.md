@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Educational project on connected vs disconnected data access in C# |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 
 ## Links

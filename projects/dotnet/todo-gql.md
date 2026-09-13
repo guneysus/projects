@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | API (GraphQL) |
 | **Size** | Medium |
+| **Idea** | GraphQL-based todo list API template with various .NET backends |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 10 |
 

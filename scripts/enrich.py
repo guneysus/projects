@@ -160,6 +160,9 @@ def enrich_projects(projects, archive_local_path, branch="develop"):
             p["project_type"] = a["type"]
             p["size"] = a["size"]
             p["rating"] = a["rating"]
+            p["idea"] = a["idea"]
+            p["idea_score"] = a["idea_score"]
+            p["impl_score"] = a["impl_score"]
             changed = True
         elif name in repos and not p.get("description") and repos[name].get("description"):
             p["description"] = repos[name]["description"]

@@ -114,6 +114,12 @@ def build_project_page(project, duplicates):
         lines.append(f"| **Type** | {project['project_type']} |")
     if project.get("size"):
         lines.append(f"| **Size** | {project['size']} |")
+    if project.get("idea"):
+        lines.append(f"| **Idea** | {project['idea']} |")
+    if project.get("idea_score"):
+        lines.append(f"| **Idea score** | {project['idea_score']} |")
+    if project.get("impl_score"):
+        lines.append(f"| **Impl score** | {project['impl_score']} |")
     if project.get("rating"):
         lines.append(f"| **Rating** | {project['rating']} |")
     if project.get("score"):
@@ -194,16 +200,19 @@ def build_readme(projects, duplicates):
         lines.append("_No duplicates detected._")
     lines.append("")
 
-    # Group original projects by category
+    # Group original projects by category (canonical only; duplicate copies hidden)
     by_cat = {}
     for p in originals:
+        if p.get("duplicate_of"):
+            continue  # hide duplicate copies, show only canonical
         by_cat.setdefault(category_of(p), []).append(p)
 
     # Projects section, grouped by category
     lines += [
         "## 🗂️ Projects",
         "",
-        "Projects are organized into subfolders by technology/domain.",
+        "Projects are organized into subfolders by technology/domain. Only canonical "
+        "entries are shown (duplicate copies are hidden).",
         "",
     ]
     for cat_key in sorted(by_cat, key=lambda c: CATEGORIES[c]["label"].lower()):
@@ -213,22 +222,27 @@ def build_readme(projects, duplicates):
             "",
             f"> {cat['description']}",
             "",
-            "| # | Project | Source | Language | Visibility | Archived | Last activity | Description |",
-            "| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |",
+            "| # | Project | Source | Language | Type | Size | Idea | Impl | Rating | Visibility | Archived | Last activity | Description |",
+            "| :-: | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- |",
         ]
         for i, p in enumerate(sorted(by_cat[cat_key], key=lambda x: x["name"].lower()), start=1):
-            if p.get("canonical") and p["name"] in duplicates:
-                marker = " ⭐"
-            elif p.get("duplicate_of"):
-                marker = " ⚠️"
-            else:
-                marker = ""
+            marker = " ⭐" if p.get("canonical") and p["name"] in duplicates else ""
             lang = p.get("language") or "—"
+            ptype = p.get("project_type") or "—"
+            size = p.get("size") or "—"
+            idea = p.get("idea") or "—"
+            impl = p.get("impl_score") or "—"
+            rating = p.get("rating") or "—"
             src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
             lines.append(
                 f"| {i} | [{p['name']}]({page_rel_path(p)}){marker} | "
                 f"{src} | "
                 f"{lang} | "
+                f"{ptype} | "
+                f"{size} | "
+                f"{idea} | "
+                f"{impl} | "
+                f"{rating} | "
                 f"{'🔓' if p['visibility']=='public' else '🔒'} | "
                 f"{'✅' if p.get('archived') else '❌'} | "
                 f"{p.get('last_activity','—')} | {p.get('description') or ''} |"
@@ -241,20 +255,19 @@ def build_readme(projects, duplicates):
         "",
         "> Forked repositories — kept for reference, not original projects.",
         "",
-        "| # | Project | Source | Visibility | Archived | Last activity | Description |",
-        "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
+        "| # | Project | Source | Language | Visibility | Archived | Last activity | Description |",
+        "| :-: | --- | :-: | :-: | :-: | :-: | :-: | --- |",
     ]
     for i, p in enumerate(sorted(forks, key=lambda x: x["name"].lower()), start=1):
-        if p.get("canonical") and p["name"] in duplicates:
-            marker = " ⭐"
-        elif p.get("duplicate_of"):
-            marker = " ⚠️"
-        else:
-            marker = ""
+        if p.get("duplicate_of"):
+            continue  # hide duplicate copies
+        marker = " ⭐" if p.get("canonical") and p["name"] in duplicates else ""
+        lang = p.get("language") or "—"
         src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
             f"| {i} | [{p['name']}]({page_rel_path(p)}){marker} | "
             f"{src} | "
+            f"{lang} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
             f"{p.get('last_activity','—')} | {p.get('description') or ''} |"

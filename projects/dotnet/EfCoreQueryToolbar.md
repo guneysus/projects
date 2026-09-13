@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Medium |
+| **Idea** | Intercept and inspect EF Core SQL queries in-browser during development |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 20 |
 

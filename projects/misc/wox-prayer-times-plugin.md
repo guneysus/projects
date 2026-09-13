@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library/Extension |
 | **Size** | Small |
+| **Idea** | Wox launcher plugin for prayer times |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

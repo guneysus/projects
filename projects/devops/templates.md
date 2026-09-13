@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | Template |
 | **Size** | Small |
+| **Idea** | Reusable GitLab CI/CD templates for automated pipelines |
+| **Idea score** | 40 |
+| **Impl score** | 55 |
 | **Rating** | 46 |
 
 ## Links

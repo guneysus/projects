@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Git-based CTF challenge repository |
+| **Idea score** | 50 |
+| **Impl score** | 50 |
 | **Rating** | 50 |
 
 ## Links

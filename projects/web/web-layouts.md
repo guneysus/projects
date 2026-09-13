@@ -19,6 +19,9 @@
 | **Language** | HTML |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Collection of reusable web layout templates |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

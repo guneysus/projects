@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | C# HTML generation DSL using operator overloading for fluent markup |
+| **Idea score** | 80 |
+| **Impl score** | 85 |
 | **Rating** | 82 |
 | **Score** | 50 |
 

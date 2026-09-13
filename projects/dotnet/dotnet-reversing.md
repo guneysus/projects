@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | .NET assembly reverse engineering tools and techniques |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

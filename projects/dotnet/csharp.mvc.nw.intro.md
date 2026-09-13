@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Medium |
+| **Idea** | Northwind database MVC introduction project |
+| **Idea score** | 40 |
+| **Impl score** | 60 |
 | **Rating** | 48 |
 
 ## Links

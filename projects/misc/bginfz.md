@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Background information display utility |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 | **Score** | 50 |
 

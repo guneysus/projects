@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | DevOps/CI |
 | **Size** | Small |
+| **Idea** | Polyglot monorepo for multi-step form flow management |
+| **Idea score** | 50 |
+| **Impl score** | 75 |
 | **Rating** | 60 |
 
 ## Links

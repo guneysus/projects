@@ -19,6 +19,9 @@
 | **Language** | TypeScript |
 | **Type** | DevOps/Docker |
 | **Size** | Medium |
+| **Idea** | Personal developer portal built with Backstage platform |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

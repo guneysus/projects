@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | Ad-hoc experiments with large language models and AI |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 | **Score** | 40 |
 

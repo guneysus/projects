@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Welcome project template with ACME certificate integration for .NET |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

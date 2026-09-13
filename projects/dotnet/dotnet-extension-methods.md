@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Library/Extension |
 | **Size** | Small |
+| **Idea** | Reusable .NET extension methods library |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

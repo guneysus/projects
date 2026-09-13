@@ -19,6 +19,9 @@
 | **Language** | HTML |
 | **Type** | Blog |
 | **Size** | Small |
+| **Idea** | Custom Hugo theme for personal blogging with soothing design |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 | **Score** | 70 |
 

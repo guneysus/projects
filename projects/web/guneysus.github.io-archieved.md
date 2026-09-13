@@ -19,6 +19,9 @@
 | **Language** | HTML |
 | **Type** | Library (Node.js) |
 | **Size** | Small |
+| **Idea** | Archived personal GitHub Pages site with blog content |
+| **Idea score** | 50 |
+| **Impl score** | 60 |
 | **Rating** | 54 |
 | **Score** | 50 |
 

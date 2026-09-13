@@ -19,6 +19,9 @@
 | **Language** | Dockerfile |
 | **Type** | DevOps/Docker |
 | **Size** | Small |
+| **Idea** | Image gallery and viewer application |
+| **Idea score** | 60 |
+| **Impl score** | 80 |
 | **Rating** | 68 |
 
 ## Links

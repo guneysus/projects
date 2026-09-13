@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | https://www.myget.org/feed/guneysu/package/nuget/NullFixEnumerable.Fody |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 20 |
 

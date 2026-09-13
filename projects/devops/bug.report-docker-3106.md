@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | DevOps/Docker |
 | **Size** | Small |
+| **Idea** | Reproduction case for Docker issue #3106 with tty |
+| **Idea score** | 50 |
+| **Impl score** | 70 |
 | **Rating** | 58 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | Configuration |
 | **Size** | Small |
+| **Idea** | Kubernetes GitOps configuration manifests for declarative deployments |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

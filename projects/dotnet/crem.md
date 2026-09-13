@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Medium |
+| **Idea** | CRUD Made Easy - rapid CRUD application generator |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

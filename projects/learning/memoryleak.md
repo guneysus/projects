@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | Educational tool demonstrating .NET memory leak patterns and debugging |
+| **Idea score** | 80 |
+| **Impl score** | 80 |
 | **Rating** | 80 |
 | **Score** | 30 |
 

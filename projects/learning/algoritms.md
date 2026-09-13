@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Algorithm implementations and data structure exercises |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

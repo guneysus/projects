@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Library (Node.js) |
 | **Size** | Small |
+| **Idea** | Calculator application with paper tape display |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

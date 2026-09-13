@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Mobile (Android) |
 | **Size** | Medium |
+| **Idea** | Mobile-friendly web app displaying daily prayer times with notifications |
+| **Idea score** | 60 |
+| **Impl score** | 80 |
 | **Rating** | 68 |
 
 ## Links

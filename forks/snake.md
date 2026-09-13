@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Classic Snake game implementation |
+| **Idea score** | 60 |
+| **Impl score** | 50 |
 | **Rating** | 56 |
 
 ## Links

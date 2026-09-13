@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea** | .NET port of SpeedCrunch scientific calculator |
+| **Idea score** | 60 |
+| **Impl score** | 90 |
 | **Rating** | 72 |
 
 ## Links

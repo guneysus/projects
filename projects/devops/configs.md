@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Configuration |
 | **Size** | Medium |
+| **Idea** | Centralized development configuration files and dotfiles |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 | **Score** | 50 |
 

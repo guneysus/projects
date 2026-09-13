@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | Documentation for Underscore.NET utility library |
+| **Idea score** | 60 |
+| **Impl score** | 65 |
 | **Rating** | 62 |
 
 ## Links

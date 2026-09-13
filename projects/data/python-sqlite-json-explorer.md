@@ -19,6 +19,9 @@
 | **Language** | CSS |
 | **Type** | Database Tool |
 | **Size** | Medium |
+| **Idea** | SQLite database explorer with JSON export in Python |
+| **Idea score** | 50 |
+| **Impl score** | 55 |
 | **Rating** | 52 |
 
 ## Links

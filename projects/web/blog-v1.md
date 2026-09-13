@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Large |
+| **Idea** | First version of personal blog |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

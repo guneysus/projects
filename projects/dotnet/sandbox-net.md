@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Large |
+| **Idea** | .NET code sandbox for quick prototyping |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

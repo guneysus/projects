@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Library (Node.js) |
 | **Size** | Small |
+| **Idea** | Convert WSDL to OpenAPI v3 via soap-converter + swagger2openapi |
+| **Idea score** | 80 |
+| **Impl score** | 60 |
 | **Rating** | 72 |
 | **Score** | 30 |
 

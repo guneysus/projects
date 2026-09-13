@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea** | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 55 |
 

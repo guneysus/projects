@@ -19,6 +19,9 @@
 | **Language** | HTML |
 | **Type** | DevOps/CI |
 | **Size** | Large |
+| **Idea** | Personal blog v3 built with Hugo static site generator |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 40 |
 

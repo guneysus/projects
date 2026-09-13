@@ -19,6 +19,9 @@
 | **Language** | C |
 | **Type** | Miscellaneous |
 | **Size** | Medium |
+| **Idea** | wxWidgets-based DATCOM interface for aircraft design calculations |
+| **Idea score** | 50 |
+| **Impl score** | 65 |
 | **Rating** | 56 |
 | **Score** | 85 |
 

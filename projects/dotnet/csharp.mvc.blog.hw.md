@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Blog |
 | **Size** | Medium |
+| **Idea** | MVC blog homework project in C# |
+| **Idea score** | 60 |
+| **Impl score** | 65 |
 | **Rating** | 62 |
 
 ## Links

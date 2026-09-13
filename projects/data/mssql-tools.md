@@ -19,6 +19,9 @@
 | **Language** | SQL |
 | **Type** | Database Tool |
 | **Size** | Small |
+| **Idea** | SQL Server management and utility tools |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

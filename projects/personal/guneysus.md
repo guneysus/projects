@@ -19,6 +19,9 @@
 | **Language** | Python |
 | **Type** | DevOps/CI |
 | **Size** | Small |
+| **Idea** | Personal blog and technical writing on functional programming and .NET |
+| **Idea score** | 60 |
+| **Impl score** | 70 |
 | **Rating** | 64 |
 | **Score** | 40 |
 

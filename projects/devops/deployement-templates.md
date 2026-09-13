@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Web App (Python) |
 | **Size** | Small |
+| **Idea** | Deployment configuration templates for various environments |
+| **Idea score** | 40 |
+| **Impl score** | 60 |
 | **Rating** | 48 |
 
 ## Links

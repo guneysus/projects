@@ -19,6 +19,9 @@
 | **Language** | PowerShell |
 | **Type** | DevOps/Docker |
 | **Size** | Small |
+| **Idea** | PowerShell module for system administration automation |
+| **Idea score** | 60 |
+| **Impl score** | 65 |
 | **Rating** | 62 |
 
 ## Links

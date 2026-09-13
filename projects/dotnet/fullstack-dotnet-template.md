@@ -19,6 +19,9 @@
 | **Language** | YAML |
 | **Type** | DevOps/CI |
 | **Size** | Small |
+| **Idea** | Full-stack .NET project template with modern architecture |
+| **Idea score** | 40 |
+| **Impl score** | 75 |
 | **Rating** | 54 |
 
 ## Links

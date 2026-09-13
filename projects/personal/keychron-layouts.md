@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Custom key mappings and layouts for Keychron keyboards |
+| **Idea score** | 60 |
+| **Impl score** | 50 |
 | **Rating** | 56 |
 | **Score** | 10 |
 

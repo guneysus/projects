@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Curated knowledge base for startup CTOs covering technical leadership |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 | **Score** | 20 |
 

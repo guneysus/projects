@@ -19,6 +19,8 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Medium |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 
 ## Links

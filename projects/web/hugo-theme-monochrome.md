@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | DevOps/CI |
 | **Size** | Large |
+| **Idea** | Minimal monochrome Hugo theme for clean content presentation |
+| **Idea score** | 60 |
+| **Impl score** | 85 |
 | **Rating** | 70 |
 | **Score** | 10 |
 

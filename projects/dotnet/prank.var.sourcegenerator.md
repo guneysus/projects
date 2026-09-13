@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Source Generator |
 | **Size** | Small |
+| **Idea** | C# source generator that replaces 'var' with explicit types at compile time |
+| **Idea score** | 75 |
+| **Impl score** | 70 |
 | **Rating** | 73 |
 | **Score** | 50 |
 

@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Personal prompt library for AI coding assistants |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 | **Score** | 0 |
 

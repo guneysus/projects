@@ -19,6 +19,9 @@
 | **Language** | Lua |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Twitter clone built with OpenResty and Lua |
+| **Idea score** | 60 |
+| **Impl score** | 60 |
 | **Rating** | 60 |
 
 ## Links

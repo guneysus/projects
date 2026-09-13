@@ -19,6 +19,9 @@
 | **Language** | JSON |
 | **Type** | Sample/Tutorial |
 | **Size** | Small |
+| **Idea** | Serverless contact form using Netlify Functions and Cloudflare Zero Trust |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 | **Score** | 10 |
 

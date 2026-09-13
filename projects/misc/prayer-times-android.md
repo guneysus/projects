@@ -19,6 +19,9 @@
 | **Language** | XML |
 | **Type** | Mobile (Android) |
 | **Size** | Medium |
+| **Idea** | Minimal Android app showing prayer times with persistent notification |
+| **Idea score** | 60 |
+| **Impl score** | 65 |
 | **Rating** | 62 |
 
 ## Links

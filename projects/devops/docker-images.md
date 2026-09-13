@@ -19,6 +19,9 @@
 | **Language** | Dockerfile |
 | **Type** | DevOps/Docker |
 | **Size** | Medium |
+| **Idea** | Custom Docker image definitions for various services |
+| **Idea score** | 60 |
+| **Impl score** | 75 |
 | **Rating** | 66 |
 
 ## Links

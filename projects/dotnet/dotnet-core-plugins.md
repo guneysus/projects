@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Library/Extension |
 | **Size** | Small |
+| **Idea** | Plugin loading and management library for .NET Core |
+| **Idea score** | 70 |
+| **Impl score** | 65 |
 | **Rating** | 68 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | Python |
 | **Type** | Library (Python) |
 | **Size** | Small |
+| **Idea** | Twitter stream monitoring tool (legacy, user streams deprecated) |
+| **Idea score** | 60 |
+| **Impl score** | 55 |
 | **Rating** | 58 |
 
 ## Links

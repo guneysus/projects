@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (ASP.NET) |
 | **Size** | Medium |
+| **Idea** | ASP.NET Core streaming techniques for large data transfer |
+| **Idea score** | 60 |
+| **Impl score** | 75 |
 | **Rating** | 66 |
 
 ## Links

@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Web App (Node.js) |
 | **Size** | Large |
+| **Idea** | Static analysis rules for SQL Server code quality and best practices |
+| **Idea score** | Multi |
+| **Impl score** | Multi |
 | **Rating** | Multi |
 | **Score** | 20 |
 

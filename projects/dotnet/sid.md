@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | CLI Tool |
 | **Size** | Medium |
+| **Idea** | Simple Declarative Web Apps framework |
+| **Idea score** | 70 |
+| **Impl score** | 90 |
 | **Rating** | 78 |
 
 ## Links

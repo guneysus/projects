@@ -19,6 +19,9 @@
 | **Language** | XML |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | YouTube video downloader and manager in Python |
+| **Idea score** | 50 |
+| **Impl score** | 50 |
 | **Rating** | 50 |
 
 ## Links

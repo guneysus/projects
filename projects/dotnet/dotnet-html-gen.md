@@ -19,6 +19,9 @@
 | **Language** | C# |
 | **Type** | Library (.NET) |
 | **Size** | Small |
+| **Idea** | HTML generation library for .NET with fluent API |
+| **Idea score** | 70 |
+| **Impl score** | 55 |
 | **Rating** | 64 |
 
 ## Links

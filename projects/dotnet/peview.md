@@ -19,6 +19,9 @@
 | **Language** | JavaScript |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Web-based portable executable (PE) file inspector and hex viewer |
+| **Idea score** | 70 |
+| **Impl score** | 55 |
 | **Rating** | 64 |
 
 ## Links

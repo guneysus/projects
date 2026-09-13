@@ -19,6 +19,9 @@
 | **Language** | Markdown |
 | **Type** | Miscellaneous |
 | **Size** | Small |
+| **Idea** | Password management and generation utility |
+| **Idea score** | 50 |
+| **Impl score** | 50 |
 | **Rating** | 50 |
 
 ## Links
