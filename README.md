@@ -11,8 +11,8 @@
 
 ## 📊 Summary
 
-- **Total projects:** 161
-- **GitHub projects:** 144
+- **Total projects:** 162
+- **GitHub projects:** 145
 - **GitLab projects:** 17
 - **Forks:** 61
 - **Duplicates (in multiple archives):** 1
@@ -90,45 +90,46 @@ Some projects exist in **more than one** archive monorepo. They may have differe
 | 59 | [git-ctf](projects/git-ctf.md) | 🐙 GitHub | 🔓 | ✅ | 2026-05-28 | Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴 |
 | 60 | [git-presentation](projects/git-presentation.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | This repo (will) contain the presentation "Git & Github Guide" |
 | 61 | [gitops-config](projects/gitops-config.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | k8s manifests files for continious deployment |
-| 62 | [homelab-caddy-config](projects/homelab-caddy-config.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 63 | [humanizer-tr](projects/humanizer-tr.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 64 | [interview-downtime-alerter-service](projects/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
-| 65 | [interview-project-mars-rover-tdd](projects/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 66 | [kvb-iot-demo](projects/kvb-iot-demo.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
-| 67 | [latex-docs](projects/latex-docs.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 68 | [mssql-tools](projects/mssql-tools.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 69 | [musahid](projects/musahid.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
-| 70 | [openresty-gateway-waf](projects/openresty-gateway-waf.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 71 | [openresty-twitter-clone](projects/openresty-twitter-clone.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 72 | [parsers](projects/parsers.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 73 | [peview](projects/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
-| 74 | [prayer-times-android](projects/prayer-times-android.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 75 | [prayer-times-api](projects/prayer-times-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 76 | [predicate-builder](projects/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 77 | [project-incubation](projects/project-incubation.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 78 | [prompt-library](projects/prompt-library.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | LLM Prompts |
-| 79 | [pw](projects/pw.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 80 | [python-sqlite-json-explorer](projects/python-sqlite-json-explorer.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
-| 81 | [pytotube](projects/pytotube.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | Simple 1D Thermal problem solver |
-| 82 | [sandbox-net](projects/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 83 | [sensorfusion-gps-process](projects/sensorfusion-gps-process.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
-| 84 | [sid](projects/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
-| 85 | [side-projects](projects/side-projects.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 86 | [sitemap-parser](projects/sitemap-parser.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 87 | [skaf](projects/skaf.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 88 | [snow-flakes-js](projects/snow-flakes-js.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 89 | [speedcrunch.net](projects/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
-| 90 | [sql-injection](projects/sql-injection.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 91 | [surmene](projects/surmene.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 92 | [templates](projects/templates.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 93 | [testere](projects/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 94 | [torque-collector](projects/torque-collector.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
-| 95 | [underscore-net-docs](projects/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 96 | [underscore.net](projects/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
-| 97 | [unicode_tr](projects/unicode_tr.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 98 | [web-layouts](projects/web-layouts.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 99 | [wox-prayer-times-plugin](projects/wox-prayer-times-plugin.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | wox prayer times plugin |
-| 100 | [wxdatcom-2](projects/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 62 | [hg](projects/hg.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-31 | HG: DSL for Html Generation |
+| 63 | [homelab-caddy-config](projects/homelab-caddy-config.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 64 | [humanizer-tr](projects/humanizer-tr.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 65 | [interview-downtime-alerter-service](projects/interview-downtime-alerter-service.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Downtime Alert Service with ASP.Net Core |
+| 66 | [interview-project-mars-rover-tdd](projects/interview-project-mars-rover-tdd.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 67 | [kvb-iot-demo](projects/kvb-iot-demo.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
+| 68 | [latex-docs](projects/latex-docs.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 69 | [mssql-tools](projects/mssql-tools.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 70 | [musahid](projects/musahid.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
+| 71 | [openresty-gateway-waf](projects/openresty-gateway-waf.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 72 | [openresty-twitter-clone](projects/openresty-twitter-clone.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 73 | [parsers](projects/parsers.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 74 | [peview](projects/peview.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Web based HEX viewer. The goal was developing a Web based PE Viewer. |
+| 75 | [prayer-times-android](projects/prayer-times-android.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 76 | [prayer-times-api](projects/prayer-times-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 77 | [predicate-builder](projects/predicate-builder.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 78 | [project-incubation](projects/project-incubation.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 79 | [prompt-library](projects/prompt-library.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 | LLM Prompts |
+| 80 | [pw](projects/pw.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 81 | [python-sqlite-json-explorer](projects/python-sqlite-json-explorer.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
+| 82 | [pytotube](projects/pytotube.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 | Simple 1D Thermal problem solver |
+| 83 | [sandbox-net](projects/sandbox-net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 84 | [sensorfusion-gps-process](projects/sensorfusion-gps-process.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
+| 85 | [sid](projects/sid.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple Declarative Web Apps |
+| 86 | [side-projects](projects/side-projects.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 87 | [sitemap-parser](projects/sitemap-parser.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 88 | [skaf](projects/skaf.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 89 | [snow-flakes-js](projects/snow-flakes-js.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 90 | [speedcrunch.net](projects/speedcrunch.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Parser based expression evaluator |
+| 91 | [sql-injection](projects/sql-injection.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 92 | [surmene](projects/surmene.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 93 | [templates](projects/templates.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 94 | [testere](projects/testere.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 95 | [torque-collector](projects/torque-collector.md) | 🦊 GitLab | 🔒 | ✅ | 2026-08-02 |  |
+| 96 | [underscore-net-docs](projects/underscore-net-docs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 97 | [underscore.net](projects/underscore.net.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
+| 98 | [unicode_tr](projects/unicode_tr.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 99 | [web-layouts](projects/web-layouts.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 100 | [wox-prayer-times-plugin](projects/wox-prayer-times-plugin.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 | wox prayer times plugin |
+| 101 | [wxdatcom-2](projects/wxdatcom-2.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 
 ## 🍴 Forks
 

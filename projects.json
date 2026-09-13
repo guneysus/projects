@@ -965,6 +965,18 @@
       "archive_path": "repos/github.com/guneysus-archieve/git-presentation"
     },
     {
+      "name": "hg",
+      "description": "HG: DSL for Html Generation",
+      "visibility": "public",
+      "fork": false,
+      "last_activity": "2026-07-31",
+      "archived": false,
+      "source": "github",
+      "owner": "guneysus",
+      "archive_repo": "github-guneysus-archive",
+      "archive_path": "repos/github.com/guneysus-archieve/hg"
+    },
+    {
       "name": "har-spec",
       "description": "The HTTP Archive Spec",
       "visibility": "public",

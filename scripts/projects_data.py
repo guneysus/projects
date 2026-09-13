@@ -166,6 +166,7 @@ GITHUB_ARCHIVE_PROJECTS = [
     dict(name="DotNextMoscow2019", description="", visibility="private", fork=True, last_activity="2024-10-14", archived=True, source="github", owner="guneysus-archieve"),
     dict(name="git-ctf", description="Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴", visibility="public", fork=False, last_activity="2026-05-28", archived=True, source="github", owner="guneysus-archieve"),
     dict(name="git-presentation", description='This repo (will) contain the presentation "Git & Github Guide"', visibility="private", fork=False, last_activity="2024-10-14", archived=True, source="github", owner="guneysus-archieve"),
+    dict(name="hg", description="HG: DSL for Html Generation", visibility="public", fork=False, last_activity="2026-07-31", archived=False, source="github", owner="guneysus"),
     dict(name="har-spec", description="The HTTP Archive Spec", visibility="public", fork=True, last_activity="2023-01-28", archived=True, source="github", owner="guneysus-archieve"),
     dict(name="heceleme", description="", visibility="private", fork=True, last_activity="2024-10-14", archived=True, source="github", owner="guneysus-archieve"),
     dict(name="Heijden.Dns", description="", visibility="private", fork=True, last_activity="2024-10-14", archived=True, source="github", owner="guneysus-archieve"),
