@@ -1,4 +1,4 @@
-# learn-go
+# snake
 
 > *No description available.*
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `learn-go` |
+| **Name** | `snake` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
@@ -19,10 +19,10 @@
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus/learn-go](https://github.com/guneysus/learn-go)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learn-go](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learn-go)
+- **Original repository:** [https://github.com/guneysus/snake](https://github.com/guneysus/snake)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snake](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snake)
 - **Archive monorepo:** Archive
-- **Archive path:** `repos/github.com/guneysus/learn-go`
+- **Archive path:** `repos/github.com/guneysus/snake`
 
 ## Archive Origins
 

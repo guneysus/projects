@@ -1,33 +1,34 @@
 # dotnet-mock-server
 
-> declarative mock server with fake data generation capabilities for .NET Core 2.1+
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-mock-server` |
-| **Description** | declarative mock server with fake data generation capabilities for .NET Core 2.1+ |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-10-14 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/dotnet-mock-server](https://github.com/guneysus-archieve/dotnet-mock-server)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-mock-server](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-mock-server)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/dotnet-mock-server`
+- **Original repository:** [https://github.com/guneysus/dotnet-mock-server](https://github.com/guneysus/dotnet-mock-server)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-mock-server](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotnet-mock-server)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/dotnet-mock-server`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

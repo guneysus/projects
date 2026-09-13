@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -12,7 +12,7 @@
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-08-02 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Gitlab |
 | **Original owner** | `guneysu.dev` |
@@ -20,13 +20,15 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu.dev/cloudflare-worker-get-user](https://gitlab.com/guneysu.dev/cloudflare-worker-get-user)
-- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu.dev/cloudflare-worker-get-user](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu.dev/cloudflare-worker-get-user)
-- **Archive monorepo:** GitLab Archive
-- **Archive path:** `repos/guneysu.dev/cloudflare-worker-get-user`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/cloudflare-worker-get-user](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu.dev/cloudflare-worker-get-user)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu.dev/cloudflare-worker-get-user`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/gitlab-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

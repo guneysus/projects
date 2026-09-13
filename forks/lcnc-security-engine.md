@@ -2,7 +2,7 @@
 
 > Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review.
 
-⚠️ **Duplicate copy** — the canonical source is `lcnc-security-engine` in the Archive.
+
 
 ## Overview
 

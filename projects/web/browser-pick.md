@@ -1,33 +1,34 @@
 # browser-pick
 
-> Android like selecting application for specific URLs, protocols etc. [WIP]
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `browser-pick` |
-| **Description** | Android like selecting application for specific URLs, protocols etc. [WIP] |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-10-14 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/browser-pick](https://github.com/guneysus-archieve/browser-pick)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/browser-pick](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/browser-pick)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/browser-pick`
+- **Original repository:** [https://github.com/guneysus/browser-pick](https://github.com/guneysus/browser-pick)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/browser-pick](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/browser-pick)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/browser-pick`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

@@ -1,33 +1,34 @@
 # aspnet-core-streaming
 
-> ASP.Net Streaming to the Client
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `aspnet-core-streaming` |
-| **Description** | ASP.Net Streaming to the Client |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-10-14 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/aspnet-core-streaming](https://github.com/guneysus-archieve/aspnet-core-streaming)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/aspnet-core-streaming](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/aspnet-core-streaming)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/aspnet-core-streaming`
+- **Original repository:** [https://github.com/guneysus/aspnet-core-streaming](https://github.com/guneysus/aspnet-core-streaming)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnet-core-streaming](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnet-core-streaming)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/aspnet-core-streaming`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

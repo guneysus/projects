@@ -1,33 +1,34 @@
 # chess.js
 
-> A brand new OOP Chess modeling with ES6
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `chess.js` |
-| **Description** | A brand new OOP Chess modeling with ES6 |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2024-10-14 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/chess.js](https://github.com/guneysus-archieve/chess.js)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/chess.js](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/chess.js)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/chess.js`
+- **Original repository:** [https://github.com/guneysus/chess.js](https://github.com/guneysus/chess.js)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/chess.js](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/chess.js)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/chess.js`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

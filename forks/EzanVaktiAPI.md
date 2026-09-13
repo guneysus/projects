@@ -2,7 +2,7 @@
 
 > Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri.
 
-⚠️ **Duplicate copy** — the canonical source is `EzanVaktiAPI` in the Archive.
+
 
 ## Overview
 

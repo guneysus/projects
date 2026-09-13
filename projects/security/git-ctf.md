@@ -1,33 +1,34 @@
 # git-ctf
 
-> Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `git-ctf` |
-| **Description** | Hey! Git gurus, capture the flag from this repository 🐱‍👤 🏴 |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-05-28 |
+| **Last activity** |  |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
-| **Original owner** | `guneysus-archieve` |
+| **Original owner** | `guneysus` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus-archieve/git-ctf](https://github.com/guneysus-archieve/git-ctf)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/git-ctf](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/git-ctf)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/git-ctf`
+- **Original repository:** [https://github.com/guneysus/git-ctf](https://github.com/guneysus/git-ctf)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/git-ctf](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/git-ctf)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/git-ctf`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

@@ -255,13 +255,17 @@ def build_readme(projects, duplicates):
 def discover_archive_projects():
     """Discover projects in the canonical archive repo (source of truth).
 
-    Reads the local clone's repos/ structure and merges with the curated
-    ARCHIVE_PROJECTS list. Curated entries (with descriptions) take precedence;
-    any additional projects found on disk are added with placeholder metadata.
+    Reads the repo's repos/ structure from the configured branch (via
+    `git ls-tree`) and merges with the curated ARCHIVE_PROJECTS list.
+    Curated entries (with descriptions) take precedence; any additional
+    projects found in the branch are added with placeholder metadata.
     """
+    import subprocess
+
     curated = {p["name"]: dict(p) for p in ARCHIVE_PROJECTS}
     arch = ARCHIVES[CANONICAL_ARCHIVE]
     repo_root = arch["local_path"]
+    branch = arch["branch"]
     discovered = dict(curated)
 
     # Map archive subfolder -> (source, owner)
@@ -271,13 +275,16 @@ def discover_archive_projects():
         "repos/gitlab.com/guneysu.dev": ("gitlab", "guneysu.dev"),
     }
     for sub, (source, owner) in sections.items():
-        full = os.path.join(repo_root, sub)
-        if not os.path.isdir(full):
+        try:
+            out = subprocess.run(
+                ["git", "-C", repo_root, "ls-tree", "-d", "--name-only", f"origin/{branch}", sub + "/"],
+                capture_output=True, text=True, check=True,
+            )
+        except (subprocess.CalledProcessError, FileNotFoundError):
             continue
-        for name in os.listdir(full):
-            if not os.path.isdir(os.path.join(full, name)):
-                continue
-            if name in discovered:
+        for line in out.stdout.splitlines():
+            name = line.rstrip("/").split("/")[-1]
+            if not name or name in discovered:
                 continue
             discovered[name] = {
                 "name": name,
