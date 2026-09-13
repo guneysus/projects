@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/docs](https://github.com/guneysus/docs)
-- **Current location:** [https://gitlab.com/guneysu/archive/tree/main/repos/github.com/guneysus/docs](https://gitlab.com/guneysu/archive/tree/main/repos/github.com/guneysus/docs)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/docs](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/docs)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/docs`
 
@@ -28,6 +28,7 @@
 
 - `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

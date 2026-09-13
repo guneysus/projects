@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/role](https://gitlab.com/guneysu/role)
-- **Current location:** [https://gitlab.com/guneysu/archive/tree/main/repos/gitlab.com/guneysu/role](https://gitlab.com/guneysu/archive/tree/main/repos/gitlab.com/guneysu/role)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/role](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/role)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/role`
 
@@ -28,6 +28,7 @@
 
 - `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

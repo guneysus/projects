@@ -6,7 +6,7 @@
 
 | Archive | Local path | Origins |
 | --- | --- | --- |
-| **Archive** | `X:\git\gitlab.com\guneysu\archive` | `git@github.com:guneysus/archive.git`<br>`git@gitlab.com:guneysu/archive.git` |
+| **Archive** | `X:\git\github.com\guneysus\github-archive` | `git@github.com:guneysus/archive.git`<br>`git@gitlab.com:guneysu/archive.git`<br>`gitea@192.168.1.19:guneysu.dev/github-archive.git` |
 | **GitLab Archive** | `X:\git\gitlab.com\guneysu\gitlab-archive` | `git@gitlab.com:guneysu/gitlab-archive.git` |
 | **GitHub Archive** | `X:\git\gitlab.com\guneysu\github-guneysus-archive` | `git@gitlab.com:guneysu/github-guneysus-archive.git`<br>`gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git` |
 

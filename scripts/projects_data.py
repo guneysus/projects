@@ -32,12 +32,13 @@ Each entry:
 ARCHIVES = {
     "archive": {
         "label": "Archive",
-        "local_path": r"X:\git\gitlab.com\guneysu\archive",
-        "web_url": "https://gitlab.com/guneysu/archive",
-        "branch": "main",
+        "local_path": r"X:\git\github.com\guneysus\github-archive",
+        "web_url": "https://github.com/guneysus/archive",
+        "branch": "develop",
         "origins": [
             "git@github.com:guneysus/archive.git",
             "git@gitlab.com:guneysu/archive.git",
+            "gitea@192.168.1.19:guneysu.dev/github-archive.git",
         ],
     },
     "gitlab-archive": {

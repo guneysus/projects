@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/grafana](https://gitlab.com/guneysu/grafana)
-- **Current location:** [https://gitlab.com/guneysu/archive/tree/main/repos/gitlab.com/guneysu/grafana](https://gitlab.com/guneysu/archive/tree/main/repos/gitlab.com/guneysu/grafana)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/grafana](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/grafana)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/grafana`
 
@@ -28,6 +28,7 @@
 
 - `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 
