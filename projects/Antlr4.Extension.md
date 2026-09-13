@@ -11,7 +11,7 @@
 | **Name** | `Antlr4.Extension` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
-| **Fork** | No |
+| **Fork** | Yes |
 | **Last activity** | 2024-10-14 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |

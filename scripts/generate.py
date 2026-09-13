@@ -157,14 +157,14 @@ def build_readme(projects, duplicates):
     lines += [
         "## 🗂️ Projects",
         "",
-        "| Project | Source | Visibility | Archived | Last activity | Description |",
-        "| --- | :-: | :-: | :-: | :-: | --- |",
+        "| # | Project | Source | Visibility | Archived | Last activity | Description |",
+        "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
     ]
-    for p in sorted(originals + forks, key=lambda x: x["name"].lower()):
+    for i, p in enumerate(sorted(originals + forks, key=lambda x: x["name"].lower()), start=1):
         dup = " ⚠️" if p["name"] in duplicates else ""
         src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
-            f"| [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
+            f"| {i} | [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
             f"{src} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
@@ -178,14 +178,14 @@ def build_readme(projects, duplicates):
         "",
         "> Forked repositories — kept for reference, not original projects.",
         "",
-        "| Project | Source | Visibility | Archived | Last activity | Description |",
-        "| --- | :-: | :-: | :-: | :-: | --- |",
+        "| # | Project | Source | Visibility | Archived | Last activity | Description |",
+        "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
     ]
-    for p in sorted(forks, key=lambda x: x["name"].lower()):
+    for i, p in enumerate(sorted(forks, key=lambda x: x["name"].lower()), start=1):
         dup = " ⚠️" if p["name"] in duplicates else ""
         src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
-            f"| [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
+            f"| {i} | [{p['name']}](projects/{slugify(p['name'])}.md){dup} | "
             f"{src} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
