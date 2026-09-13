@@ -1,6 +1,6 @@
 # testere
 
-> *No description available.*
+> - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `testere` |
-| **Description** | *No description available.* |
+| **Description** | - docker run -it -v /home/ahmed/workspace/repos/github.com/guneysus/testere/images:/usr/share/nginx/html/images -p 8001:80 guneysu/testere:latest |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

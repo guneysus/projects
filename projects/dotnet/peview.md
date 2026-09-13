@@ -1,6 +1,6 @@
 # peview
 
-> *No description available.*
+> Web based hex viewer, WIP Portable Executable Inspector.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `peview` |
-| **Description** | *No description available.* |
+| **Description** | Web based hex viewer, WIP Portable Executable Inspector. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # snake
 
-> *No description available.*
+> Ekin Ceylan Tarafindan yazilan oyun
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `snake` |
-| **Description** | *No description available.* |
+| **Description** | Ekin Ceylan Tarafindan yazilan oyun |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

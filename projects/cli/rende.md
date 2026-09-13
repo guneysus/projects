@@ -1,6 +1,6 @@
 # rende
 
-> *No description available.*
+> scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `rende` |
-| **Description** | *No description available.* |
+| **Description** | scoop install https://raw.githubusercontent.com/guneysus/rende/master/rende.scoop.json |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-01-09 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

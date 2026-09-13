@@ -1,6 +1,6 @@
 # csharp-connected-disconnected
 
-> *No description available.*
+> Connected vs disconnected data access demo
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp-connected-disconnected` |
-| **Description** | *No description available.* |
+| **Description** | Connected vs disconnected data access demo |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

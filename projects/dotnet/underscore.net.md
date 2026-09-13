@@ -1,6 +1,6 @@
 # underscore.net
 
-> *No description available.*
+> Simple, Handy Toolkits for .NET Core projects with high test coverage.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `underscore.net` |
-| **Description** | *No description available.* |
+| **Description** | Simple, Handy Toolkits for .NET Core projects with high test coverage. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

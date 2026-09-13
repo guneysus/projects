@@ -1,6 +1,6 @@
 # SqlServer.Rules
 
-> *No description available.*
+> A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `SqlServer.Rules` |
-| **Description** | *No description available.* |
+| **Description** | A library of SQL best practices implemented as more than 120 database code analysis rules(https://erikej.github.io/dacfx/codeanalysis/sqlserver/2024/04/02/dacfx-codeanalysis.html) checked at build. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-04-02 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

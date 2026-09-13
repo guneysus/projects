@@ -1,6 +1,6 @@
 # wxdatcom-2
 
-> *No description available.*
+> Very slow import
 
 
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wxdatcom-2` |
-| **Description** | *No description available.* |
+| **Description** | Very slow import |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2024-10-14 |

@@ -1,6 +1,6 @@
 # guneysus
 
-> *No description available.*
+> - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `guneysus` |
-| **Description** | *No description available.* |
+| **Description** | - C# İle Fonksiyonel Programlama - Currying ve Kısmî Fonksiyonlar(https://blog.guneysu.xyz/post/functional-programming-with-csharp-currying-and-partial-functions/) Sat, 20 Feb 2021 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2023-04-05 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

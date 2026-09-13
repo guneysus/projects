@@ -1,6 +1,6 @@
 # openresty-gateway-waf
 
-> *No description available.*
+> required libraries
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `openresty-gateway-waf` |
-| **Description** | *No description available.* |
+| **Description** | required libraries |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

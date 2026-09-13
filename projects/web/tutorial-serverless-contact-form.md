@@ -1,6 +1,6 @@
 # tutorial-serverless-contact-form
 
-> *No description available.*
+> Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `tutorial-serverless-contact-form` |
-| **Description** | *No description available.* |
+| **Description** | Developing a Serverless Contact Form via Netlify Functions and Cloudflare Zero Trust |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-10-10 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

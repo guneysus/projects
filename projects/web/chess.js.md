@@ -1,6 +1,6 @@
 # chess.js
 
-> *No description available.*
+> JavaScript chess engine
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `chess.js` |
-| **Description** | *No description available.* |
+| **Description** | JavaScript chess engine |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

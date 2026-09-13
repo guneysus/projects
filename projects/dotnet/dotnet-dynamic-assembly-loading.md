@@ -1,6 +1,6 @@
 # dotnet-dynamic-assembly-loading
 
-> *No description available.*
+> Dynamic assembly loading
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-dynamic-assembly-loading` |
-| **Description** | *No description available.* |
+| **Description** | Dynamic assembly loading |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

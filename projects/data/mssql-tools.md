@@ -1,6 +1,6 @@
 # mssql-tools
 
-> *No description available.*
+> Simple Toolkits
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `mssql-tools` |
-| **Description** | *No description available.* |
+| **Description** | Simple Toolkits |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

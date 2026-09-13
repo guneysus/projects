@@ -1,6 +1,6 @@
 # pytotube
 
-> *No description available.*
+> YouTube downloader
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `pytotube` |
-| **Description** | *No description available.* |
+| **Description** | YouTube downloader |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

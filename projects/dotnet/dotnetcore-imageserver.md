@@ -1,6 +1,6 @@
 # dotnetcore-imageserver
 
-> *No description available.*
+> Simple Image for uploading for serving resized and cropped images.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnetcore-imageserver` |
-| **Description** | *No description available.* |
+| **Description** | Simple Image for uploading for serving resized and cropped images. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

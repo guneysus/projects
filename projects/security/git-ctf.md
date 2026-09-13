@@ -1,6 +1,6 @@
 # git-ctf
 
-> *No description available.*
+> Empty repository — no files to archive.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-ctf` |
-| **Description** | *No description available.* |
+| **Description** | Empty repository — no files to archive. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # csharp.generic.db.view
 
-> *No description available.*
+> Generic database viewer
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.generic.db.view` |
-| **Description** | *No description available.* |
+| **Description** | Generic database viewer |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

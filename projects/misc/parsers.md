@@ -1,6 +1,6 @@
 # parsers
 
-> *No description available.*
+> To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `parsers` |
-| **Description** | *No description available.* |
+| **Description** | To make it easy for you to get started with GitLab, here's a list of recommended next steps. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

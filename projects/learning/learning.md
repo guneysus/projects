@@ -1,6 +1,6 @@
 # learning
 
-> *No description available.*
+> Learning projects
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `learning` |
-| **Description** | *No description available.* |
+| **Description** | Learning projects |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2024-12-06 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

@@ -1,6 +1,6 @@
 # csharp.mvc.blog.hw
 
-> *No description available.*
+> MVC blog homework
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.mvc.blog.hw` |
-| **Description** | *No description available.* |
+| **Description** | MVC blog homework |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

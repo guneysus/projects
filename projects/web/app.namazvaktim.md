@@ -1,6 +1,6 @@
 # app.namazvaktim
 
-> *No description available.*
+> > Prayer Times
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `app.namazvaktim` |
-| **Description** | *No description available.* |
+| **Description** | > Prayer Times |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

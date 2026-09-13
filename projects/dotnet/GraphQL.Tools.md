@@ -1,6 +1,6 @@
 # GraphQL.Tools
 
-> *No description available.*
+> !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `GraphQL.Tools` |
-| **Description** | *No description available.* |
+| **Description** | !PRs Welcome(https://img.shields.io/badge/PRs-welcome-brightgreen.svg)(http://makeapullrequest.com) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

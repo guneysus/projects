@@ -1,6 +1,6 @@
 # sid
 
-> *No description available.*
+> Simple Declarative Web Apps
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sid` |
-| **Description** | *No description available.* |
+| **Description** | Simple Declarative Web Apps |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # algoritms
 
-> *No description available.*
+> Algorithm implementations and data structure exercises
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `algoritms` |
-| **Description** | *No description available.* |
+| **Description** | Algorithm implementations and data structure exercises |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

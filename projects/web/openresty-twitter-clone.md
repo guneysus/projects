@@ -1,6 +1,6 @@
 # openresty-twitter-clone
 
-> *No description available.*
+> Learning OpenResty and Lua
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `openresty-twitter-clone` |
-| **Description** | *No description available.* |
+| **Description** | Learning OpenResty and Lua |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

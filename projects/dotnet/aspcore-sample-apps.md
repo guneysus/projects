@@ -1,6 +1,6 @@
 # aspcore-sample-apps
 
-> *No description available.*
+> Sample ASP.NET Core applications
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aspcore-sample-apps` |
-| **Description** | *No description available.* |
+| **Description** | Sample ASP.NET Core applications |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

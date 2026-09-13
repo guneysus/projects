@@ -1,6 +1,6 @@
 # git-jump
 
-> *No description available.*
+> Jump between git branches using your keyboard up/down arrow keys.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-jump` |
-| **Description** | *No description available.* |
+| **Description** | Jump between git branches using your keyboard up/down arrow keys. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

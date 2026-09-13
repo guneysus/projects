@@ -1,6 +1,6 @@
 # speedcrunch.net
 
-> *No description available.*
+> SpeedCrunch port
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `speedcrunch.net` |
-| **Description** | *No description available.* |
+| **Description** | SpeedCrunch port |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

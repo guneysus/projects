@@ -1,6 +1,6 @@
 # swe-route-optimization-project
 
-> *No description available.*
+> A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `swe-route-optimization-project` |
-| **Description** | *No description available.* |
+| **Description** | A Python-based route optimization system using Google OR-Tools to solve Vehicle Routing Problems (VRP), Traveling Salesman Problems (TSP), and related logistics optimization challenges. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-18 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

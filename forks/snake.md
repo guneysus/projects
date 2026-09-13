@@ -1,6 +1,6 @@
 # snake
 
-> *No description available.*
+> Ekin Ceylan Tarafindan yazilan oyun
 
 ⚠️ **Duplicate copy** — the canonical source is `snake` in the Archive.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `snake` |
-| **Description** | *No description available.* |
+| **Description** | Ekin Ceylan Tarafindan yazilan oyun |
 | **Visibility** | 🔒 Private |
 | **Fork** | Yes |
 | **Last activity** | 2024-10-14 |

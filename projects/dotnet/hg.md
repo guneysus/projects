@@ -1,6 +1,6 @@
 # hg
 
-> *No description available.*
+> HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `hg` |
-| **Description** | *No description available.* |
+| **Description** | HG, abuses operator overloads in C# to implement DSL (Domain Specific Language) for HTML generation. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

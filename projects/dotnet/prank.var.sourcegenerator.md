@@ -1,6 +1,6 @@
 # prank.var.sourcegenerator
 
-> *No description available.*
+> The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prank.var.sourcegenerator` |
-| **Description** | *No description available.* |
+| **Description** | The problem with var in C#(https://www.youtube.com/shorts/q5Ltkv-rc_Q) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

@@ -1,6 +1,6 @@
 # acme-welcome-dotnet
 
-> *No description available.*
+> command log
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `acme-welcome-dotnet` |
-| **Description** | *No description available.* |
+| **Description** | command log |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

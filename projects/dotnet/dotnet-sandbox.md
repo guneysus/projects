@@ -1,6 +1,6 @@
 # dotnet-sandbox
 
-> *No description available.*
+> .NET code sandbox
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-sandbox` |
-| **Description** | *No description available.* |
+| **Description** | .NET code sandbox |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

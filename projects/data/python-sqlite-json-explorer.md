@@ -1,6 +1,6 @@
 # python-sqlite-json-explorer
 
-> *No description available.*
+> SQLite JSON explorer
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `python-sqlite-json-explorer` |
-| **Description** | *No description available.* |
+| **Description** | SQLite JSON explorer |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

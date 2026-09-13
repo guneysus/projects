@@ -1,6 +1,6 @@
 # crem
 
-> *No description available.*
+> Crud Made Easy
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `crem` |
-| **Description** | *No description available.* |
+| **Description** | Crud Made Easy |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

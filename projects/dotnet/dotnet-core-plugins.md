@@ -1,6 +1,6 @@
 # dotnet-core-plugins
 
-> *No description available.*
+> .NET Core plugin system
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-core-plugins` |
-| **Description** | *No description available.* |
+| **Description** | .NET Core plugin system |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

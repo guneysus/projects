@@ -1,6 +1,6 @@
 # backstage
 
-> *No description available.*
+> Backstage Personal Dev Portal
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `backstage` |
-| **Description** | *No description available.* |
+| **Description** | Backstage Personal Dev Portal |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

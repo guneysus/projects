@@ -1,6 +1,6 @@
 # humanizer-tr
 
-> *No description available.*
+> humanizer-tr
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `humanizer-tr` |
-| **Description** | *No description available.* |
+| **Description** | humanizer-tr |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

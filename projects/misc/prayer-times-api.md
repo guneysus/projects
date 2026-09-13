@@ -1,6 +1,6 @@
 # prayer-times-api
 
-> *No description available.*
+> TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prayer-times-api` |
-| **Description** | *No description available.* |
+| **Description** | TravisCI daily scheduled task fetches from WCF source and publishes to AWS S3 static web site. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # latex-docs
 
-> *No description available.*
+> - Install devenv
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `latex-docs` |
-| **Description** | *No description available.* |
+| **Description** | - Install devenv |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

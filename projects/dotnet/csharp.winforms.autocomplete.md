@@ -1,6 +1,6 @@
 # csharp.winforms.autocomplete
 
-> *No description available.*
+> Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.winforms.autocomplete` |
-| **Description** | *No description available.* |
+| **Description** | Autocomplete Textbox, Filter with LINQ queries, Entity Framework for DB Backend |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

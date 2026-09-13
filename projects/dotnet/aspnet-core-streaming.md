@@ -1,6 +1,6 @@
 # aspnet-core-streaming
 
-> *No description available.*
+> ASP.Net Streaming to the Client
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `aspnet-core-streaming` |
-| **Description** | *No description available.* |
+| **Description** | ASP.Net Streaming to the Client |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

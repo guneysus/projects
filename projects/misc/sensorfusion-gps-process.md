@@ -1,6 +1,6 @@
 # sensorfusion-gps-process
 
-> *No description available.*
+> GPS sensor fusion
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sensorfusion-gps-process` |
-| **Description** | *No description available.* |
+| **Description** | GPS sensor fusion |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

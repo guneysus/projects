@@ -1,6 +1,6 @@
 # pw
 
-> *No description available.*
+> Password utility
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `pw` |
-| **Description** | *No description available.* |
+| **Description** | Password utility |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

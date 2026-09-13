@@ -1,6 +1,6 @@
 # llm
 
-> *No description available.*
+> Some adhoc LLM experiments.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `llm` |
-| **Description** | *No description available.* |
+| **Description** | Some adhoc LLM experiments. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

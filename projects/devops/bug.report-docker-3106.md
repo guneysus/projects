@@ -1,6 +1,6 @@
 # bug.report-docker-3106
 
-> *No description available.*
+> Running docker-compose with tty: true
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `bug.report-docker-3106` |
-| **Description** | *No description available.* |
+| **Description** | Running docker-compose with tty: true |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

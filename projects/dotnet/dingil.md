@@ -1,6 +1,6 @@
 # dingil
 
-> *No description available.*
+> > Generates simple CRUD APIs whose models are defined with YAMLs
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dingil` |
-| **Description** | *No description available.* |
+| **Description** | > Generates simple CRUD APIs whose models are defined with YAMLs |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

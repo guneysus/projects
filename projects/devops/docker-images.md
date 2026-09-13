@@ -1,6 +1,6 @@
 # docker-images
 
-> *No description available.*
+> Custom Docker images
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `docker-images` |
-| **Description** | *No description available.* |
+| **Description** | Custom Docker images |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

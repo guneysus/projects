@@ -1,6 +1,6 @@
 # templates
 
-> *No description available.*
+> Default Variables
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `templates` |
-| **Description** | *No description available.* |
+| **Description** | Default Variables |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

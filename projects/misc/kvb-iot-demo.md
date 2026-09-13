@@ -1,6 +1,6 @@
 # kvb-iot-demo
 
-> *No description available.*
+> KVB IoT demo
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `kvb-iot-demo` |
-| **Description** | *No description available.* |
+| **Description** | KVB IoT demo |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

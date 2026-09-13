@@ -1,6 +1,6 @@
 # web-layouts
 
-> *No description available.*
+> - Bookmarks Template(./bookmarks/index.html)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `web-layouts` |
-| **Description** | *No description available.* |
+| **Description** | - Bookmarks Template(./bookmarks/index.html) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

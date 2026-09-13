@@ -1,6 +1,6 @@
 # firebase-studio-apex-cloud-sample
 
-> *No description available.*
+> This is a NextJS starter in Firebase Studio.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `firebase-studio-apex-cloud-sample` |
-| **Description** | *No description available.* |
+| **Description** | This is a NextJS starter in Firebase Studio. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-09-23 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

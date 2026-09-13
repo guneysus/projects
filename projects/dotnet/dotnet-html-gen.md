@@ -1,6 +1,6 @@
 # dotnet-html-gen
 
-> *No description available.*
+> var doc = document(
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-html-gen` |
-| **Description** | *No description available.* |
+| **Description** | var doc = document( |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

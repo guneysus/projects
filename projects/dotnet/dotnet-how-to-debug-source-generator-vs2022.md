@@ -1,6 +1,6 @@
 # dotnet-how-to-debug-source-generator-vs2022
 
-> *No description available.*
+> Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-how-to-debug-source-generator-vs2022` |
-| **Description** | *No description available.* |
+| **Description** | Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

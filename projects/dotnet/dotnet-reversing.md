@@ -1,6 +1,6 @@
 # dotnet-reversing
 
-> *No description available.*
+> .NET reverse engineering
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-reversing` |
-| **Description** | *No description available.* |
+| **Description** | .NET reverse engineering |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

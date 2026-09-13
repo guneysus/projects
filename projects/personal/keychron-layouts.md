@@ -1,6 +1,6 @@
 # keychron-layouts
 
-> *No description available.*
+> Keychron layouts
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `keychron-layouts` |
-| **Description** | *No description available.* |
+| **Description** | Keychron layouts |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-10-08 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

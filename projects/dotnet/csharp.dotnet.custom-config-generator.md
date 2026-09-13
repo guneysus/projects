@@ -1,6 +1,6 @@
 # csharp.dotnet.custom-config-generator
 
-> *No description available.*
+> Custom config generator for .NET
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.dotnet.custom-config-generator` |
-| **Description** | *No description available.* |
+| **Description** | Custom config generator for .NET |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

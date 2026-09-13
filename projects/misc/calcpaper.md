@@ -1,6 +1,6 @@
 # calcpaper
 
-> *No description available.*
+> Calculator with paper tape
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `calcpaper` |
-| **Description** | *No description available.* |
+| **Description** | Calculator with paper tape |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

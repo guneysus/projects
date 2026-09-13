@@ -1,6 +1,6 @@
 # nqrgen
 
-> *No description available.*
+> scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `nqrgen` |
-| **Description** | *No description available.* |
+| **Description** | scoop install https://raw.githubusercontent.com/guneysus/nqrgen/master/nqrgen.json |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-01-09 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

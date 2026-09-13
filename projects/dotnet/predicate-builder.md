@@ -1,6 +1,6 @@
 # predicate-builder
 
-> *No description available.*
+> Simple predicate string parser
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `predicate-builder` |
-| **Description** | *No description available.* |
+| **Description** | Simple predicate string parser |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

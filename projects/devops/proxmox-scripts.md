@@ -1,6 +1,6 @@
 # proxmox-scripts
 
-> *No description available.*
+> bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)"
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `proxmox-scripts` |
-| **Description** | *No description available.* |
+| **Description** | bash -c "$(wget -qO - https://raw.githubusercontent.com/guneysus/proxmox-scripts/master/pve/post-install.sh)" |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-16 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

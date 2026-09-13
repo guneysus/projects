@@ -1,6 +1,6 @@
 # csharp.hw.northwind.sepet
 
-> *No description available.*
+> Sipariş/Sepet
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.hw.northwind.sepet` |
-| **Description** | *No description available.* |
+| **Description** | Sipariş/Sepet |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

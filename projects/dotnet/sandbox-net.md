@@ -1,6 +1,6 @@
 # sandbox-net
 
-> *No description available.*
+> https://stackoverflow.com/a/13187820/1766716
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sandbox-net` |
-| **Description** | *No description available.* |
+| **Description** | https://stackoverflow.com/a/13187820/1766716 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

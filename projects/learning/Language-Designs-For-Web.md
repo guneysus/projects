@@ -1,6 +1,6 @@
 # Language-Designs-For-Web
 
-> *No description available.*
+> The aim of this repository is designing simple languages to be used for web apps giving more dynamic features.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Language-Designs-For-Web` |
-| **Description** | *No description available.* |
+| **Description** | The aim of this repository is designing simple languages to be used for web apps giving more dynamic features. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-07-31 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

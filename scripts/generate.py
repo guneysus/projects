@@ -352,6 +352,11 @@ def main():
             p["canonical"] = True
             p["duplicate_of"] = None
 
+    # Enrich metadata from the canonical archive repo's data files
+    from enrich import enrich_projects
+    n_enriched = enrich_projects(projects, ARCHIVES[CANONICAL_ARCHIVE]["local_path"], ARCHIVES[CANONICAL_ARCHIVE]["branch"])
+    print(f"Enriched {n_enriched} projects with metadata")
+
     # Write per-project pages.
     # When multiple projects share the same slugified filename (duplicates across
     # archives), only the canonical entry gets a page; duplicate copies are skipped

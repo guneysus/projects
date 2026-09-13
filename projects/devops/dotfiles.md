@@ -1,6 +1,6 @@
 # dotfiles
 
-> *No description available.*
+> https://github.com/ssh0/dot
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotfiles` |
-| **Description** | *No description available.* |
+| **Description** | https://github.com/ssh0/dot |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

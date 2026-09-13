@@ -1,6 +1,6 @@
 # musahid
 
-> *No description available.*
+> Since user streams are deprecated and tweept does not updated, user stream code block is not working.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `musahid` |
-| **Description** | *No description available.* |
+| **Description** | Since user streams are deprecated and tweept does not updated, user stream code block is not working. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

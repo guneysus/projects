@@ -1,6 +1,6 @@
 # sitemap-parser
 
-> *No description available.*
+> Sitemap parser
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sitemap-parser` |
-| **Description** | *No description available.* |
+| **Description** | Sitemap parser |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # git-presentation
 
-> *No description available.*
+> There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation")
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `git-presentation` |
-| **Description** | *No description available.* |
+| **Description** | There original presentation is here(http://careitu.github.io/git-presentation/ "Care ITU Git & Github Presentation") |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

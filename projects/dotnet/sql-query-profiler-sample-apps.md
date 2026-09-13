@@ -1,6 +1,6 @@
 # sql-query-profiler-sample-apps
 
-> *No description available.*
+> Sample Applications
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `sql-query-profiler-sample-apps` |
-| **Description** | *No description available.* |
+| **Description** | Sample Applications |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-02-07 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

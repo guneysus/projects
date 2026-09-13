@@ -1,6 +1,6 @@
 # dinq
 
-> *No description available.*
+> Dynamic LINQ query builder
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dinq` |
-| **Description** | *No description available.* |
+| **Description** | Dynamic LINQ query builder |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

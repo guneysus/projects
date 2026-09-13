@@ -1,6 +1,6 @@
 # blog-from-scratch
 
-> *No description available.*
+> Congratulations! Your new Hugo site was created in X:\git\gitlab.com\guneysu\blog.git.
 
 
 
@@ -9,11 +9,11 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `blog-from-scratch` |
-| **Description** | *No description available.* |
+| **Description** | Congratulations! Your new Hugo site was created in X:\git\gitlab.com\guneysu\blog.git. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-07-31 |
-| **Status** | ❌ Not archived |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 

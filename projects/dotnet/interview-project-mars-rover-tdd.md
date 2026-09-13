@@ -1,6 +1,6 @@
 # interview-project-mars-rover-tdd
 
-> *No description available.*
+> dotnet test
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `interview-project-mars-rover-tdd` |
-| **Description** | *No description available.* |
+| **Description** | dotnet test |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

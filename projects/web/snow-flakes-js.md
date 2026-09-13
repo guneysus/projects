@@ -1,6 +1,6 @@
 # snow-flakes-js
 
-> *No description available.*
+> Add Snow Flakes to Web sites easily (coded with HTML5 Canvas)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `snow-flakes-js` |
-| **Description** | *No description available.* |
+| **Description** | Add Snow Flakes to Web sites easily (coded with HTML5 Canvas) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

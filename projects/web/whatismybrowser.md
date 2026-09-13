@@ -13,7 +13,7 @@
 | **Visibility** | 🔓 Public |
 | **Fork** | No |
 | **Last activity** | 2024-10-14 |
-| **Status** | ❌ Not archived |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
 

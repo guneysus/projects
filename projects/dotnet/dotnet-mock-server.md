@@ -1,6 +1,6 @@
 # dotnet-mock-server
 
-> *No description available.*
+> !Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `dotnet-mock-server` |
-| **Description** | *No description available.* |
+| **Description** | !Gitter(https://badges.gitter.im/dotnetcore-mock-server/community.svg)(https://gitter.im/dotnetcore-mock-server/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

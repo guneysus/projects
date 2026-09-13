@@ -1,6 +1,6 @@
 # deployement-templates
 
-> *No description available.*
+> Deployment templates
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `deployement-templates` |
-| **Description** | *No description available.* |
+| **Description** | Deployment templates |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

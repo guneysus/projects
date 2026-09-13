@@ -1,6 +1,6 @@
 # blog-v1
 
-> *No description available.*
+> HEX: #567c73
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `blog-v1` |
-| **Description** | *No description available.* |
+| **Description** | HEX: #567c73 |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

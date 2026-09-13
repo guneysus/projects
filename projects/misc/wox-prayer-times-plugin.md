@@ -1,6 +1,6 @@
 # wox-prayer-times-plugin
 
-> *No description available.*
+> wox plugins
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wox-prayer-times-plugin` |
-| **Description** | *No description available.* |
+| **Description** | wox plugins |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

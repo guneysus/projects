@@ -1,6 +1,6 @@
 # skaf
 
-> *No description available.*
+> This repo contains the source code for Skaf which is a SaaS
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `skaf` |
-| **Description** | *No description available.* |
+| **Description** | This repo contains the source code for Skaf which is a SaaS |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

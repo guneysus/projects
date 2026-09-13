@@ -1,6 +1,6 @@
 # EfCoreQueryToolbar
 
-> *No description available.*
+> Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `EfCoreQueryToolbar` |
-| **Description** | *No description available.* |
+| **Description** | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-10-18 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

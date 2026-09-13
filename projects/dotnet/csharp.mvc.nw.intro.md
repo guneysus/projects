@@ -1,6 +1,6 @@
 # csharp.mvc.nw.intro
 
-> *No description available.*
+> Northwind MVC intro
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `csharp.mvc.nw.intro` |
-| **Description** | *No description available.* |
+| **Description** | Northwind MVC intro |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # hugo-theme-monochrome
 
-> *No description available.*
+> A fast, clean and responsive hugo theme
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `hugo-theme-monochrome` |
-| **Description** | *No description available.* |
+| **Description** | A fast, clean and responsive hugo theme |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-10-17 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

@@ -1,6 +1,6 @@
 # fullstack-dotnet-template
 
-> *No description available.*
+> This is a polyglot monorepo containing:
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `fullstack-dotnet-template` |
-| **Description** | *No description available.* |
+| **Description** | This is a polyglot monorepo containing: |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

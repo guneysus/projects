@@ -1,6 +1,6 @@
 # surmene
 
-> *No description available.*
+> Import-Module PowerShellGet
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `surmene` |
-| **Description** | *No description available.* |
+| **Description** | Import-Module PowerShellGet |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |

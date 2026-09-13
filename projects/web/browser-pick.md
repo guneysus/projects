@@ -1,6 +1,6 @@
 # browser-pick
 
-> *No description available.*
+> Browser bookmark management utility
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `browser-pick` |
-| **Description** | *No description available.* |
+| **Description** | Browser bookmark management utility |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

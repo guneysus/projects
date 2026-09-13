@@ -1,6 +1,6 @@
 # underscore-net-docs
 
-> *No description available.*
+> > side projects documentation
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `underscore-net-docs` |
-| **Description** | *No description available.* |
+| **Description** | > side projects documentation |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

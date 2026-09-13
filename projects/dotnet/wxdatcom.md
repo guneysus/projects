@@ -1,6 +1,6 @@
 # wxdatcom
 
-> *No description available.*
+> Very slow import
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `wxdatcom` |
-| **Description** | *No description available.* |
+| **Description** | Very slow import |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2026-08-01 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

@@ -1,6 +1,6 @@
 # interview-downtime-alerter-service
 
-> *No description available.*
+> user/passwords:
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `interview-downtime-alerter-service` |
-| **Description** | *No description available.* |
+| **Description** | user/passwords: |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

@@ -1,6 +1,6 @@
 # prayer-times-android
 
-> *No description available.*
+> Minimal persisten notification based android application using the prayer times api
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `prayer-times-android` |
-| **Description** | *No description available.* |
+| **Description** | Minimal persisten notification based android application using the prayer times api |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

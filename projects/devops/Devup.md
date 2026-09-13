@@ -1,6 +1,6 @@
 # Devup
 
-> *No description available.*
+> > YAML based, docker-compose like tools, helping to start development environments
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Devup` |
-| **Description** | *No description available.* |
+| **Description** | > YAML based, docker-compose like tools, helping to start development environments |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** |  |

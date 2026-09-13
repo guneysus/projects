@@ -1,6 +1,6 @@
 # Startup-CTO-Handbook
 
-> *No description available.*
+> You can view the latest content of the book in markdown here(StartupCTOHandbook.md)
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,10 +9,10 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `Startup-CTO-Handbook` |
-| **Description** | *No description available.* |
+| **Description** | You can view the latest content of the book in markdown here(StartupCTOHandbook.md) |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** |  |
+| **Last activity** | 2025-04-02 |
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |

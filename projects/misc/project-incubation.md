@@ -1,6 +1,6 @@
 # project-incubation
 
-> *No description available.*
+> This is project incubation repository for side projects.
 
 ⭐ **Canonical** — this is the single source of truth for this project.
 
@@ -9,7 +9,7 @@
 | Field | Value |
 | --- | --- |
 | **Name** | `project-incubation` |
-| **Description** | *No description available.* |
+| **Description** | This is project incubation repository for side projects. |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
 | **Last activity** | 2026-08-02 |
