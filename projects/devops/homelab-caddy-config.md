@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -20,13 +20,15 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/homelab-caddy-config](https://gitlab.com/guneysu/homelab-caddy-config)
-- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/homelab-caddy-config](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/homelab-caddy-config)
-- **Archive monorepo:** GitLab Archive
-- **Archive path:** `repos/guneysu/homelab-caddy-config`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/homelab-caddy-config](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/homelab-caddy-config)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu/homelab-caddy-config`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/gitlab-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

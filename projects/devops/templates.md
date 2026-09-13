@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -20,13 +20,15 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/templates](https://gitlab.com/guneysu/templates)
-- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/templates](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/templates)
-- **Archive monorepo:** GitLab Archive
-- **Archive path:** `repos/guneysu/templates`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/templates](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/templates)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu/templates`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/gitlab-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

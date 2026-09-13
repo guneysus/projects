@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-⚠️ **Duplicate** — this project exists in multiple archive monorepos.
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -12,22 +12,23 @@
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
-| **Status** | ❌ Not archived |
-| **Original source** | Github |
-| **Original owner** | `guneysus` |
+| **Last activity** | 2026-08-02 |
+| **Status** | ✅ Archived |
+| **Original source** | Gitlab |
+| **Original owner** | `guneysu` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus/docker-apps](https://github.com/guneysus/docker-apps)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-apps](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-apps)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/docker-apps`
+- **Original repository:** [https://gitlab.com/guneysu/docker-apps](https://gitlab.com/guneysu/docker-apps)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/docker-apps](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/docker-apps)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu/docker-apps`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

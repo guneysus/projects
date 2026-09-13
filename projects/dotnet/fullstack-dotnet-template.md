@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -20,13 +20,15 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/fullstack-dotnet-template](https://gitlab.com/guneysu/fullstack-dotnet-template)
-- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/fullstack-dotnet-template](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/fullstack-dotnet-template)
-- **Archive monorepo:** GitLab Archive
-- **Archive path:** `repos/guneysu/fullstack-dotnet-template`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu/fullstack-dotnet-template`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/gitlab-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

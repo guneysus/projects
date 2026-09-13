@@ -1,33 +1,34 @@
 # parsers
 
-> Modular Antlr4 Parser & Lexers for big projects
+> *No description available.*
 
-⚠️ **Duplicate** — this project exists in multiple archive monorepos.
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `parsers` |
-| **Description** | Modular Antlr4 Parser & Lexers for big projects |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
-| **Status** | ❌ Not archived |
-| **Original source** | Github |
-| **Original owner** | `guneysus` |
+| **Last activity** | 2026-08-02 |
+| **Status** | ✅ Archived |
+| **Original source** | Gitlab |
+| **Original owner** | `guneysu` |
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus/parsers](https://github.com/guneysus/parsers)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/parsers](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/parsers)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/parsers`
+- **Original repository:** [https://gitlab.com/guneysu/parsers](https://gitlab.com/guneysu/parsers)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/parsers](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/parsers)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/gitlab.com/guneysu/parsers`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

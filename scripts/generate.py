@@ -30,6 +30,10 @@ PROJECTS_DIR = os.path.join(ROOT, "projects")
 FORKS_DIR = os.path.join(ROOT, "forks")
 DATA_FILE = os.path.join(ROOT, "projects.json")
 
+# The archive repo that is the single source of truth. Projects present in this
+# archive are canonical; the same project in another archive is a duplicate copy.
+CANONICAL_ARCHIVE = "archive"
+
 
 def page_rel_path(project):
     """Relative path from README to a project's page (forks live in forks/)."""
@@ -77,14 +81,19 @@ def build_project_page(project, duplicates):
     vis = "🔓 Public" if project["visibility"] == "public" else "🔒 Private"
     fork = "Yes" if project.get("fork") else "No"
     archived = "✅ Archived" if project.get("archived") else "❌ Not archived"
-    dup = "⚠️ **Duplicate** — this project exists in multiple archive monorepos." if name in duplicates else ""
+    if project.get("canonical") and name in duplicates:
+        status = "⭐ **Canonical** — this is the single source of truth for this project."
+    elif project.get("duplicate_of"):
+        status = f"⚠️ **Duplicate copy** — the canonical source is `{project['duplicate_of']}` in the {ARCHIVES[CANONICAL_ARCHIVE]['label']}."
+    else:
+        status = ""
 
     lines = [
         f"# {name}",
         "",
         f"> {desc}",
         "",
-        dup,
+        status,
         "",
         "## Overview",
         "",
@@ -157,16 +166,18 @@ def build_readme(projects, duplicates):
         "",
         "## ⚠️ Duplicates",
         "",
-        "Some projects exist in **more than one** archive monorepo. They may have different "
-        "origins and possibly divergent commit histories, so each copy is kept as its own entry.",
+        "Some projects exist in **more than one** archive monorepo. The **Archive** repo "
+        f"({ARCHIVES[CANONICAL_ARCHIVE]['label']}) is the single source of truth; copies in "
+        "other archives are marked as duplicates.",
         "",
     ]
     if duplicates:
-        lines.append("| Project | Archives |")
-        lines.append("| --- | --- |")
+        lines.append("| Project | Canonical | Other archives |")
+        lines.append("| --- | --- | --- |")
         for name in sorted(duplicates):
-            archs = ", ".join(ARCHIVES[a]["label"] for a in duplicates[name])
-            lines.append(f"| `{name}` | {archs} |")
+            canonical = ARCHIVES[CANONICAL_ARCHIVE]["label"] if CANONICAL_ARCHIVE in duplicates[name] else "—"
+            others = ", ".join(ARCHIVES[a]["label"] for a in duplicates[name] if a != CANONICAL_ARCHIVE)
+            lines.append(f"| `{name}` | {canonical} | {others} |")
     else:
         lines.append("_No duplicates detected._")
     lines.append("")
@@ -194,10 +205,15 @@ def build_readme(projects, duplicates):
             "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
         ]
         for i, p in enumerate(sorted(by_cat[cat_key], key=lambda x: x["name"].lower()), start=1):
-            dup = " ⚠️" if p["name"] in duplicates else ""
+            if p.get("canonical") and p["name"] in duplicates:
+                marker = " ⭐"
+            elif p.get("duplicate_of"):
+                marker = " ⚠️"
+            else:
+                marker = ""
             src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
             lines.append(
-                f"| {i} | [{p['name']}]({page_rel_path(p)}){dup} | "
+                f"| {i} | [{p['name']}]({page_rel_path(p)}){marker} | "
                 f"{src} | "
                 f"{'🔓' if p['visibility']=='public' else '🔒'} | "
                 f"{'✅' if p.get('archived') else '❌'} | "
@@ -215,10 +231,15 @@ def build_readme(projects, duplicates):
         "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
     ]
     for i, p in enumerate(sorted(forks, key=lambda x: x["name"].lower()), start=1):
-        dup = " ⚠️" if p["name"] in duplicates else ""
+        if p.get("canonical") and p["name"] in duplicates:
+            marker = " ⭐"
+        elif p.get("duplicate_of"):
+            marker = " ⚠️"
+        else:
+            marker = ""
         src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
-            f"| {i} | [{p['name']}]({page_rel_path(p)}){dup} | "
+            f"| {i} | [{p['name']}]({page_rel_path(p)}){marker} | "
             f"{src} | "
             f"{'🔓' if p['visibility']=='public' else '🔒'} | "
             f"{'✅' if p.get('archived') else '❌'} | "
@@ -259,20 +280,44 @@ def main():
     # Detect duplicates by name across archives
     by_name = {}
     for p in projects:
-        by_name.setdefault(p["name"], []).append(p["archive_repo"])
-    duplicates = {name: sorted(set(archs)) for name, archs in by_name.items() if len(set(archs)) > 1}
+        by_name.setdefault(p["name"], []).append(p)
+    duplicates = {}
+    for name, copies in by_name.items():
+        archs = sorted({p["archive_repo"] for p in copies})
+        if len(archs) > 1:
+            duplicates[name] = archs
+            # Mark the copy in the canonical archive as canonical; others as duplicates
+            for p in copies:
+                if p["archive_repo"] == CANONICAL_ARCHIVE:
+                    p["canonical"] = True
+                    p["duplicate_of"] = None
+                else:
+                    p["canonical"] = False
+                    p["duplicate_of"] = name
+        else:
+            p = copies[0]
+            p["canonical"] = True
+            p["duplicate_of"] = None
 
-    # Write per-project pages
-    for p in projects:
-        page = build_project_page(p, duplicates)
+    # Write per-project pages.
+    # When multiple projects share the same slugified filename (duplicates across
+    # archives), only the canonical entry gets a page; duplicate copies are skipped
+    # to avoid overwriting the canonical page.
+    written = set()
+    for p in sorted(projects, key=lambda x: (not x.get("canonical", True), x["name"].lower())):
+        slug = slugify(p["name"])
         if p.get("fork"):
             folder = FORKS_DIR
         else:
             folder = os.path.join(PROJECTS_DIR, category_of(p))
+        path = os.path.join(folder, f"{slug}.md")
+        if path in written:
+            continue  # a canonical entry already wrote this page
         os.makedirs(folder, exist_ok=True)
-        path = os.path.join(folder, f"{slugify(p['name'])}.md")
+        page = build_project_page(p, duplicates)
         with open(path, "w", encoding="utf-8") as f:
             f.write(page)
+        written.add(path)
 
     # Write README
     readme = build_readme(projects, duplicates)

@@ -32,12 +32,58 @@
     }
   },
   "duplicates": {
+    "backstage": [
+      "archive",
+      "gitlab-archive"
+    ],
     "docker-apps": [
+      "archive",
       "github-guneysus-archive",
       "gitlab-archive"
     ],
+    "dotnet-extension-methods": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "fullstack-dotnet-template": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "gitops-config": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "homelab-caddy-config": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "latex-docs": [
+      "archive",
+      "gitlab-archive"
+    ],
     "parsers": [
+      "archive",
       "github-guneysus-archive",
+      "gitlab-archive"
+    ],
+    "project-incubation": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "prompt-library": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "surmene": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "templates": [
+      "archive",
+      "gitlab-archive"
+    ],
+    "torque-collector": [
+      "archive",
       "gitlab-archive"
     ]
   },
@@ -52,7 +98,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/Dymo",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "00-intro",
@@ -64,7 +112,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/00-intro",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "01-creating-a-debugger",
@@ -76,7 +126,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/01-creating-a-debugger",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Sandbox",
@@ -88,7 +140,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/Sandbox",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "_edit",
@@ -100,7 +154,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/_edit",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "allocate-huge-memory",
@@ -112,7 +168,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/allocate-huge-memory",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aspnet",
@@ -124,7 +182,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/aspnet",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aspnetcore-custom-router",
@@ -136,7 +196,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/aspnetcore-custom-router",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "chunked-response",
@@ -148,7 +210,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/chunked-response",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "claims-based-authorization",
@@ -160,7 +224,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/claims-based-authorization",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dist",
@@ -172,7 +238,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/dist",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dnlib",
@@ -184,7 +252,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/dnlib",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "docs",
@@ -196,7 +266,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/docs",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet",
@@ -208,7 +280,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/dotnet",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ecma-standarts",
@@ -220,7 +294,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/ecma-standarts",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "encryption-sandbox",
@@ -232,7 +308,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/encryption-sandbox",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "evil-regex-routing",
@@ -244,7 +322,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/evil-regex-routing",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "evil-regexes-tests",
@@ -256,7 +336,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/evil-regexes-tests",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "experiments",
@@ -268,7 +350,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/experiments",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "firefox",
@@ -280,7 +364,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/firefox",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "functions",
@@ -292,7 +378,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/functions",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "git",
@@ -304,7 +392,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/git",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "graphql",
@@ -316,7 +406,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/graphql",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "http-experiments",
@@ -328,7 +420,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/http-experiments",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-m4",
@@ -340,7 +434,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learn-m4",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-vue",
@@ -352,7 +448,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learn-vue",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learning-fsharp",
@@ -364,7 +462,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learning-fsharp",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learning-graphql",
@@ -376,7 +476,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learning-graphql",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learning-haskell",
@@ -388,7 +490,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/learning-haskell",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mock-server",
@@ -400,7 +504,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/mock-server",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "pe",
@@ -412,7 +518,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/pe",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "performance-dashboard",
@@ -424,7 +532,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/performance-dashboard",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "play-with-performance-counters",
@@ -436,7 +546,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/play-with-performance-counters",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "powertoys-new-plus-templates",
@@ -448,7 +560,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/powertoys-new-plus-templates",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "project-management",
@@ -460,7 +574,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/project-management",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "public",
@@ -472,7 +588,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/public",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "python-tornado-tcp-echo-server",
@@ -484,7 +602,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/python-tornado-tcp-echo-server",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "reader",
@@ -496,7 +616,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/reader",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "reasoning",
@@ -508,7 +630,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/reasoning",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "redis-backed-dictionary",
@@ -520,7 +644,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/redis-backed-dictionary",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "redis-backed-dictionary-tests",
@@ -532,7 +658,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/redis-backed-dictionary-tests",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sample-tests",
@@ -544,7 +672,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/sample-tests",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "server",
@@ -556,7 +686,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/server",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "source-generators",
@@ -568,7 +700,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/source-generators",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "stored_procedures",
@@ -580,7 +714,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/stored_procedures",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "system-prompts",
@@ -592,7 +728,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/system-prompts",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "system32",
@@ -604,7 +742,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/system32",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "telnet",
@@ -616,7 +756,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/telnet",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "triggers",
@@ -628,7 +770,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/triggers",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "views",
@@ -640,7 +784,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/views",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "windows-terminal",
@@ -652,7 +798,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_path": "repos/github.com/guneysus/windows-terminal",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "SA-tech-stack-ga",
@@ -664,7 +812,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/SA-tech-stack-ga",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aeronautical-eng-simulations",
@@ -676,7 +826,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/aeronautical-eng-simulations",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dashdot",
@@ -688,7 +840,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/dashdot",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dashy",
@@ -700,7 +854,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/dashy",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "format",
@@ -712,7 +868,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/format",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "grafana",
@@ -724,7 +882,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/grafana",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "group-ride",
@@ -736,7 +896,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/group-ride",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "myspeed",
@@ -748,7 +910,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/myspeed",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ntfy",
@@ -760,7 +924,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/ntfy",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "openweb-ui",
@@ -772,7 +938,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/openweb-ui",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "openwebrx",
@@ -784,7 +952,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/openwebrx",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "redis",
@@ -796,7 +966,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/redis",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "role",
@@ -808,7 +980,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/role",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "task",
@@ -820,7 +994,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/task",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "vaultwarden",
@@ -832,7 +1008,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/vaultwarden",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "watch-your-lan",
@@ -844,7 +1022,191 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/gitlab.com/guneysu/watch-your-lan",
-      "archive_repo": "archive"
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "backstage",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/backstage",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "docker-apps",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/docker-apps",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "dotnet-extension-methods",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/dotnet-extension-methods",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "fullstack-dotnet-template",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/fullstack-dotnet-template",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "gitops-config",
+      "description": "k8s manifests files for continious deployment",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/gitops-config",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "homelab-caddy-config",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/homelab-caddy-config",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "latex-docs",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/latex-docs",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "parsers",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/parsers",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "project-incubation",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/project-incubation",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "prompt-library",
+      "description": "LLM Prompts",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/prompt-library",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "surmene",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/surmene",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "templates",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/templates",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
+    },
+    {
+      "name": "torque-collector",
+      "description": "",
+      "visibility": "private",
+      "fork": false,
+      "last_activity": "2026-08-02",
+      "archived": true,
+      "source": "gitlab",
+      "owner": "guneysu",
+      "archive_path": "repos/gitlab.com/guneysu/torque-collector",
+      "archive_repo": "archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "backstage",
@@ -856,7 +1218,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/backstage",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "backstage"
     },
     {
       "name": "docker-apps",
@@ -868,7 +1232,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/docker-apps",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "docker-apps"
     },
     {
       "name": "dotnet-extension-methods",
@@ -880,7 +1246,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/dotnet-extension-methods",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "dotnet-extension-methods"
     },
     {
       "name": "fullstack-dotnet-template",
@@ -892,7 +1260,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/fullstack-dotnet-template",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "fullstack-dotnet-template"
     },
     {
       "name": "gitops-config",
@@ -904,7 +1274,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/gitops-config",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "gitops-config"
     },
     {
       "name": "homelab-caddy-config",
@@ -916,7 +1288,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/homelab-caddy-config",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "homelab-caddy-config"
     },
     {
       "name": "latex-docs",
@@ -928,7 +1302,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/latex-docs",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "latex-docs"
     },
     {
       "name": "parsers",
@@ -940,7 +1316,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/parsers",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "parsers"
     },
     {
       "name": "project-incubation",
@@ -952,7 +1330,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/project-incubation",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "project-incubation"
     },
     {
       "name": "prompt-library",
@@ -964,7 +1344,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/prompt-library",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "prompt-library"
     },
     {
       "name": "surmene",
@@ -976,7 +1358,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/surmene",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "surmene"
     },
     {
       "name": "templates",
@@ -988,7 +1372,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/templates",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "templates"
     },
     {
       "name": "torque-collector",
@@ -1000,7 +1386,9 @@
       "source": "gitlab",
       "owner": "guneysu",
       "archive_path": "repos/guneysu/torque-collector",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": false,
+      "duplicate_of": "torque-collector"
     },
     {
       "name": "acme-welcome-dotnet",
@@ -1012,7 +1400,9 @@
       "source": "gitlab",
       "owner": "guneysu.dev",
       "archive_path": "repos/guneysu.dev/acme-welcome-dotnet",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "cloudflare-worker-get-user",
@@ -1024,7 +1414,9 @@
       "source": "gitlab",
       "owner": "guneysu.dev",
       "archive_path": "repos/guneysu.dev/cloudflare-worker-get-user",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "form-flow",
@@ -1036,7 +1428,9 @@
       "source": "gitlab",
       "owner": "guneysu.dev",
       "archive_path": "repos/guneysu.dev/form-flow",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "skaf",
@@ -1048,7 +1442,9 @@
       "source": "gitlab",
       "owner": "guneysu.dev",
       "archive_path": "repos/guneysu.dev/skaf",
-      "archive_repo": "gitlab-archive"
+      "archive_repo": "gitlab-archive",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": ".cli-template_dotnet",
@@ -1060,7 +1456,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/.cli-template_dotnet"
+      "archive_path": "repos/github.com/guneysus-archieve/.cli-template_dotnet",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aes",
@@ -1072,7 +1470,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/aes"
+      "archive_path": "repos/github.com/guneysus-archieve/aes",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aes_dust",
@@ -1084,7 +1484,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/aes_dust"
+      "archive_path": "repos/github.com/guneysus-archieve/aes_dust",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ai",
@@ -1096,7 +1498,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ai"
+      "archive_path": "repos/github.com/guneysus-archieve/ai",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "algoritms",
@@ -1108,7 +1512,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/algoritms"
+      "archive_path": "repos/github.com/guneysus-archieve/algoritms",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "analyzers",
@@ -1120,7 +1526,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/analyzers"
+      "archive_path": "repos/github.com/guneysus-archieve/analyzers",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "app.namazvaktim",
@@ -1132,7 +1540,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/app.namazvaktim"
+      "archive_path": "repos/github.com/guneysus-archieve/app.namazvaktim",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "asm",
@@ -1144,7 +1554,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/asm"
+      "archive_path": "repos/github.com/guneysus-archieve/asm",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "asp-net-sample-apps",
@@ -1156,7 +1568,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/asp-net-sample-apps"
+      "archive_path": "repos/github.com/guneysus-archieve/asp-net-sample-apps",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aspcore-sample-apps",
@@ -1168,7 +1582,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/aspcore-sample-apps"
+      "archive_path": "repos/github.com/guneysus-archieve/aspcore-sample-apps",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aspnet-core-streaming",
@@ -1180,7 +1596,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/aspnet-core-streaming"
+      "archive_path": "repos/github.com/guneysus-archieve/aspnet-core-streaming",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "aws_list_all",
@@ -1192,7 +1610,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/aws_list_all"
+      "archive_path": "repos/github.com/guneysus-archieve/aws_list_all",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "bginfz",
@@ -1204,7 +1624,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/bginfz"
+      "archive_path": "repos/github.com/guneysus-archieve/bginfz",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "bin",
@@ -1216,7 +1638,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/bin"
+      "archive_path": "repos/github.com/guneysus-archieve/bin",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "blog-from-scratch",
@@ -1228,7 +1652,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/blog-from-scratch"
+      "archive_path": "repos/github.com/guneysus-archieve/blog-from-scratch",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "blog-v1",
@@ -1240,7 +1666,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/blog-v1"
+      "archive_path": "repos/github.com/guneysus-archieve/blog-v1",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "blog-v2",
@@ -1252,7 +1680,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/blog-v2"
+      "archive_path": "repos/github.com/guneysus-archieve/blog-v2",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "blog-v3",
@@ -1264,7 +1694,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/blog-v3"
+      "archive_path": "repos/github.com/guneysus-archieve/blog-v3",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "blog-v3-theme",
@@ -1276,7 +1708,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/blog-v3-theme"
+      "archive_path": "repos/github.com/guneysus-archieve/blog-v3-theme",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "boilerplate",
@@ -1288,7 +1722,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/boilerplate"
+      "archive_path": "repos/github.com/guneysus-archieve/boilerplate",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "browser-pick",
@@ -1300,7 +1736,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/browser-pick"
+      "archive_path": "repos/github.com/guneysus-archieve/browser-pick",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "bug.report-docker-3106",
@@ -1312,7 +1750,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/bug.report-docker-3106"
+      "archive_path": "repos/github.com/guneysus-archieve/bug.report-docker-3106",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "calc.asm",
@@ -1324,7 +1764,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/calc.asm"
+      "archive_path": "repos/github.com/guneysus-archieve/calc.asm",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "calcx",
@@ -1336,7 +1778,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/calcx"
+      "archive_path": "repos/github.com/guneysus-archieve/calcx",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "chess.js",
@@ -1348,7 +1792,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/chess.js"
+      "archive_path": "repos/github.com/guneysus-archieve/chess.js",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "coding-interview-university",
@@ -1360,7 +1806,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/coding-interview-university"
+      "archive_path": "repos/github.com/guneysus-archieve/coding-interview-university",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "configs",
@@ -1372,7 +1820,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/configs"
+      "archive_path": "repos/github.com/guneysus-archieve/configs",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "CoreHook",
@@ -1384,7 +1834,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/CoreHook"
+      "archive_path": "repos/github.com/guneysus-archieve/CoreHook",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Craig-s-Utility-Library",
@@ -1396,7 +1848,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Craig-s-Utility-Library"
+      "archive_path": "repos/github.com/guneysus-archieve/Craig-s-Utility-Library",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "crem",
@@ -1408,7 +1862,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/crem"
+      "archive_path": "repos/github.com/guneysus-archieve/crem",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "CSharpExpressionTreesInTheRealWorld",
@@ -1420,7 +1876,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/CSharpExpressionTreesInTheRealWorld"
+      "archive_path": "repos/github.com/guneysus-archieve/CSharpExpressionTreesInTheRealWorld",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "cv",
@@ -1432,7 +1890,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/cv"
+      "archive_path": "repos/github.com/guneysus-archieve/cv",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "de4dot",
@@ -1444,7 +1904,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/de4dot"
+      "archive_path": "repos/github.com/guneysus-archieve/de4dot",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "deployement-templates",
@@ -1456,7 +1918,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/deployement-templates"
+      "archive_path": "repos/github.com/guneysus-archieve/deployement-templates",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Design-Patterns",
@@ -1468,7 +1932,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Design-Patterns"
+      "archive_path": "repos/github.com/guneysus-archieve/Design-Patterns",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Devup",
@@ -1480,7 +1946,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Devup"
+      "archive_path": "repos/github.com/guneysus-archieve/Devup",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dingil",
@@ -1492,7 +1960,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dingil"
+      "archive_path": "repos/github.com/guneysus-archieve/dingil",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dinq",
@@ -1504,7 +1974,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dinq"
+      "archive_path": "repos/github.com/guneysus-archieve/dinq",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dlr",
@@ -1516,7 +1988,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dlr"
+      "archive_path": "repos/github.com/guneysus-archieve/dlr",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "do-not-reinvent",
@@ -1528,7 +2002,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/do-not-reinvent"
+      "archive_path": "repos/github.com/guneysus-archieve/do-not-reinvent",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "docker-apps",
@@ -1540,7 +2016,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/docker-apps"
+      "archive_path": "repos/github.com/guneysus-archieve/docker-apps",
+      "canonical": false,
+      "duplicate_of": "docker-apps"
     },
     {
       "name": "docker-baseimage-rdesktop",
@@ -1552,7 +2030,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop"
+      "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "docker-baseimage-rdesktop-web",
@@ -1564,7 +2044,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web"
+      "archive_path": "repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "docker-images",
@@ -1576,7 +2058,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/docker-images"
+      "archive_path": "repos/github.com/guneysus-archieve/docker-images",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "docker-rdesktop",
@@ -1588,7 +2072,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/docker-rdesktop"
+      "archive_path": "repos/github.com/guneysus-archieve/docker-rdesktop",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "DoH-IP-blocklists",
@@ -1600,7 +2086,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/DoH-IP-blocklists"
+      "archive_path": "repos/github.com/guneysus-archieve/DoH-IP-blocklists",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotfiles",
@@ -1612,7 +2100,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotfiles"
+      "archive_path": "repos/github.com/guneysus-archieve/dotfiles",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-core-plugins",
@@ -1624,7 +2114,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-core-plugins"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-core-plugins",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-dynamic-assembly-loading",
@@ -1636,7 +2128,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-dynamic-assembly-loading"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-dynamic-assembly-loading",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-expression-trees",
@@ -1648,7 +2142,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-expression-trees"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-expression-trees",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-how-to-debug-source-generator-vs2022",
@@ -1660,7 +2156,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-html-gen",
@@ -1672,7 +2170,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-html-gen"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-html-gen",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-mock-server",
@@ -1684,7 +2184,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-mock-server"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-mock-server",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-reversing",
@@ -1696,7 +2198,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-reversing"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-reversing",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-sandbox",
@@ -1708,7 +2212,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-sandbox"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-sandbox",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnet-sandbox-2",
@@ -1720,7 +2226,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnet-sandbox-2"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnet-sandbox-2",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "EfCoreQueryToolbar",
@@ -1732,7 +2240,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/EfCoreQueryToolbar"
+      "archive_path": "repos/github.com/guneysus-archieve/EfCoreQueryToolbar",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "extension-methods",
@@ -1744,7 +2254,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/extension-methods"
+      "archive_path": "repos/github.com/guneysus-archieve/extension-methods",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "EzanVaktiAPI",
@@ -1756,7 +2268,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/EzanVaktiAPI"
+      "archive_path": "repos/github.com/guneysus-archieve/EzanVaktiAPI",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "firebase-studio-apex-cloud-sample",
@@ -1768,7 +2282,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/firebase-studio-apex-cloud-sample"
+      "archive_path": "repos/github.com/guneysus-archieve/firebase-studio-apex-cloud-sample",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "galeri.nakizeyn.guneysu.dev",
@@ -1780,7 +2296,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev"
+      "archive_path": "repos/github.com/guneysus-archieve/galeri.nakizeyn.guneysu.dev",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "git-jump",
@@ -1792,7 +2310,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/git-jump"
+      "archive_path": "repos/github.com/guneysus-archieve/git-jump",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "gohugo-hacker",
@@ -1804,7 +2324,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/gohugo-hacker"
+      "archive_path": "repos/github.com/guneysus-archieve/gohugo-hacker",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "goreplay",
@@ -1816,7 +2338,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/goreplay"
+      "archive_path": "repos/github.com/guneysus-archieve/goreplay",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "grammars",
@@ -1828,7 +2352,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/grammars"
+      "archive_path": "repos/github.com/guneysus-archieve/grammars",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "GraphQL.Tools",
@@ -1840,7 +2366,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/GraphQL.Tools"
+      "archive_path": "repos/github.com/guneysus-archieve/GraphQL.Tools",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "grepz",
@@ -1852,7 +2380,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/grepz"
+      "archive_path": "repos/github.com/guneysus-archieve/grepz",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "guneysu.dev",
@@ -1864,7 +2394,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/guneysu.dev"
+      "archive_path": "repos/github.com/guneysus-archieve/guneysu.dev",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "guneysus",
@@ -1876,7 +2408,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/guneysus"
+      "archive_path": "repos/github.com/guneysus-archieve/guneysus",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "guneysus.github.io-archieved",
@@ -1888,7 +2422,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/guneysus.github.io-archieved"
+      "archive_path": "repos/github.com/guneysus-archieve/guneysus.github.io-archieved",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "hugo-theme-monochrome",
@@ -1900,7 +2436,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/hugo-theme-monochrome"
+      "archive_path": "repos/github.com/guneysus-archieve/hugo-theme-monochrome",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "kb",
@@ -1912,7 +2450,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/kb"
+      "archive_path": "repos/github.com/guneysus-archieve/kb",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "keychron-layouts",
@@ -1924,7 +2464,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/keychron-layouts"
+      "archive_path": "repos/github.com/guneysus-archieve/keychron-layouts",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "keys",
@@ -1936,7 +2478,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/keys"
+      "archive_path": "repos/github.com/guneysus-archieve/keys",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Language-Designs-For-Web",
@@ -1948,7 +2492,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Language-Designs-For-Web"
+      "archive_path": "repos/github.com/guneysus-archieve/Language-Designs-For-Web",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "lcnc-security-engine",
@@ -1960,7 +2506,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/lcnc-security-engine"
+      "archive_path": "repos/github.com/guneysus-archieve/lcnc-security-engine",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-agentic-ai",
@@ -1972,7 +2520,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-agentic-ai"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-agentic-ai",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-fsharp",
@@ -1984,7 +2534,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-fsharp"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-fsharp",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-go",
@@ -1996,7 +2548,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-go"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-go",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-lisp",
@@ -2008,7 +2562,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-lisp"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-lisp",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-mastering-dotnet-expression-trees",
@@ -2020,7 +2576,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-mastering-dotnet-expression-trees"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-mastering-dotnet-expression-trees",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-mcp",
@@ -2032,7 +2590,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-mcp"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-mcp",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learn-prometheus",
@@ -2044,7 +2604,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learn-prometheus"
+      "archive_path": "repos/github.com/guneysus-archieve/learn-prometheus",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "learning",
@@ -2056,7 +2618,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/learning"
+      "archive_path": "repos/github.com/guneysus-archieve/learning",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "llm",
@@ -2068,7 +2632,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/llm"
+      "archive_path": "repos/github.com/guneysus-archieve/llm",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "memoryleak",
@@ -2080,7 +2646,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/memoryleak"
+      "archive_path": "repos/github.com/guneysus-archieve/memoryleak",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mevlana-takvimi",
@@ -2092,7 +2660,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/mevlana-takvimi"
+      "archive_path": "repos/github.com/guneysus-archieve/mevlana-takvimi",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NanoDbProfiler",
@@ -2104,7 +2674,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/NanoDbProfiler"
+      "archive_path": "repos/github.com/guneysus-archieve/NanoDbProfiler",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ndig",
@@ -2116,7 +2688,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ndig"
+      "archive_path": "repos/github.com/guneysus-archieve/ndig",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "nqrgen",
@@ -2128,7 +2702,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/nqrgen"
+      "archive_path": "repos/github.com/guneysus-archieve/nqrgen",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NullCollectionFix.Fody",
@@ -2140,7 +2716,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/NullCollectionFix.Fody"
+      "archive_path": "repos/github.com/guneysus-archieve/NullCollectionFix.Fody",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NullFixEnumerable.Fody",
@@ -2152,7 +2730,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/NullFixEnumerable.Fody"
+      "archive_path": "repos/github.com/guneysus-archieve/NullFixEnumerable.Fody",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "pake",
@@ -2164,7 +2744,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/pake"
+      "archive_path": "repos/github.com/guneysus-archieve/pake",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "parsers",
@@ -2176,7 +2758,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/parsers"
+      "archive_path": "repos/github.com/guneysus-archieve/parsers",
+      "canonical": false,
+      "duplicate_of": "parsers"
     },
     {
       "name": "personal-blog-theme-gohugo-soothing",
@@ -2188,7 +2772,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing"
+      "archive_path": "repos/github.com/guneysus-archieve/personal-blog-theme-gohugo-soothing",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "PluginFramework",
@@ -2200,7 +2786,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/PluginFramework"
+      "archive_path": "repos/github.com/guneysus-archieve/PluginFramework",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "prank.var.sourcegenerator",
@@ -2212,7 +2800,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/prank.var.sourcegenerator"
+      "archive_path": "repos/github.com/guneysus-archieve/prank.var.sourcegenerator",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "prompts",
@@ -2224,7 +2814,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/prompts"
+      "archive_path": "repos/github.com/guneysus-archieve/prompts",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "proxmox-scripts",
@@ -2236,7 +2828,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/proxmox-scripts"
+      "archive_path": "repos/github.com/guneysus-archieve/proxmox-scripts",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ramblings",
@@ -2248,7 +2842,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ramblings"
+      "archive_path": "repos/github.com/guneysus-archieve/ramblings",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "rende",
@@ -2260,7 +2856,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/rende"
+      "archive_path": "repos/github.com/guneysus-archieve/rende",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sd-llm-benchmark",
@@ -2272,7 +2870,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sd-llm-benchmark"
+      "archive_path": "repos/github.com/guneysus-archieve/sd-llm-benchmark",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sql-query-profiler",
@@ -2284,7 +2884,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sql-query-profiler"
+      "archive_path": "repos/github.com/guneysus-archieve/sql-query-profiler",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sql-query-profiler-sample-apps",
@@ -2296,7 +2898,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sql-query-profiler-sample-apps"
+      "archive_path": "repos/github.com/guneysus-archieve/sql-query-profiler-sample-apps",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "SqlServer.Rules",
@@ -2308,7 +2912,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/SqlServer.Rules"
+      "archive_path": "repos/github.com/guneysus-archieve/SqlServer.Rules",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Startup-CTO-Handbook",
@@ -2320,7 +2926,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Startup-CTO-Handbook"
+      "archive_path": "repos/github.com/guneysus-archieve/Startup-CTO-Handbook",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "swe-route-optimization-project",
@@ -2332,7 +2940,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/swe-route-optimization-project"
+      "archive_path": "repos/github.com/guneysus-archieve/swe-route-optimization-project",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "todo-gql",
@@ -2344,7 +2954,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/todo-gql"
+      "archive_path": "repos/github.com/guneysus-archieve/todo-gql",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "torque-collector-net-clickhouse",
@@ -2356,7 +2968,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/torque-collector-net-clickhouse"
+      "archive_path": "repos/github.com/guneysus-archieve/torque-collector-net-clickhouse",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "tutorial-serverless-contact-form",
@@ -2368,7 +2982,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/tutorial-serverless-contact-form"
+      "archive_path": "repos/github.com/guneysus-archieve/tutorial-serverless-contact-form",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Typr",
@@ -2380,7 +2996,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Typr"
+      "archive_path": "repos/github.com/guneysus-archieve/Typr",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Typr.Source",
@@ -2392,7 +3010,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Typr.Source"
+      "archive_path": "repos/github.com/guneysus-archieve/Typr.Source",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "whatismybrowser",
@@ -2404,7 +3024,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/whatismybrowser"
+      "archive_path": "repos/github.com/guneysus-archieve/whatismybrowser",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "wsdl2swagger2openapi",
@@ -2416,7 +3038,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/wsdl2swagger2openapi"
+      "archive_path": "repos/github.com/guneysus-archieve/wsdl2swagger2openapi",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "wxdatcom",
@@ -2428,7 +3052,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/wxdatcom"
+      "archive_path": "repos/github.com/guneysus-archieve/wxdatcom",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dotnetcore-imageserver",
@@ -2440,7 +3066,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dotnetcore-imageserver"
+      "archive_path": "repos/github.com/guneysus-archieve/dotnetcore-imageserver",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "DotNetHooking",
@@ -2452,7 +3080,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/DotNetHooking"
+      "archive_path": "repos/github.com/guneysus-archieve/DotNetHooking",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "DotNextMoscow2019",
@@ -2464,7 +3094,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/DotNextMoscow2019"
+      "archive_path": "repos/github.com/guneysus-archieve/DotNextMoscow2019",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "git-ctf",
@@ -2476,7 +3108,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/git-ctf"
+      "archive_path": "repos/github.com/guneysus-archieve/git-ctf",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "git-presentation",
@@ -2488,7 +3122,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/git-presentation"
+      "archive_path": "repos/github.com/guneysus-archieve/git-presentation",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "hg",
@@ -2500,7 +3136,9 @@
       "source": "github",
       "owner": "guneysus",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/hg"
+      "archive_path": "repos/github.com/guneysus-archieve/hg",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "har-spec",
@@ -2512,7 +3150,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/har-spec"
+      "archive_path": "repos/github.com/guneysus-archieve/har-spec",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "heceleme",
@@ -2524,7 +3164,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/heceleme"
+      "archive_path": "repos/github.com/guneysus-archieve/heceleme",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Heijden.Dns",
@@ -2536,7 +3178,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Heijden.Dns"
+      "archive_path": "repos/github.com/guneysus-archieve/Heijden.Dns",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "humanizer-tr",
@@ -2548,7 +3192,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/humanizer-tr"
+      "archive_path": "repos/github.com/guneysus-archieve/humanizer-tr",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ildasm",
@@ -2560,7 +3206,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ildasm"
+      "archive_path": "repos/github.com/guneysus-archieve/ildasm",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ILProgramming",
@@ -2572,7 +3220,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ILProgramming"
+      "archive_path": "repos/github.com/guneysus-archieve/ILProgramming",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ILProj",
@@ -2584,7 +3234,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ILProj"
+      "archive_path": "repos/github.com/guneysus-archieve/ILProj",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "interview-downtime-alerter-service",
@@ -2596,7 +3248,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/interview-downtime-alerter-service"
+      "archive_path": "repos/github.com/guneysus-archieve/interview-downtime-alerter-service",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "interview-project-mars-rover-tdd",
@@ -2608,7 +3262,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/interview-project-mars-rover-tdd"
+      "archive_path": "repos/github.com/guneysus-archieve/interview-project-mars-rover-tdd",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "kvb-iot-demo",
@@ -2620,7 +3276,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/kvb-iot-demo"
+      "archive_path": "repos/github.com/guneysus-archieve/kvb-iot-demo",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "LightQuery",
@@ -2632,7 +3290,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/LightQuery"
+      "archive_path": "repos/github.com/guneysus-archieve/LightQuery",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "loadlibrary",
@@ -2644,7 +3304,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/loadlibrary"
+      "archive_path": "repos/github.com/guneysus-archieve/loadlibrary",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "managed-x86",
@@ -2656,7 +3318,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/managed-x86"
+      "archive_path": "repos/github.com/guneysus-archieve/managed-x86",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "MethodRedirect",
@@ -2668,7 +3332,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/MethodRedirect"
+      "archive_path": "repos/github.com/guneysus-archieve/MethodRedirect",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "minsk",
@@ -2680,7 +3346,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/minsk"
+      "archive_path": "repos/github.com/guneysus-archieve/minsk",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mssql-TableTruncate",
@@ -2692,7 +3360,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/mssql-TableTruncate"
+      "archive_path": "repos/github.com/guneysus-archieve/mssql-TableTruncate",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mssql-tools",
@@ -2704,7 +3374,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/mssql-tools"
+      "archive_path": "repos/github.com/guneysus-archieve/mssql-tools",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "mssqlfs",
@@ -2716,7 +3388,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/mssqlfs"
+      "archive_path": "repos/github.com/guneysus-archieve/mssqlfs",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "musahid",
@@ -2728,7 +3402,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/musahid"
+      "archive_path": "repos/github.com/guneysus-archieve/musahid",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "nemerle",
@@ -2740,7 +3416,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/nemerle"
+      "archive_path": "repos/github.com/guneysus-archieve/nemerle",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NGINX-Demos",
@@ -2752,7 +3430,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/NGINX-Demos"
+      "archive_path": "repos/github.com/guneysus-archieve/NGINX-Demos",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "NRules",
@@ -2764,7 +3444,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/NRules"
+      "archive_path": "repos/github.com/guneysus-archieve/NRules",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ntpserver",
@@ -2776,7 +3458,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ntpserver"
+      "archive_path": "repos/github.com/guneysus-archieve/ntpserver",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Object-Initialization-in-CSharp",
@@ -2788,7 +3472,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Object-Initialization-in-CSharp"
+      "archive_path": "repos/github.com/guneysus-archieve/Object-Initialization-in-CSharp",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "openresty-gateway-waf",
@@ -2800,7 +3486,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/openresty-gateway-waf"
+      "archive_path": "repos/github.com/guneysus-archieve/openresty-gateway-waf",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "openresty-twitter-clone",
@@ -2812,7 +3500,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/openresty-twitter-clone"
+      "archive_path": "repos/github.com/guneysus-archieve/openresty-twitter-clone",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Parallel-Evolution",
@@ -2824,7 +3514,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Parallel-Evolution"
+      "archive_path": "repos/github.com/guneysus-archieve/Parallel-Evolution",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "perfect-presentation",
@@ -2836,7 +3528,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/perfect-presentation"
+      "archive_path": "repos/github.com/guneysus-archieve/perfect-presentation",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "performance-optimization",
@@ -2848,7 +3542,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/performance-optimization"
+      "archive_path": "repos/github.com/guneysus-archieve/performance-optimization",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "peview",
@@ -2860,7 +3556,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/peview"
+      "archive_path": "repos/github.com/guneysus-archieve/peview",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "PiOBDII",
@@ -2872,7 +3570,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/PiOBDII"
+      "archive_path": "repos/github.com/guneysus-archieve/PiOBDII",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "playbook",
@@ -2884,7 +3584,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/playbook"
+      "archive_path": "repos/github.com/guneysus-archieve/playbook",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "pose",
@@ -2896,7 +3598,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/pose"
+      "archive_path": "repos/github.com/guneysus-archieve/pose",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "prayer-times-android",
@@ -2908,7 +3612,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/prayer-times-android"
+      "archive_path": "repos/github.com/guneysus-archieve/prayer-times-android",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "prayer-times-api",
@@ -2920,7 +3626,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/prayer-times-api"
+      "archive_path": "repos/github.com/guneysus-archieve/prayer-times-api",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "predicate-builder",
@@ -2932,7 +3640,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/predicate-builder"
+      "archive_path": "repos/github.com/guneysus-archieve/predicate-builder",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "project-switcher",
@@ -2944,7 +3654,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/project-switcher"
+      "archive_path": "repos/github.com/guneysus-archieve/project-switcher",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "pw",
@@ -2956,7 +3668,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/pw"
+      "archive_path": "repos/github.com/guneysus-archieve/pw",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "python-sqlite-json-explorer",
@@ -2968,7 +3682,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/python-sqlite-json-explorer"
+      "archive_path": "repos/github.com/guneysus-archieve/python-sqlite-json-explorer",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "pytotube",
@@ -2980,7 +3696,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/pytotube"
+      "archive_path": "repos/github.com/guneysus-archieve/pytotube",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Random-Problems",
@@ -2992,7 +3710,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Random-Problems"
+      "archive_path": "repos/github.com/guneysus-archieve/Random-Problems",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sandbox-net",
@@ -3004,7 +3724,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sandbox-net"
+      "archive_path": "repos/github.com/guneysus-archieve/sandbox-net",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "selenium-webdriver-winappdriver-example",
@@ -3016,7 +3738,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example"
+      "archive_path": "repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sensorfusion-gps-process",
@@ -3028,7 +3752,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sensorfusion-gps-process"
+      "archive_path": "repos/github.com/guneysus-archieve/sensorfusion-gps-process",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sid",
@@ -3040,7 +3766,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sid"
+      "archive_path": "repos/github.com/guneysus-archieve/sid",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "side-projects",
@@ -3052,7 +3780,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/side-projects"
+      "archive_path": "repos/github.com/guneysus-archieve/side-projects",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sitemap-parser",
@@ -3064,7 +3794,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sitemap-parser"
+      "archive_path": "repos/github.com/guneysus-archieve/sitemap-parser",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "snake",
@@ -3076,7 +3808,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/snake"
+      "archive_path": "repos/github.com/guneysus-archieve/snake",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "snow-flakes-js",
@@ -3088,7 +3822,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/snow-flakes-js"
+      "archive_path": "repos/github.com/guneysus-archieve/snow-flakes-js",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "speedcrunch.net",
@@ -3100,7 +3836,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/speedcrunch.net"
+      "archive_path": "repos/github.com/guneysus-archieve/speedcrunch.net",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sql-injection",
@@ -3112,7 +3850,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sql-injection"
+      "archive_path": "repos/github.com/guneysus-archieve/sql-injection",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "sscli20_20060311",
@@ -3124,7 +3864,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/sscli20_20060311"
+      "archive_path": "repos/github.com/guneysus-archieve/sscli20_20060311",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "symreader-converter",
@@ -3136,7 +3878,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/symreader-converter"
+      "archive_path": "repos/github.com/guneysus-archieve/symreader-converter",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "testere",
@@ -3148,7 +3892,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/testere"
+      "archive_path": "repos/github.com/guneysus-archieve/testere",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Todos",
@@ -3160,7 +3906,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Todos"
+      "archive_path": "repos/github.com/guneysus-archieve/Todos",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "underscore-net-docs",
@@ -3172,7 +3920,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/underscore-net-docs"
+      "archive_path": "repos/github.com/guneysus-archieve/underscore-net-docs",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "underscore.net",
@@ -3184,7 +3934,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/underscore.net"
+      "archive_path": "repos/github.com/guneysus-archieve/underscore.net",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "understanding-csrf",
@@ -3196,7 +3948,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/understanding-csrf"
+      "archive_path": "repos/github.com/guneysus-archieve/understanding-csrf",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "unicode_tr",
@@ -3208,7 +3962,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/unicode_tr"
+      "archive_path": "repos/github.com/guneysus-archieve/unicode_tr",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "uxplay",
@@ -3220,7 +3976,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/uxplay"
+      "archive_path": "repos/github.com/guneysus-archieve/uxplay",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Virtual-in-Constructor",
@@ -3232,7 +3990,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Virtual-in-Constructor"
+      "archive_path": "repos/github.com/guneysus-archieve/Virtual-in-Constructor",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "vulnerable-api",
@@ -3244,7 +4004,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/vulnerable-api"
+      "archive_path": "repos/github.com/guneysus-archieve/vulnerable-api",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "web-layouts",
@@ -3256,7 +4018,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/web-layouts"
+      "archive_path": "repos/github.com/guneysus-archieve/web-layouts",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "wox-prayer-times-plugin",
@@ -3268,7 +4032,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/wox-prayer-times-plugin"
+      "archive_path": "repos/github.com/guneysus-archieve/wox-prayer-times-plugin",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "wxdatcom-2",
@@ -3280,7 +4046,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/wxdatcom-2"
+      "archive_path": "repos/github.com/guneysus-archieve/wxdatcom-2",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": ".template-powershell-core-binary-module",
@@ -3292,7 +4060,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/.template-powershell-core-binary-module"
+      "archive_path": "repos/github.com/guneysus-archieve/.template-powershell-core-binary-module",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Antlr4.Extension",
@@ -3304,7 +4074,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Antlr4.Extension"
+      "archive_path": "repos/github.com/guneysus-archieve/Antlr4.Extension",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "ascii_b64",
@@ -3316,7 +4088,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/ascii_b64"
+      "archive_path": "repos/github.com/guneysus-archieve/ascii_b64",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "asprofiled",
@@ -3328,7 +4102,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/asprofiled"
+      "archive_path": "repos/github.com/guneysus-archieve/asprofiled",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "bin_b64",
@@ -3340,7 +4116,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/bin_b64"
+      "archive_path": "repos/github.com/guneysus-archieve/bin_b64",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "calcpaper",
@@ -3352,7 +4130,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/calcpaper"
+      "archive_path": "repos/github.com/guneysus-archieve/calcpaper",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "clr-profiling",
@@ -3364,7 +4144,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/clr-profiling"
+      "archive_path": "repos/github.com/guneysus-archieve/clr-profiling",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp-connected-disconnected",
@@ -3376,7 +4158,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp-connected-disconnected"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp-connected-disconnected",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.dotnet.custom-config-generator",
@@ -3388,7 +4172,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.dotnet.custom-config-generator"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.dotnet.custom-config-generator",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.generic.db.view",
@@ -3400,7 +4186,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.generic.db.view"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.generic.db.view",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.hw.northwind.sepet",
@@ -3412,7 +4200,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.hw.northwind.sepet"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.hw.northwind.sepet",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.mvc.blog.hw",
@@ -3424,7 +4214,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.mvc.blog.hw"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.mvc.blog.hw",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.mvc.nw.intro",
@@ -3436,7 +4228,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.mvc.nw.intro"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.mvc.nw.intro",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.oop.uygulama",
@@ -3448,7 +4242,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.oop.uygulama"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.oop.uygulama",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "csharp.winforms.autocomplete",
@@ -3460,7 +4256,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/csharp.winforms.autocomplete"
+      "archive_path": "repos/github.com/guneysus-archieve/csharp.winforms.autocomplete",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "des",
@@ -3472,7 +4270,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/des"
+      "archive_path": "repos/github.com/guneysus-archieve/des",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "Disposable-Pattern",
@@ -3484,7 +4284,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/Disposable-Pattern"
+      "archive_path": "repos/github.com/guneysus-archieve/Disposable-Pattern",
+      "canonical": true,
+      "duplicate_of": null
     },
     {
       "name": "dot",
@@ -3496,7 +4298,9 @@
       "source": "github",
       "owner": "guneysus-archieve",
       "archive_repo": "github-guneysus-archive",
-      "archive_path": "repos/github.com/guneysus-archieve/dot"
+      "archive_path": "repos/github.com/guneysus-archieve/dot",
+      "canonical": true,
+      "duplicate_of": null
     }
   ]
 }
