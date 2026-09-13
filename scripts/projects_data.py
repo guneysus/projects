@@ -19,15 +19,29 @@ Each entry:
 # ---------------------------------------------------------------------------
 # Archive monorepos (origins)
 #
-# NOTE: guneysu/archive and guneysu/gitlab-archive are TWO SEPARATE repos.
-#   - guneysu/archive        : the active, comprehensive archive (repos/github.com
-#                              + repos/gitlab.com + forks). This is where Dymo and
-#                              many other projects live.
-#   - guneysu/gitlab-archive : an older, ARCHIVED subset (repos/guneysu +
-#                              repos/guneysu.dev). The local folder `gitlab-archive`
-#                              tracks THIS repo.
-# They were previously conflated into a single entry, which caused projects in
-# guneysu/archive (e.g. Dymo) to be missed. They are now separate entries.
+# There are THREE separate archive repos, each with its own origins:
+#
+#   1. guneysu/archive (source of truth)
+#      - Local:  X:\git\github.com\guneysus\github-archive
+#      - GitHub: git@github.com:guneysus/archive.git        (origin, primary)
+#      - GitLab: git@gitlab.com:guneysu/archive.git          (mirror)
+#      - Gitea:  gitea@192.168.1.19:guneysu.dev/github-archive.git (mirror)
+#      - Default branch: develop
+#
+#   2. guneysu/gitlab-archive (archived subset)
+#      - Local:  X:\git\gitlab.com\guneysu\gitlab-archive
+#      - GitLab: git@gitlab.com:guneysu/gitlab-archive.git  (origin)
+#      - Default branch: main
+#      NOTE: This is a SEPARATE repo from guneysu/archive. It is NOT a mirror
+#      of the GitHub archive, so it has no GitHub origin.
+#
+#   3. guneysu/github-guneysus-archive (GitHub projects archive, hosted on GitLab)
+#      - Local:  X:\git\gitlab.com\guneysu\github-guneysus-archive
+#      - GitLab: git@gitlab.com:guneysu/github-guneysus-archive.git (origin)
+#      - Gitea:  gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git (mirror)
+#      - Default branch: main
+#      NOTE: Despite the name, this repo is HOSTED on GitLab. It archives
+#      GitHub-origin projects but is not itself on GitHub.
 # ---------------------------------------------------------------------------
 ARCHIVES = {
     "archive": {
