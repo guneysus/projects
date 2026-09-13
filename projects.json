@@ -3,7 +3,7 @@
     "archive": {
       "label": "Archive",
       "local_path": "X:\\git\\github.com\\guneysus\\github-archive",
-      "web_url": "https://github.com/guneysus/archive",
+      "web_url": "https://gitlab.com/guneysu/archive",
       "branch": "develop",
       "origins": [
         "git@github.com:guneysus/archive.git",

@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/GraphQL.Tools](https://github.com/guneysus/GraphQL.Tools)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/GraphQL.Tools](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/GraphQL.Tools)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/GraphQL.Tools](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/GraphQL.Tools)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/GraphQL.Tools`
 

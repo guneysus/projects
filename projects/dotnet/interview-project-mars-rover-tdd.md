@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/interview-project-mars-rover-tdd](https://github.com/guneysus/interview-project-mars-rover-tdd)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/interview-project-mars-rover-tdd](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/interview-project-mars-rover-tdd)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/interview-project-mars-rover-tdd](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/interview-project-mars-rover-tdd)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/interview-project-mars-rover-tdd`
 

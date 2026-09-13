@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/csharp.dotnet.custom-config-generator](https://github.com/guneysus/csharp.dotnet.custom-config-generator)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/csharp.dotnet.custom-config-generator](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/csharp.dotnet.custom-config-generator)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/csharp.dotnet.custom-config-generator](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/csharp.dotnet.custom-config-generator)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/csharp.dotnet.custom-config-generator`
 

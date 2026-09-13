@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/PluginFramework](https://github.com/guneysus/PluginFramework)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/PluginFramework](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/PluginFramework)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/PluginFramework](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/PluginFramework)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus/PluginFramework`
 

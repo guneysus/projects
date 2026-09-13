@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Design-Patterns](https://github.com/guneysus-archieve/Design-Patterns)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Design-Patterns](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Design-Patterns)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Design-Patterns](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Design-Patterns)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/Design-Patterns`
 

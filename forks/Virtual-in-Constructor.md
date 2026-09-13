@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Virtual-in-Constructor](https://github.com/guneysus-archieve/Virtual-in-Constructor)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Virtual-in-Constructor)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/Virtual-in-Constructor`
 

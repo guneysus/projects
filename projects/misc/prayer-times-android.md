@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/prayer-times-android](https://github.com/guneysus/prayer-times-android)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prayer-times-android](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prayer-times-android)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prayer-times-android](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prayer-times-android)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/prayer-times-android`
 

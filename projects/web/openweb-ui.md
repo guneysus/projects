@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/openweb-ui](https://gitlab.com/guneysu/openweb-ui)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/openweb-ui](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/openweb-ui)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/openweb-ui](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/openweb-ui)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/openweb-ui`
 

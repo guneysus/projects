@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/humanizer-tr](https://github.com/guneysus/humanizer-tr)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/humanizer-tr](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/humanizer-tr)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/humanizer-tr](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/humanizer-tr)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/humanizer-tr`
 

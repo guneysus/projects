@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/dotnet-sandbox-2](https://github.com/guneysus-archieve/dotnet-sandbox-2)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-sandbox-2](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-sandbox-2)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/dotnet-sandbox-2](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/dotnet-sandbox-2)
 - **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/dotnet-sandbox-2`
 

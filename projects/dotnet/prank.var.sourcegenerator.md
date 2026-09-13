@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/prank.var.sourcegenerator](https://github.com/guneysus/prank.var.sourcegenerator)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prank.var.sourcegenerator](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prank.var.sourcegenerator)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prank.var.sourcegenerator](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prank.var.sourcegenerator)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/prank.var.sourcegenerator`
 

@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Language-Designs-For-Web](https://github.com/guneysus/Language-Designs-For-Web)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Language-Designs-For-Web](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Language-Designs-For-Web)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Language-Designs-For-Web](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Language-Designs-For-Web)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/Language-Designs-For-Web`
 

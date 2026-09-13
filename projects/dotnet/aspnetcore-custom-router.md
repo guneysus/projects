@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/aspnetcore-custom-router](https://github.com/guneysus/aspnetcore-custom-router)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnetcore-custom-router](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/aspnetcore-custom-router)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/aspnetcore-custom-router](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/aspnetcore-custom-router)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/aspnetcore-custom-router`
 

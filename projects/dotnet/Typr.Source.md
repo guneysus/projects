@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Typr.Source](https://github.com/guneysus/Typr.Source)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Typr.Source](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Typr.Source)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr.Source](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/Typr.Source)
 - **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Typr.Source`
 

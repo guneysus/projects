@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/boilerplate](https://github.com/guneysus/boilerplate)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/boilerplate](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/boilerplate)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/boilerplate](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/boilerplate)
 - **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/boilerplate`
 

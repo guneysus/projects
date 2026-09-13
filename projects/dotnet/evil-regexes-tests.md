@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/evil-regexes-tests](https://github.com/guneysus/evil-regexes-tests)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/evil-regexes-tests](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/evil-regexes-tests)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/evil-regexes-tests](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/evil-regexes-tests)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/evil-regexes-tests`
 

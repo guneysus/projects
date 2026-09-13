@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/snake](https://github.com/guneysus/snake)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snake](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/snake)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/snake](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/snake)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/snake`
 

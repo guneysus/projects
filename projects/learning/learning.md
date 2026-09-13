@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/learning](https://github.com/guneysus/learning)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learning](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/learning)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/learning](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/learning)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/learning`
 

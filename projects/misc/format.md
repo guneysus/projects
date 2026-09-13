@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/format](https://gitlab.com/guneysu/format)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/format](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/format)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/format](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/format)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/format`
 

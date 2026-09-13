@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/aeronautical-eng-simulations](https://gitlab.com/guneysu/aeronautical-eng-simulations)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/aeronautical-eng-simulations](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/aeronautical-eng-simulations)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/aeronautical-eng-simulations](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/aeronautical-eng-simulations)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/aeronautical-eng-simulations`
 

@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/learn-fsharp](https://github.com/guneysus/learn-fsharp)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-fsharp](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/learn-fsharp)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/learn-fsharp](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/learn-fsharp)
 - **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/learn-fsharp`
 

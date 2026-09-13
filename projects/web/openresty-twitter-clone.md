@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/openresty-twitter-clone](https://github.com/guneysus/openresty-twitter-clone)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/openresty-twitter-clone](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/openresty-twitter-clone)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/openresty-twitter-clone](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/openresty-twitter-clone)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/openresty-twitter-clone`
 

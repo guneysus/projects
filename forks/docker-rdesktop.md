@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/docker-rdesktop](https://github.com/guneysus-archieve/docker-rdesktop)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-rdesktop](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/docker-rdesktop)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/docker-rdesktop](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/docker-rdesktop)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/docker-rdesktop`
 

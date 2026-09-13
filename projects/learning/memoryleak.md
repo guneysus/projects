@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/memoryleak](https://github.com/guneysus/memoryleak)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/memoryleak](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/memoryleak)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/memoryleak](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/memoryleak)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/memoryleak`
 

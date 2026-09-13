@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/proxmox-scripts](https://github.com/guneysus/proxmox-scripts)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/proxmox-scripts](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/proxmox-scripts)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/proxmox-scripts](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/proxmox-scripts)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/proxmox-scripts`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/aws_list_all](https://github.com/guneysus-archieve/aws_list_all)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/aws_list_all](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/aws_list_all)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/aws_list_all](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/aws_list_all)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/aws_list_all`
 

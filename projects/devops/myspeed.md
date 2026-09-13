@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/myspeed](https://gitlab.com/guneysu/myspeed)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/myspeed](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/myspeed)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/myspeed](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/myspeed)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/myspeed`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/mock-server](https://github.com/guneysus/mock-server)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/mock-server](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/mock-server)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/mock-server](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/mock-server)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/mock-server`
 

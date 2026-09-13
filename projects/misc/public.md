@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/public](https://github.com/guneysus/public)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/public](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/public)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/public](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/public)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/public`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/source-generators](https://github.com/guneysus/source-generators)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/source-generators](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/source-generators)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/source-generators](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/source-generators)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/source-generators`
 

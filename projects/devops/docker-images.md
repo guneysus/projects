@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/docker-images](https://github.com/guneysus/docker-images)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/docker-images](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/docker-images)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/docker-images](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/docker-images)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/docker-images`
 

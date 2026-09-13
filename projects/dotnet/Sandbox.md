@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Sandbox](https://github.com/guneysus/Sandbox)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Sandbox](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Sandbox)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Sandbox](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/Sandbox)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/Sandbox`
 

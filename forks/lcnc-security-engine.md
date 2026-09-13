@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/lcnc-security-engine)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus/lcnc-security-engine)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/lcnc-security-engine](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus/lcnc-security-engine)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus/lcnc-security-engine`
 

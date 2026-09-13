@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/parsers](https://gitlab.com/guneysu/parsers)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/parsers](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/parsers)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/parsers](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/parsers)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/parsers`
 

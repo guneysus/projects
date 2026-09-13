@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/ascii_b64](https://github.com/guneysus-archieve/ascii_b64)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ascii_b64](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/ascii_b64)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ascii_b64](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/ascii_b64)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/ascii_b64`
 

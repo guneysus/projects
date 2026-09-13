@@ -21,7 +21,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/guneysu.dev](https://github.com/guneysus/guneysu.dev)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/guneysu.dev](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/guneysu.dev)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/guneysu.dev](https://gitlab.com/guneysu/github-guneysus-archive/-/tree/main/repos/github.com/guneysus-archieve/guneysu.dev)
 - **Archive monorepo:** GitHub Projects Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/guneysu.dev`
 

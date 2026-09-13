@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/browser-pick](https://github.com/guneysus/browser-pick)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/browser-pick](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/browser-pick)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/browser-pick](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/browser-pick)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/browser-pick`
 

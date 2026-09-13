@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/MethodRedirect](https://github.com/guneysus-archieve/MethodRedirect)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/MethodRedirect](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/MethodRedirect)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/MethodRedirect](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/MethodRedirect)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/MethodRedirect`
 

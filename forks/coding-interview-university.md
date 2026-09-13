@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/coding-interview-university](https://github.com/guneysus-archieve/coding-interview-university)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/coding-interview-university](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/coding-interview-university)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/coding-interview-university](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/coding-interview-university)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/coding-interview-university`
 

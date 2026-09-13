@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/SA-tech-stack-ga](https://gitlab.com/guneysu/SA-tech-stack-ga)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/SA-tech-stack-ga](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/SA-tech-stack-ga)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/SA-tech-stack-ga](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/SA-tech-stack-ga)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/SA-tech-stack-ga`
 

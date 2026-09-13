@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/DotNextMoscow2019](https://github.com/guneysus-archieve/DotNextMoscow2019)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/DotNextMoscow2019](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/DotNextMoscow2019)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/DotNextMoscow2019](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/DotNextMoscow2019)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/DotNextMoscow2019`
 

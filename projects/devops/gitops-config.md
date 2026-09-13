@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/gitops-config](https://gitlab.com/guneysu/gitops-config)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/gitops-config](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/gitops-config)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/gitops-config](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/gitops-config)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/gitops-config`
 

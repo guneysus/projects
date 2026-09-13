@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/csharp.mvc.blog.hw](https://github.com/guneysus/csharp.mvc.blog.hw)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/csharp.mvc.blog.hw](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/csharp.mvc.blog.hw)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/csharp.mvc.blog.hw](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/csharp.mvc.blog.hw)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/csharp.mvc.blog.hw`
 

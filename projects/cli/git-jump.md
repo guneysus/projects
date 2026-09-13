@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/git-jump](https://github.com/guneysus/git-jump)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/git-jump](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/git-jump)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/git-jump](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/git-jump)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/git-jump`
 

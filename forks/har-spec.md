@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/har-spec](https://github.com/guneysus-archieve/har-spec)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/har-spec](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/har-spec)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/har-spec](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/har-spec)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/har-spec`
 

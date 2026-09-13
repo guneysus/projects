@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/NullFixEnumerable.Fody](https://github.com/guneysus/NullFixEnumerable.Fody)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/NullFixEnumerable.Fody](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/NullFixEnumerable.Fody)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/NullFixEnumerable.Fody](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/NullFixEnumerable.Fody)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/NullFixEnumerable.Fody`
 

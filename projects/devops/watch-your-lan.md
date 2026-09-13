@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/watch-your-lan](https://gitlab.com/guneysu/watch-your-lan)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/watch-your-lan](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/watch-your-lan)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/watch-your-lan](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/watch-your-lan)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/watch-your-lan`
 

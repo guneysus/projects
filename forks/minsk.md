@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/minsk](https://github.com/guneysus-archieve/minsk)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/minsk](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/minsk)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/minsk](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/minsk)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/minsk`
 

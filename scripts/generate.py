@@ -71,6 +71,9 @@ def archive_label(project):
 def archive_url(project):
     """Build a clickable link to the project's current location in the archive monorepo."""
     arch = ARCHIVES[project["archive_repo"]]
+    # GitLab uses /-/tree/<branch>/<path>; GitHub uses /tree/<branch>/<path>
+    if "gitlab.com" in arch["web_url"]:
+        return f"{arch['web_url']}/-/tree/{arch['branch']}/{project['archive_path']}"
     return f"{arch['web_url']}/tree/{arch['branch']}/{project['archive_path']}"
 
 

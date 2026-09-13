@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/nqrgen](https://github.com/guneysus/nqrgen)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/nqrgen](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/nqrgen)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/nqrgen](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/nqrgen)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/nqrgen`
 

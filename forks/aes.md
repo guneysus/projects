@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/aes](https://github.com/guneysus-archieve/aes)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/aes](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/aes)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/aes](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/aes)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/aes`
 

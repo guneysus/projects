@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/backstage](https://gitlab.com/guneysu/backstage)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/backstage](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/backstage)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/backstage](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/backstage)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/backstage`
 

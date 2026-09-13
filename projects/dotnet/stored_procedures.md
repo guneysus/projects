@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/stored_procedures](https://github.com/guneysus/stored_procedures)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/stored_procedures](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/stored_procedures)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/stored_procedures](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/stored_procedures)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/stored_procedures`
 

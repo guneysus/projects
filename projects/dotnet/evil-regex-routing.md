@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/evil-regex-routing](https://github.com/guneysus/evil-regex-routing)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/evil-regex-routing](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/evil-regex-routing)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/evil-regex-routing](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/evil-regex-routing)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/evil-regex-routing`
 

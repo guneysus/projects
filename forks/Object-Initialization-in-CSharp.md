@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Object-Initialization-in-CSharp](https://github.com/guneysus-archieve/Object-Initialization-in-CSharp)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/Object-Initialization-in-CSharp`
 

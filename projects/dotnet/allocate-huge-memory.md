@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/allocate-huge-memory](https://github.com/guneysus/allocate-huge-memory)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/allocate-huge-memory](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/allocate-huge-memory)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/allocate-huge-memory](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/allocate-huge-memory)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/allocate-huge-memory`
 

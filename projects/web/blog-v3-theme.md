@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/blog-v3-theme](https://github.com/guneysus/blog-v3-theme)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/blog-v3-theme](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/blog-v3-theme)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/blog-v3-theme](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/blog-v3-theme)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/blog-v3-theme`
 

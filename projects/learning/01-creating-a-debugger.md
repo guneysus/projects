@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/01-creating-a-debugger](https://github.com/guneysus/01-creating-a-debugger)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/01-creating-a-debugger](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/01-creating-a-debugger)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/01-creating-a-debugger](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/01-creating-a-debugger)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/01-creating-a-debugger`
 

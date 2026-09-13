@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/speedcrunch.net](https://github.com/guneysus/speedcrunch.net)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/speedcrunch.net](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/speedcrunch.net)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/speedcrunch.net](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/speedcrunch.net)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/speedcrunch.net`
 

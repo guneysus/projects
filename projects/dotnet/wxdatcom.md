@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/wxdatcom](https://github.com/guneysus/wxdatcom)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/wxdatcom](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/wxdatcom)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/wxdatcom](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/wxdatcom)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/wxdatcom`
 

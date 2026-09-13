@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotfiles](https://github.com/guneysus/dotfiles)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotfiles](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/dotfiles)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotfiles](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/dotfiles)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/dotfiles`
 

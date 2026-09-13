@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/vaultwarden](https://gitlab.com/guneysu/vaultwarden)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/vaultwarden](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/vaultwarden)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/vaultwarden](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/vaultwarden)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/vaultwarden`
 

@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/ntfy](https://gitlab.com/guneysu/ntfy)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/ntfy](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/ntfy)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/ntfy](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/ntfy)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/ntfy`
 

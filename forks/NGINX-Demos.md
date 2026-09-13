@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/NGINX-Demos](https://github.com/guneysus-archieve/NGINX-Demos)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/NGINX-Demos](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/NGINX-Demos)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/NGINX-Demos](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/NGINX-Demos)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/NGINX-Demos`
 

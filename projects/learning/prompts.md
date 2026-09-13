@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/prompts](https://github.com/guneysus/prompts)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prompts](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/prompts)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prompts](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/prompts)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/prompts`
 

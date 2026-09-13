@@ -20,7 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/bin](https://github.com/guneysus-archieve/bin)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/bin](https://github.com/guneysus/archive/tree/develop/forks/github.com/guneysus-archieve/bin)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/bin](https://gitlab.com/guneysu/archive/-/tree/develop/forks/github.com/guneysus-archieve/bin)
 - **Archive monorepo:** Archive
 - **Archive path:** `forks/github.com/guneysus-archieve/bin`
 

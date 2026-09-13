@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/rende](https://github.com/guneysus/rende)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/rende](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/rende)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/rende](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/rende)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/rende`
 

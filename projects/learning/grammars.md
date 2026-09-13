@@ -28,7 +28,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/grammars](https://github.com/guneysus/grammars)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/grammars](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/grammars)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/grammars](https://gitlab.com/guneysu/archive/-/tree/develop/repos/github.com/guneysus/grammars)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/grammars`
 

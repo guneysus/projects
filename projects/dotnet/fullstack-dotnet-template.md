@@ -27,7 +27,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/fullstack-dotnet-template](https://gitlab.com/guneysu/fullstack-dotnet-template)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template](https://github.com/guneysus/archive/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template)
+- **Current location:** [https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template](https://gitlab.com/guneysu/archive/-/tree/develop/repos/gitlab.com/guneysu/fullstack-dotnet-template)
 - **Archive monorepo:** Archive
 - **Archive path:** `repos/gitlab.com/guneysu/fullstack-dotnet-template`
 
