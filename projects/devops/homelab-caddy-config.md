@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/homelab-caddy-config](https://gitlab.com/guneysu/homelab-caddy-config)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/homelab-caddy-config](https://github.com/guneysus/archive/tree/main/repos/guneysu/homelab-caddy-config)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/homelab-caddy-config](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/homelab-caddy-config)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/homelab-caddy-config`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

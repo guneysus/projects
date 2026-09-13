@@ -19,6 +19,7 @@ from projects_data import (
     ARCHIVES,
     CATEGORIES,
     PROJECT_CATEGORIES,
+    ARCHIVE_PROJECTS,
     GITLAB_ARCHIVE_PROJECTS,
     GITHUB_ARCHIVE_PROJECTS,
     GITHUB_ARCHIVE_EXTRA_PROJECTS,
@@ -236,6 +237,10 @@ def main():
 
     # Tag each project with its archive repo
     projects = []
+    for p in ARCHIVE_PROJECTS:
+        p = dict(p)
+        p["archive_repo"] = "archive"
+        projects.append(p)
     for p in GITLAB_ARCHIVE_PROJECTS:
         p = dict(p)
         p["archive_repo"] = "gitlab-archive"

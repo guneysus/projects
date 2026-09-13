@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/backstage](https://gitlab.com/guneysu/backstage)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/backstage](https://github.com/guneysus/archive/tree/main/repos/guneysu/backstage)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/backstage](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/backstage)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/backstage`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

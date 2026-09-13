@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/torque-collector](https://gitlab.com/guneysu/torque-collector)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/torque-collector](https://github.com/guneysus/archive/tree/main/repos/guneysu/torque-collector)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/torque-collector](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/torque-collector)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/torque-collector`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

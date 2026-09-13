@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu.dev/form-flow](https://gitlab.com/guneysu.dev/form-flow)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu.dev/form-flow](https://github.com/guneysus/archive/tree/main/repos/guneysu.dev/form-flow)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu.dev/form-flow](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu.dev/form-flow)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu.dev/form-flow`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

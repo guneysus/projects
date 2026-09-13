@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/prompt-library](https://gitlab.com/guneysu/prompt-library)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/prompt-library](https://github.com/guneysus/archive/tree/main/repos/guneysu/prompt-library)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/prompt-library](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/prompt-library)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/prompt-library`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

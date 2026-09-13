@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/templates](https://gitlab.com/guneysu/templates)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/templates](https://github.com/guneysus/archive/tree/main/repos/guneysu/templates)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/templates](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/templates)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/templates`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---

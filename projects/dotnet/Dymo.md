@@ -20,14 +20,14 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Dymo](https://github.com/guneysus/Dymo)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/github.com/guneysus/Dymo](https://github.com/guneysus/archive/tree/main/repos/github.com/guneysus/Dymo)
-- **Archive monorepo:** GitLab Archive
+- **Current location:** [https://gitlab.com/guneysu/archive/tree/main/repos/github.com/guneysus/Dymo](https://gitlab.com/guneysu/archive/tree/main/repos/github.com/guneysus/Dymo)
+- **Archive monorepo:** Archive
 - **Archive path:** `repos/github.com/guneysus/Dymo`
 
 ## Archive Origins
 
 - `git@github.com:guneysus/archive.git`
-- `git@gitlab.com:guneysu/gitlab-archive.git`
+- `git@gitlab.com:guneysu/archive.git`
 
 ---
 

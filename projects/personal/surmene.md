@@ -20,13 +20,12 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/surmene](https://gitlab.com/guneysu/surmene)
-- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/surmene](https://github.com/guneysus/archive/tree/main/repos/guneysu/surmene)
+- **Current location:** [https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/surmene](https://gitlab.com/guneysu/gitlab-archive/tree/main/repos/guneysu/surmene)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/surmene`
 
 ## Archive Origins
 
-- `git@github.com:guneysus/archive.git`
 - `git@gitlab.com:guneysu/gitlab-archive.git`
 
 ---
