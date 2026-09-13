@@ -1,33 +1,34 @@
 # GraphQL.Tools
 
-> GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `GraphQL.Tools` |
-| **Description** | GraphQL.Tools is a GraphQL to C# compiler (code-generator) which turns your GraphQL schema into a set of C# classes, interfaces, and enums. |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-07-31 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/GraphQL.Tools](https://github.com/guneysus/GraphQL.Tools)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/GraphQL.Tools](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/GraphQL.Tools)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/GraphQL.Tools`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/GraphQL.Tools](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/GraphQL.Tools)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/GraphQL.Tools`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

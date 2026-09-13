@@ -1,33 +1,34 @@
 # hugo-theme-monochrome
 
-> Monochrome is a fast, clean and responsive hugo theme
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `hugo-theme-monochrome` |
-| **Description** | Monochrome is a fast, clean and responsive hugo theme |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-17 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/hugo-theme-monochrome](https://github.com/guneysus/hugo-theme-monochrome)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/hugo-theme-monochrome](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/hugo-theme-monochrome)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/hugo-theme-monochrome`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/hugo-theme-monochrome](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/hugo-theme-monochrome)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/hugo-theme-monochrome`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

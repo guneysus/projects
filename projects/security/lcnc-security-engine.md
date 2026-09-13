@@ -1,4 +1,4 @@
-# sql-query-profiler-sample-apps
+# lcnc-security-engine
 
 > *No description available.*
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `sql-query-profiler-sample-apps` |
+| **Name** | `lcnc-security-engine` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
@@ -19,10 +19,10 @@
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus/sql-query-profiler-sample-apps](https://github.com/guneysus/sql-query-profiler-sample-apps)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/sql-query-profiler-sample-apps](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/sql-query-profiler-sample-apps)
+- **Original repository:** [https://github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/lcnc-security-engine)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/lcnc-security-engine](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/lcnc-security-engine)
 - **Archive monorepo:** Archive
-- **Archive path:** `repos/github.com/guneysus/sql-query-profiler-sample-apps`
+- **Archive path:** `repos/github.com/guneysus/lcnc-security-engine`
 
 ## Archive Origins
 

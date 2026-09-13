@@ -1,33 +1,34 @@
 # EfCoreQueryToolbar
 
-> Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app.
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `EfCoreQueryToolbar` |
-| **Description** | Intercepts SQL queries from Entity Framework Core and shows them in an HTML toolbar within your web app. |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-10-18 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/EfCoreQueryToolbar](https://github.com/guneysus/EfCoreQueryToolbar)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EfCoreQueryToolbar](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/EfCoreQueryToolbar)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/EfCoreQueryToolbar`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/EfCoreQueryToolbar](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/EfCoreQueryToolbar)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/EfCoreQueryToolbar`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

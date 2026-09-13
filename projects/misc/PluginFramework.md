@@ -1,4 +1,4 @@
-# sql-query-profiler-sample-apps
+# PluginFramework
 
 > *No description available.*
 
@@ -8,7 +8,7 @@
 
 | Field | Value |
 | --- | --- |
-| **Name** | `sql-query-profiler-sample-apps` |
+| **Name** | `PluginFramework` |
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
@@ -19,10 +19,10 @@
 
 ## Links
 
-- **Original repository:** [https://github.com/guneysus/sql-query-profiler-sample-apps](https://github.com/guneysus/sql-query-profiler-sample-apps)
-- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/sql-query-profiler-sample-apps](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/sql-query-profiler-sample-apps)
+- **Original repository:** [https://github.com/guneysus/PluginFramework](https://github.com/guneysus/PluginFramework)
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/PluginFramework](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/PluginFramework)
 - **Archive monorepo:** Archive
-- **Archive path:** `repos/github.com/guneysus/sql-query-profiler-sample-apps`
+- **Archive path:** `repos/github.com/guneysus/PluginFramework`
 
 ## Archive Origins
 

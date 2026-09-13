@@ -1,33 +1,34 @@
 # nqrgen
 
-> CLI based QR generator
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `nqrgen` |
-| **Description** | CLI based QR generator |
-| **Visibility** | 🔓 Public |
+| **Description** | *No description available.* |
+| **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2026-01-09 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/nqrgen](https://github.com/guneysus/nqrgen)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/nqrgen](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/nqrgen)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/nqrgen`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/nqrgen](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/nqrgen)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/nqrgen`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

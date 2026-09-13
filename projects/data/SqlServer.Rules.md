@@ -1,33 +1,34 @@
 # SqlServer.Rules
 
-> 120+ SQL Server static code analysis rules for SQL Database Projects
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `SqlServer.Rules` |
-| **Description** | 120+ SQL Server static code analysis rules for SQL Database Projects |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/SqlServer.Rules](https://github.com/guneysus/SqlServer.Rules)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/SqlServer.Rules](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/SqlServer.Rules)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/SqlServer.Rules`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/SqlServer.Rules](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/SqlServer.Rules)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/SqlServer.Rules`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

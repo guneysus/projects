@@ -252,13 +252,59 @@ def build_readme(projects, duplicates):
     return "\n".join(lines)
 
 
+def discover_archive_projects():
+    """Discover projects in the canonical archive repo (source of truth).
+
+    Reads the local clone's repos/ structure and merges with the curated
+    ARCHIVE_PROJECTS list. Curated entries (with descriptions) take precedence;
+    any additional projects found on disk are added with placeholder metadata.
+    """
+    curated = {p["name"]: dict(p) for p in ARCHIVE_PROJECTS}
+    arch = ARCHIVES[CANONICAL_ARCHIVE]
+    repo_root = arch["local_path"]
+    discovered = dict(curated)
+
+    # Map archive subfolder -> (source, owner)
+    sections = {
+        "repos/github.com/guneysus": ("github", "guneysus"),
+        "repos/gitlab.com/guneysu": ("gitlab", "guneysu"),
+        "repos/gitlab.com/guneysu.dev": ("gitlab", "guneysu.dev"),
+    }
+    for sub, (source, owner) in sections.items():
+        full = os.path.join(repo_root, sub)
+        if not os.path.isdir(full):
+            continue
+        for name in os.listdir(full):
+            if not os.path.isdir(os.path.join(full, name)):
+                continue
+            if name in discovered:
+                continue
+            discovered[name] = {
+                "name": name,
+                "description": "",
+                "visibility": "private",
+                "fork": False,
+                "last_activity": "",
+                "archived": True,
+                "source": source,
+                "owner": owner,
+                "archive_path": f"{sub}/{name}",
+            }
+    return list(discovered.values())
+
+
 def main():
     os.makedirs(PROJECTS_DIR, exist_ok=True)
     os.makedirs(FORKS_DIR, exist_ok=True)
 
+    # Auto-discover projects in the canonical archive repo (source of truth) that
+    # aren't already curated in ARCHIVE_PROJECTS. This keeps the canonical archive
+    # complete even as new projects are added to the repo.
+    archive_projects = discover_archive_projects()
+
     # Tag each project with its archive repo
     projects = []
-    for p in ARCHIVE_PROJECTS:
+    for p in archive_projects:
         p = dict(p)
         p["archive_repo"] = "archive"
         projects.append(p)

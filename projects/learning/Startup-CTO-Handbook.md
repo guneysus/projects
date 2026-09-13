@@ -1,33 +1,34 @@
 # Startup-CTO-Handbook
 
-> The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+> *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
 | Field | Value |
 | --- | --- |
 | **Name** | `Startup-CTO-Handbook` |
-| **Description** | The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams |
+| **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-04-02 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/Startup-CTO-Handbook](https://github.com/guneysus/Startup-CTO-Handbook)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Startup-CTO-Handbook](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Startup-CTO-Handbook)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/Startup-CTO-Handbook`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/Startup-CTO-Handbook)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/Startup-CTO-Handbook`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 

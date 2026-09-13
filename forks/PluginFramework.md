@@ -2,7 +2,7 @@
 
 > Everything is a Plugin in .NET
 
-
+⚠️ **Duplicate copy** — the canonical source is `PluginFramework` in the Archive.
 
 ## Overview
 

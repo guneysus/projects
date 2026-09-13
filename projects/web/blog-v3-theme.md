@@ -2,7 +2,7 @@
 
 > *No description available.*
 
-
+⭐ **Canonical** — this is the single source of truth for this project.
 
 ## Overview
 
@@ -12,22 +12,23 @@
 | **Description** | *No description available.* |
 | **Visibility** | 🔒 Private |
 | **Fork** | No |
-| **Last activity** | 2025-06-05 |
-| **Status** | ❌ Not archived |
+| **Last activity** |  |
+| **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus` |
 
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/blog-v3-theme](https://github.com/guneysus/blog-v3-theme)
-- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-v3-theme](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/blog-v3-theme)
-- **Archive monorepo:** GitHub Projects Archive
-- **Archive path:** `repos/github.com/guneysus-archieve/blog-v3-theme`
+- **Current location:** [https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/blog-v3-theme](https://github.com/guneysus/archive/tree/develop/repos/github.com/guneysus/blog-v3-theme)
+- **Archive monorepo:** Archive
+- **Archive path:** `repos/github.com/guneysus/blog-v3-theme`
 
 ## Archive Origins
 
-- `git@gitlab.com:guneysu/github-guneysus-archive.git`
-- `gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git`
+- `git@github.com:guneysus/archive.git`
+- `git@gitlab.com:guneysu/archive.git`
+- `gitea@192.168.1.19:guneysu.dev/github-archive.git`
 
 ---
 
