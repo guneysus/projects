@@ -571,6 +571,17 @@ def main():
             return f"forks/{slug}.md"
         return f"projects/{category_of(p)}/{slug}.md"
 
+    def rel_nav_path(from_page, to_page):
+        """Compute a markdown link path from one page to another.
+
+        Both are root-relative paths (e.g. projects/dotnet/hg.md). The result
+        is relative to the directory of from_page so the link resolves when
+        rendered from that page's location.
+        """
+        from_dir = os.path.dirname(from_page)
+        rel = os.path.relpath(to_page, from_dir).replace("\\", "/")
+        return rel
+
     canonical = [p for p in projects if not p.get("duplicate_of")]
     originals = [p for p in canonical if not p.get("fork")]
     forks = [p for p in canonical if p.get("fork")]
@@ -604,10 +615,10 @@ def main():
             i = nav_index[id(p)]
             if i > 0:
                 prev_p = ordered[i - 1]
-                prev = {"name": prev_p["name"], "path": page_path(prev_p)}
+                prev = {"name": prev_p["name"], "path": rel_nav_path(path, page_path(prev_p))}
             if i < len(ordered) - 1:
                 next_p = ordered[i + 1]
-                next_ = {"name": next_p["name"], "path": page_path(next_p)}
+                next_ = {"name": next_p["name"], "path": rel_nav_path(path, page_path(next_p))}
 
         page = build_project_page(p, duplicates, source_info, prev, next_)
         with open(path, "w", encoding="utf-8") as f:
