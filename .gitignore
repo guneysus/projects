@@ -1,3 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
+
+# Temp files
+scripts/_*.txt
+scripts/_*.json
