@@ -23,6 +23,8 @@ ARCHIVES = {
     "gitlab-archive": {
         "label": "GitLab Archive",
         "local_path": r"X:\git\gitlab.com\guneysu\gitlab-archive",
+        "web_url": "https://github.com/guneysus/archive",
+        "branch": "main",
         "origins": [
             "git@github.com:guneysus/archive.git",
             "git@gitlab.com:guneysu/gitlab-archive.git",
@@ -31,6 +33,8 @@ ARCHIVES = {
     "github-guneysus-archive": {
         "label": "GitHub Archive",
         "local_path": r"X:\git\gitlab.com\guneysu\github-guneysus-archive",
+        "web_url": "https://gitlab.com/guneysu/github-guneysus-archive",
+        "branch": "main",
         "origins": [
             "git@gitlab.com:guneysu/github-guneysus-archive.git",
             "gitea@192.168.1.19:guneysu.dev/github-guneysus-archive.git",

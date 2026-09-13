@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/Disposable-Pattern](https://github.com/guneysus-archieve/Disposable-Pattern)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Disposable-Pattern](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/Disposable-Pattern)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/Disposable-Pattern`
 

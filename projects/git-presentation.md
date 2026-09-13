@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/git-presentation](https://github.com/guneysus-archieve/git-presentation)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/git-presentation](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/git-presentation)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/git-presentation`
 

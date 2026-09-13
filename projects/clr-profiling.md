@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/clr-profiling](https://github.com/guneysus-archieve/clr-profiling)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/clr-profiling](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/clr-profiling)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/clr-profiling`
 

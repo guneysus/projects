@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/dinq](https://github.com/guneysus-archieve/dinq)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dinq](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dinq)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/dinq`
 

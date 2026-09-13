@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/nemerle](https://github.com/guneysus-archieve/nemerle)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/nemerle](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/nemerle)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/nemerle`
 

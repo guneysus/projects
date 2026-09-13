@@ -47,6 +47,12 @@ def archive_label(project):
     return ARCHIVES[project["archive_repo"]]["label"]
 
 
+def archive_url(project):
+    """Build a clickable link to the project's current location in the archive monorepo."""
+    arch = ARCHIVES[project["archive_repo"]]
+    return f"{arch['web_url']}/tree/{arch['branch']}/{project['archive_path']}"
+
+
 def build_project_page(project, duplicates):
     """Render a single project markdown page."""
     name = project["name"]
@@ -79,6 +85,7 @@ def build_project_page(project, duplicates):
         "## Links",
         "",
         f"- **Original repository:** [{original_url(project)}]({original_url(project)})",
+        f"- **Current location:** [{archive_url(project)}]({archive_url(project)})",
         f"- **Archive monorepo:** {archive_label(project)}",
         f"- **Archive path:** `{project['archive_path']}`",
         "",

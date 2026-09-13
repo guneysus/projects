@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu/dotnet-extension-methods](https://gitlab.com/guneysu/dotnet-extension-methods)
+- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu/dotnet-extension-methods](https://github.com/guneysus/archive/tree/main/repos/guneysu/dotnet-extension-methods)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu/dotnet-extension-methods`
 

@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://gitlab.com/guneysu.dev/cloudflare-worker-get-user](https://gitlab.com/guneysu.dev/cloudflare-worker-get-user)
+- **Current location:** [https://github.com/guneysus/archive/tree/main/repos/guneysu.dev/cloudflare-worker-get-user](https://github.com/guneysus/archive/tree/main/repos/guneysu.dev/cloudflare-worker-get-user)
 - **Archive monorepo:** GitLab Archive
 - **Archive path:** `repos/guneysu.dev/cloudflare-worker-get-user`
 

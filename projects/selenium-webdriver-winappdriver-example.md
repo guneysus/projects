@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/selenium-webdriver-winappdriver-example](https://github.com/guneysus-archieve/selenium-webdriver-winappdriver-example)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/selenium-webdriver-winappdriver-example`
 

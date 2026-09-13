@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus/dotnet-how-to-debug-source-generator-vs2022](https://github.com/guneysus/dotnet-how-to-debug-source-generator-vs2022)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/dotnet-how-to-debug-source-generator-vs2022`
 

@@ -20,6 +20,7 @@
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/docker-baseimage-rdesktop-web](https://github.com/guneysus-archieve/docker-baseimage-rdesktop-web)
+- **Current location:** [https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web](https://gitlab.com/guneysu/github-guneysus-archive/tree/main/repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web)
 - **Archive monorepo:** GitHub Archive
 - **Archive path:** `repos/github.com/guneysus-archieve/docker-baseimage-rdesktop-web`
 
