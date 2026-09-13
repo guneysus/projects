@@ -193,71 +193,71 @@ Some projects exist in **more than one** archive monorepo. They may have differe
 
 | # | Project | Source | Visibility | Archived | Last activity | Description |
 | :-: | --- | :-: | :-: | :-: | :-: | --- |
-| 1 | [aes](projects/aes.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | AES-256 block cipher |
-| 2 | [aes_dust](projects/aes_dust.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Unlicensed tiny / small portable implementation of 128/256-bit AES encryption in C, x86, AMD64, ARM32 and ARM64 assembly |
-| 3 | [Antlr4.Extension](projects/Antlr4.Extension.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 4 | [ascii_b64](projects/ascii_b64.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 5 | [asm](projects/asm.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Learning assembly for linux-x64 |
-| 6 | [asprofiled](projects/asprofiled.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 7 | [aws_list_all](projects/aws_list_all.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | List all your AWS resources, all regions, all services. |
-| 8 | [bin](projects/bin.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
-| 9 | [bin_b64](projects/bin_b64.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 10 | [calc.asm](projects/calc.asm.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Minimal arithmetic calculator in x86 assembly |
-| 11 | [clr-profiling](projects/clr-profiling.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 12 | [coding-interview-university](projects/coding-interview-university.md) | 🐙 GitHub | 🔓 | ✅ | 2021-05-08 | A complete computer science study plan to become a software engineer. |
-| 13 | [CoreHook](projects/CoreHook.md) | 🐙 GitHub | 🔓 | ✅ | 2022-10-13 | A library that simplifies intercepting application function calls using managed code and the .NET Core runtime |
-| 14 | [Craig-s-Utility-Library](projects/Craig-s-Utility-Library.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Main repo for Craig's Utility Library |
-| 15 | [CSharpExpressionTreesInTheRealWorld](projects/CSharpExpressionTreesInTheRealWorld.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Slides plus links for my talk, C# Expression Trees in the Real World |
-| 16 | [de4dot](projects/de4dot.md) | 🐙 GitHub | 🔓 | ✅ | 2023-04-05 | .NET deobfuscator and unpacker. |
-| 17 | [des](projects/des.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 18 | [Design-Patterns](projects/Design-Patterns.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | You can find here bunch of useful design patterns to help your project |
-| 19 | [Disposable-Pattern](projects/Disposable-Pattern.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 20 | [dlr](projects/dlr.md) | 🐙 GitHub | 🔓 | ✅ | 2021-01-03 | Dynamic Language Runtime |
-| 21 | [do-not-reinvent](projects/do-not-reinvent.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | My technical memo |
-| 22 | [docker-baseimage-rdesktop](projects/docker-baseimage-rdesktop.md) | 🐙 GitHub | 🔓 | ✅ | 2022-02-26 | base image for xrdp containers |
-| 23 | [docker-baseimage-rdesktop-web](projects/docker-baseimage-rdesktop-web.md) | 🐙 GitHub | 🔓 | ✅ | 2025-01-15 | Custom all in one container for running GUI apps from a web browser |
-| 24 | [docker-rdesktop](projects/docker-rdesktop.md) | 🐙 GitHub | 🔓 | ✅ | 2022-02-26 |  |
-| 25 | [DoH-IP-blocklists](projects/DoH-IP-blocklists.md) | 🐙 GitHub | 🔓 | ✅ | 2026-08-01 | This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server |
-| 26 | [DotNextMoscow2019](projects/DotNextMoscow2019.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 27 | [EzanVaktiAPI](projects/EzanVaktiAPI.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
-| 28 | [har-spec](projects/har-spec.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | The HTTP Archive Spec |
-| 29 | [heceleme](projects/heceleme.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 30 | [Heijden.Dns](projects/Heijden.Dns.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 31 | [ildasm](projects/ildasm.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 32 | [ILProgramming](projects/ILProgramming.md) | 🐙 GitHub | 🔓 | ✅ | 2023-02-18 | Coding close to the .NET Runtime using ILProj, ildasm, ilasm |
-| 33 | [ILProj](projects/ILProj.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-24 |  |
-| 34 | [keys](projects/keys.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 |  |
-| 35 | [lcnc-security-engine](projects/lcnc-security-engine.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
-| 36 | [LightQuery](projects/LightQuery.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-28 | Lightweight solution for sorting and paging Asp.Net Core API results |
-| 37 | [loadlibrary](projects/loadlibrary.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Porting Windows Dynamic Link Libraries to Linux |
-| 38 | [managed-x86](projects/managed-x86.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 39 | [MethodRedirect](projects/MethodRedirect.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 40 | [minsk](projects/minsk.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
-| 41 | [mssql-TableTruncate](projects/mssql-TableTruncate.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 42 | [mssqlfs](projects/mssqlfs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 43 | [nemerle](projects/nemerle.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-22 | Nemerle language. Main repository. |
-| 44 | [NGINX-Demos](projects/NGINX-Demos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-04 | NGINX and NGINX Plus demos |
-| 45 | [NRules](projects/NRules.md) | 🐙 GitHub | 🔓 | ✅ | 2021-11-03 | Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. |
-| 46 | [ntpserver](projects/ntpserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 47 | [Object-Initialization-in-CSharp](projects/Object-Initialization-in-CSharp.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | A C# Pill that highlights the order in which the fields, properties and constructors, both static and instance, are initialized in C#. |
-| 48 | [Parallel-Evolution](projects/Parallel-Evolution.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 49 | [perfect-presentation](projects/perfect-presentation.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-25 | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
-| 50 | [performance-optimization](projects/performance-optimization.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Guidance on how to observe, measure, and correct common issues in a cloud-based system. |
-| 51 | [PiOBDII](projects/PiOBDII.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 52 | [playbook](projects/playbook.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 53 | [PluginFramework](projects/PluginFramework.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-21 | Everything is a Plugin in .NET |
-| 54 | [pose](projects/pose.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Replace any .NET method (including static and non-virtual) with a delegate |
-| 55 | [project-switcher](projects/project-switcher.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | hassle free project switching |
-| 56 | [Random-Problems](projects/Random-Problems.md) | 🐙 GitHub | 🔓 | ✅ | 2021-12-16 | What actually happens when we use a Random instance from multiple threads? Can we do something to make it thread-safe? |
-| 57 | [selenium-webdriver-winappdriver-example](projects/selenium-webdriver-winappdriver-example.md) | 🐙 GitHub | 🔓 | ✅ | 2022-01-04 | An example of selenium-webdriver and winappdriver integration |
-| 58 | [snake](projects/snake.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
-| 59 | [sscli20_20060311](projects/sscli20_20060311.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Version: 2.0 Date Published: 3/23/2006. The Shared Source CLI is a compressed archive of the source code to a working implementation of the ECMA CLI and the ECMA C# language specification. This implementation builds and runs on Windows XP. |
-| 60 | [symreader-converter](projects/symreader-converter.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Converts between Windows PDB and Portable PDB formats. |
-| 61 | [Todos](projects/Todos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-26 | Various todo list backend API implementations |
-| 62 | [understanding-csrf](projects/understanding-csrf.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | What are CSRF tokens and how do they work? |
-| 63 | [uxplay](projects/uxplay.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 |  |
-| 64 | [Virtual-in-Constructor](projects/Virtual-in-Constructor.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
-| 65 | [vulnerable-api](projects/vulnerable-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 1 | [aes](forks/aes.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | AES-256 block cipher |
+| 2 | [aes_dust](forks/aes_dust.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Unlicensed tiny / small portable implementation of 128/256-bit AES encryption in C, x86, AMD64, ARM32 and ARM64 assembly |
+| 3 | [Antlr4.Extension](forks/Antlr4.Extension.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 4 | [ascii_b64](forks/ascii_b64.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 5 | [asm](forks/asm.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Learning assembly for linux-x64 |
+| 6 | [asprofiled](forks/asprofiled.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 7 | [aws_list_all](forks/aws_list_all.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | List all your AWS resources, all regions, all services. |
+| 8 | [bin](forks/bin.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 |  |
+| 9 | [bin_b64](forks/bin_b64.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 10 | [calc.asm](forks/calc.asm.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Minimal arithmetic calculator in x86 assembly |
+| 11 | [clr-profiling](forks/clr-profiling.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 12 | [coding-interview-university](forks/coding-interview-university.md) | 🐙 GitHub | 🔓 | ✅ | 2021-05-08 | A complete computer science study plan to become a software engineer. |
+| 13 | [CoreHook](forks/CoreHook.md) | 🐙 GitHub | 🔓 | ✅ | 2022-10-13 | A library that simplifies intercepting application function calls using managed code and the .NET Core runtime |
+| 14 | [Craig-s-Utility-Library](forks/Craig-s-Utility-Library.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Main repo for Craig's Utility Library |
+| 15 | [CSharpExpressionTreesInTheRealWorld](forks/CSharpExpressionTreesInTheRealWorld.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Slides plus links for my talk, C# Expression Trees in the Real World |
+| 16 | [de4dot](forks/de4dot.md) | 🐙 GitHub | 🔓 | ✅ | 2023-04-05 | .NET deobfuscator and unpacker. |
+| 17 | [des](forks/des.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 18 | [Design-Patterns](forks/Design-Patterns.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | You can find here bunch of useful design patterns to help your project |
+| 19 | [Disposable-Pattern](forks/Disposable-Pattern.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 20 | [dlr](forks/dlr.md) | 🐙 GitHub | 🔓 | ✅ | 2021-01-03 | Dynamic Language Runtime |
+| 21 | [do-not-reinvent](forks/do-not-reinvent.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | My technical memo |
+| 22 | [docker-baseimage-rdesktop](forks/docker-baseimage-rdesktop.md) | 🐙 GitHub | 🔓 | ✅ | 2022-02-26 | base image for xrdp containers |
+| 23 | [docker-baseimage-rdesktop-web](forks/docker-baseimage-rdesktop-web.md) | 🐙 GitHub | 🔓 | ✅ | 2025-01-15 | Custom all in one container for running GUI apps from a web browser |
+| 24 | [docker-rdesktop](forks/docker-rdesktop.md) | 🐙 GitHub | 🔓 | ✅ | 2022-02-26 |  |
+| 25 | [DoH-IP-blocklists](forks/DoH-IP-blocklists.md) | 🐙 GitHub | 🔓 | ✅ | 2026-08-01 | This repo contains the domain names and the IPv4/IPv6 addresses of public DoH server |
+| 26 | [DotNextMoscow2019](forks/DotNextMoscow2019.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 27 | [EzanVaktiAPI](forks/EzanVaktiAPI.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 | Tüm dünya ülkeleri için Diyanet İşleri Başkanlığı'nın yıllık ezan vakitleri. |
+| 28 | [har-spec](forks/har-spec.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | The HTTP Archive Spec |
+| 29 | [heceleme](forks/heceleme.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 30 | [Heijden.Dns](forks/Heijden.Dns.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 31 | [ildasm](forks/ildasm.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 32 | [ILProgramming](forks/ILProgramming.md) | 🐙 GitHub | 🔓 | ✅ | 2023-02-18 | Coding close to the .NET Runtime using ILProj, ildasm, ilasm |
+| 33 | [ILProj](forks/ILProj.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-24 |  |
+| 34 | [keys](forks/keys.md) | 🐙 GitHub | 🔓 | ❌ | 2023-01-28 |  |
+| 35 | [lcnc-security-engine](forks/lcnc-security-engine.md) | 🐙 GitHub | 🔓 | ❌ | 2026-07-06 | Static security analysis engine for low-code / no-code workflows (parsguru, n8n, make etc..). Detects hardcoded secrets, insecure transport, blind trust, and more - with optional LLM-powered semantic review. |
+| 36 | [LightQuery](forks/LightQuery.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-28 | Lightweight solution for sorting and paging Asp.Net Core API results |
+| 37 | [loadlibrary](forks/loadlibrary.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Porting Windows Dynamic Link Libraries to Linux |
+| 38 | [managed-x86](forks/managed-x86.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 39 | [MethodRedirect](forks/MethodRedirect.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 40 | [minsk](forks/minsk.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
+| 41 | [mssql-TableTruncate](forks/mssql-TableTruncate.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 42 | [mssqlfs](forks/mssqlfs.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 43 | [nemerle](forks/nemerle.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-22 | Nemerle language. Main repository. |
+| 44 | [NGINX-Demos](forks/NGINX-Demos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-04-04 | NGINX and NGINX Plus demos |
+| 45 | [NRules](forks/NRules.md) | 🐙 GitHub | 🔓 | ✅ | 2021-11-03 | Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. |
+| 46 | [ntpserver](forks/ntpserver.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 47 | [Object-Initialization-in-CSharp](forks/Object-Initialization-in-CSharp.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | A C# Pill that highlights the order in which the fields, properties and constructors, both static and instance, are initialized in C#. |
+| 48 | [Parallel-Evolution](forks/Parallel-Evolution.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 49 | [perfect-presentation](forks/perfect-presentation.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-25 | This project contains all steps which you need to make a perfect presentation. You creating a wonderful presentation is our role and our priority. |
+| 50 | [performance-optimization](forks/performance-optimization.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Guidance on how to observe, measure, and correct common issues in a cloud-based system. |
+| 51 | [PiOBDII](forks/PiOBDII.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 52 | [playbook](forks/playbook.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 53 | [PluginFramework](forks/PluginFramework.md) | 🐙 GitHub | 🔓 | ❌ | 2025-10-21 | Everything is a Plugin in .NET |
+| 54 | [pose](forks/pose.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Replace any .NET method (including static and non-virtual) with a delegate |
+| 55 | [project-switcher](forks/project-switcher.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | hassle free project switching |
+| 56 | [Random-Problems](forks/Random-Problems.md) | 🐙 GitHub | 🔓 | ✅ | 2021-12-16 | What actually happens when we use a Random instance from multiple threads? Can we do something to make it thread-safe? |
+| 57 | [selenium-webdriver-winappdriver-example](forks/selenium-webdriver-winappdriver-example.md) | 🐙 GitHub | 🔓 | ✅ | 2022-01-04 | An example of selenium-webdriver and winappdriver integration |
+| 58 | [snake](forks/snake.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
+| 59 | [sscli20_20060311](forks/sscli20_20060311.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | Version: 2.0 Date Published: 3/23/2006. The Shared Source CLI is a compressed archive of the source code to a working implementation of the ECMA CLI and the ECMA C# language specification. This implementation builds and runs on Windows XP. |
+| 60 | [symreader-converter](forks/symreader-converter.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-28 | Converts between Windows PDB and Portable PDB formats. |
+| 61 | [Todos](forks/Todos.md) | 🐙 GitHub | 🔓 | ✅ | 2021-02-26 | Various todo list backend API implementations |
+| 62 | [understanding-csrf](forks/understanding-csrf.md) | 🐙 GitHub | 🔓 | ✅ | 2023-01-28 | What are CSRF tokens and how do they work? |
+| 63 | [uxplay](forks/uxplay.md) | 🐙 GitHub | 🔓 | ✅ | 2024-10-14 |  |
+| 64 | [Virtual-in-Constructor](forks/Virtual-in-Constructor.md) | 🐙 GitHub | 🔓 | ✅ | 2022-12-19 | This pill demonstrates why it is not a good idea to call abstract or virtual methods from the constructor. |
+| 65 | [vulnerable-api](forks/vulnerable-api.md) | 🐙 GitHub | 🔒 | ✅ | 2024-10-14 |  |
 
 ---
 
