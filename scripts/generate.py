@@ -153,14 +153,14 @@ def build_readme(projects, duplicates):
         lines.append("_No duplicates detected._")
     lines.append("")
 
-    # Combined table for all projects (originals + forks), with source column
+    # Combined table for original projects only (forks excluded)
     lines += [
         "## 🗂️ Projects",
         "",
         "| # | Project | Source | Visibility | Archived | Last activity | Description |",
         "| :-: | --- | :-: | :-: | :-: | :-: | --- |",
     ]
-    for i, p in enumerate(sorted(originals + forks, key=lambda x: x["name"].lower()), start=1):
+    for i, p in enumerate(sorted(originals, key=lambda x: x["name"].lower()), start=1):
         dup = " ⚠️" if p["name"] in duplicates else ""
         src = "🐙 GitHub" if p["source"] == "github" else "🦊 GitLab"
         lines.append(
