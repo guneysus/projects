@@ -24,7 +24,6 @@
 | **Idea score** | 60 |
 | **Impl score** | 50 |
 | **Rating** | 56 |
-
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/snake](https://github.com/guneysus-archieve/snake)

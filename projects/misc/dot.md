@@ -17,7 +17,6 @@
 | **Status** | ✅ Archived |
 | **Original source** | Github |
 | **Original owner** | `guneysus-archieve` |
-
 ## Links
 
 - **Original repository:** [https://github.com/guneysus-archieve/dot](https://github.com/guneysus-archieve/dot)
